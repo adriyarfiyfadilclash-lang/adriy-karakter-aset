@@ -2844,7 +2844,9 @@
    "transparan": true,
    "kata": [
     "obat",
-    "pil"
+    "pil",
+    "tablet obat",
+    "kapsul"
    ],
    "sumber": "https://openclipart.org/detail/304144",
    "judul_asli": "Prescription Medicine",
@@ -3964,6 +3966,2025 @@
    ],
    "sumber": "https://openclipart.org/detail/278748",
    "judul_asli": "Egyptian Pyramids",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/gula.png",
+   "nama": "gula",
+   "base": "gula",
+   "kategori": "benda",
+   "kelompok": "dapur",
+   "w": 657,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "gula",
+    "gula pasir"
+   ],
+   "sumber": "https://openclipart.org/detail/232076",
+   "judul_asli": "Bag of Sugar",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/cokelat.png",
+   "nama": "cokelat",
+   "base": "cokelat",
+   "kategori": "benda",
+   "kelompok": "makanan",
+   "w": 569,
+   "h": 472,
+   "transparan": true,
+   "kata": [
+    "cokelat batangan",
+    "cokelat"
+   ],
+   "sumber": "https://openclipart.org/detail/238326",
+   "judul_asli": "Chocolate bar",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/baterai.png",
+   "nama": "baterai",
+   "base": "baterai",
+   "kategori": "benda",
+   "kelompok": "teknologi",
+   "w": 223,
+   "h": 778,
+   "transparan": true,
+   "kata": [
+    "baterai"
+   ],
+   "sumber": "https://openclipart.org/detail/178847",
+   "judul_asli": "battery AA, elementas AA",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/gigi.png",
+   "nama": "gigi",
+   "base": "gigi",
+   "kategori": "benda",
+   "kelompok": "tubuh",
+   "w": 714,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "gigi"
+   ],
+   "sumber": "https://openclipart.org/detail/320964",
+   "judul_asli": "Gold tooth",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/bola.png",
+   "nama": "bola",
+   "base": "bola",
+   "kategori": "benda",
+   "kelompok": "olahraga",
+   "w": 751,
+   "h": 786,
+   "transparan": true,
+   "kata": [
+    "bola",
+    "bola sepak"
+   ],
+   "sumber": "https://openclipart.org/detail/336076",
+   "judul_asli": "Soccer Ball",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/awan.png",
+   "nama": "awan",
+   "base": "awan",
+   "kategori": "benda",
+   "kelompok": "alam",
+   "w": 714,
+   "h": 380,
+   "transparan": true,
+   "kata": [
+    "awan"
+   ],
+   "sumber": "https://openclipart.org/detail/281571",
+   "judul_asli": "Baby Cloud",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/sendok.png",
+   "nama": "sendok",
+   "base": "sendok",
+   "kategori": "benda",
+   "kelompok": "dapur",
+   "w": 183,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "sendok"
+   ],
+   "sumber": "https://openclipart.org/detail/170122",
+   "judul_asli": "Cooking spoon",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/garpu.png",
+   "nama": "garpu",
+   "base": "garpu",
+   "kategori": "benda",
+   "kelompok": "dapur",
+   "w": 674,
+   "h": 94,
+   "transparan": true,
+   "kata": [
+    "garpu"
+   ],
+   "sumber": "https://openclipart.org/detail/240763",
+   "judul_asli": "Fork 2",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/pisau.png",
+   "nama": "pisau",
+   "base": "pisau",
+   "kategori": "benda",
+   "kelompok": "dapur",
+   "w": 619,
+   "h": 763,
+   "transparan": true,
+   "kata": [
+    "pisau"
+   ],
+   "sumber": "https://openclipart.org/detail/315496",
+   "judul_asli": "Cutting Board and Knife",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/piring.png",
+   "nama": "piring",
+   "base": "piring",
+   "kategori": "benda",
+   "kelompok": "dapur",
+   "w": 750,
+   "h": 314,
+   "transparan": true,
+   "kata": [
+    "piring"
+   ],
+   "sumber": "https://openclipart.org/detail/214301",
+   "judul_asli": "plate - coloured",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/mangkuk.png",
+   "nama": "mangkuk",
+   "base": "mangkuk",
+   "kategori": "benda",
+   "kelompok": "dapur",
+   "w": 748,
+   "h": 465,
+   "transparan": true,
+   "kata": [
+    "mangkuk",
+    "mangkok"
+   ],
+   "sumber": "https://openclipart.org/detail/179982",
+   "judul_asli": "Stone Crockery Bowl",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/blender.png",
+   "nama": "blender",
+   "base": "blender",
+   "kategori": "benda",
+   "kelompok": "dapur",
+   "w": 730,
+   "h": 782,
+   "transparan": true,
+   "kata": [
+    "blender"
+   ],
+   "sumber": "https://openclipart.org/detail/293893",
+   "judul_asli": "electric blender",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/penanak_nasi.png",
+   "nama": "penanak_nasi",
+   "base": "penanak_nasi",
+   "kategori": "benda",
+   "kelompok": "dapur",
+   "w": 726,
+   "h": 596,
+   "transparan": true,
+   "kata": [
+    "rice cooker",
+    "penanak nasi",
+    "magic com"
+   ],
+   "sumber": "https://openclipart.org/detail/91207",
+   "judul_asli": " electric rice cook",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/pemanggang_roti.png",
+   "nama": "pemanggang_roti",
+   "base": "pemanggang_roti",
+   "kategori": "benda",
+   "kelompok": "dapur",
+   "w": 766,
+   "h": 662,
+   "transparan": true,
+   "kata": [
+    "pemanggang roti",
+    "toaster"
+   ],
+   "sumber": "https://openclipart.org/detail/292938",
+   "judul_asli": "toaster",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/kue.png",
+   "nama": "kue",
+   "base": "kue",
+   "kategori": "benda",
+   "kelompok": "makanan",
+   "w": 800,
+   "h": 753,
+   "transparan": true,
+   "kata": [
+    "kue ulang tahun",
+    "kue tart",
+    "kue"
+   ],
+   "sumber": "https://openclipart.org/detail/292045",
+   "judul_asli": "Birthday Cake",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/donat.png",
+   "nama": "donat",
+   "base": "donat",
+   "kategori": "benda",
+   "kelompok": "makanan",
+   "w": 615,
+   "h": 616,
+   "transparan": true,
+   "kata": [
+    "donat"
+   ],
+   "sumber": "https://openclipart.org/detail/248897",
+   "judul_asli": "Stars and Sprinkles Donut",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/kentang.png",
+   "nama": "kentang",
+   "base": "kentang",
+   "kategori": "benda",
+   "kelompok": "makanan",
+   "w": 800,
+   "h": 608,
+   "transparan": true,
+   "kata": [
+    "kentang"
+   ],
+   "sumber": "https://openclipart.org/detail/262019",
+   "judul_asli": "Baked potato",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/tomat.png",
+   "nama": "tomat",
+   "base": "tomat",
+   "kategori": "benda",
+   "kelompok": "makanan",
+   "w": 750,
+   "h": 743,
+   "transparan": true,
+   "kata": [
+    "tomat"
+   ],
+   "sumber": "https://openclipart.org/detail/213975",
+   "judul_asli": "tomato - coloured",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/anggur.png",
+   "nama": "anggur",
+   "base": "anggur",
+   "kategori": "benda",
+   "kelompok": "buah",
+   "w": 800,
+   "h": 413,
+   "transparan": true,
+   "kata": [
+    "anggur"
+   ],
+   "sumber": "https://openclipart.org/detail/276880",
+   "judul_asli": "Grapes",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/stroberi.png",
+   "nama": "stroberi",
+   "base": "stroberi",
+   "kategori": "benda",
+   "kelompok": "buah",
+   "w": 721,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "stroberi"
+   ],
+   "sumber": "https://openclipart.org/detail/209684",
+   "judul_asli": "Food Strawberry",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/nanas.png",
+   "nama": "nanas",
+   "base": "nanas",
+   "kategori": "benda",
+   "kelompok": "buah",
+   "w": 304,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "nanas"
+   ],
+   "sumber": "https://openclipart.org/detail/314593",
+   "judul_asli": "pineapple (abstract)",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/kelapa.png",
+   "nama": "kelapa",
+   "base": "kelapa",
+   "kategori": "benda",
+   "kelompok": "buah",
+   "w": 393,
+   "h": 626,
+   "transparan": true,
+   "kata": [
+    "buah kelapa",
+    "kelapa"
+   ],
+   "sumber": "https://openclipart.org/detail/132199",
+   "judul_asli": "coconut icon",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/jagung.png",
+   "nama": "jagung",
+   "base": "jagung",
+   "kategori": "benda",
+   "kelompok": "makanan",
+   "w": 725,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "jagung"
+   ],
+   "sumber": "https://openclipart.org/detail/334727",
+   "judul_asli": "Corn #2",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/ayam_goreng.png",
+   "nama": "ayam_goreng",
+   "base": "ayam_goreng",
+   "kategori": "benda",
+   "kelompok": "makanan",
+   "w": 800,
+   "h": 520,
+   "transparan": true,
+   "kata": [
+    "ayam goreng"
+   ],
+   "sumber": "https://openclipart.org/detail/262018",
+   "judul_asli": "Fried chicken",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/botol_air.png",
+   "nama": "botol_air",
+   "base": "botol_air",
+   "kategori": "benda",
+   "kelompok": "minuman",
+   "w": 258,
+   "h": 640,
+   "transparan": true,
+   "kata": [
+    "botol minum",
+    "botol air",
+    "botol"
+   ],
+   "sumber": "https://openclipart.org/detail/315806",
+   "judul_asli": "Bottled Water",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/kaleng.png",
+   "nama": "kaleng",
+   "base": "kaleng",
+   "kategori": "benda",
+   "kelompok": "minuman",
+   "w": 428,
+   "h": 792,
+   "transparan": true,
+   "kata": [
+    "kaleng",
+    "minuman kaleng"
+   ],
+   "sumber": "https://openclipart.org/detail/303332",
+   "judul_asli": "Soda Can",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/keju.png",
+   "nama": "keju",
+   "base": "keju",
+   "kategori": "benda",
+   "kelompok": "makanan",
+   "w": 786,
+   "h": 551,
+   "transparan": true,
+   "kata": [
+    "keju"
+   ],
+   "sumber": "https://openclipart.org/detail/314575",
+   "judul_asli": "Moldy Cheese",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/popcorn.png",
+   "nama": "popcorn",
+   "base": "popcorn",
+   "kategori": "benda",
+   "kelompok": "makanan",
+   "w": 665,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "popcorn",
+    "berondong"
+   ],
+   "sumber": "https://openclipart.org/detail/326967",
+   "judul_asli": "Movie Popcorn with Logo",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/sayuran.png",
+   "nama": "sayuran",
+   "base": "sayuran",
+   "kategori": "benda",
+   "kelompok": "makanan",
+   "w": 744,
+   "h": 635,
+   "transparan": true,
+   "kata": [
+    "sayuran",
+    "sayur"
+   ],
+   "sumber": "https://openclipart.org/detail/317408",
+   "judul_asli": "Some vegetables",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/rumah.png",
+   "nama": "rumah",
+   "base": "rumah",
+   "kategori": "benda",
+   "kelompok": "rumah",
+   "w": 800,
+   "h": 604,
+   "transparan": true,
+   "kata": [
+    "sebuah rumah",
+    "rumah"
+   ],
+   "sumber": "https://openclipart.org/detail/179978",
+   "judul_asli": "Yellow detached house",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/jendela.png",
+   "nama": "jendela",
+   "base": "jendela",
+   "kategori": "benda",
+   "kelompok": "rumah",
+   "w": 800,
+   "h": 650,
+   "transparan": true,
+   "kata": [
+    "jendela"
+   ],
+   "sumber": "https://openclipart.org/detail/229807",
+   "judul_asli": "Truly transparent window",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/meja.png",
+   "nama": "meja",
+   "base": "meja",
+   "kategori": "benda",
+   "kelompok": "rumah",
+   "w": 750,
+   "h": 625,
+   "transparan": true,
+   "kata": [
+    "meja"
+   ],
+   "sumber": "https://openclipart.org/detail/214557",
+   "judul_asli": "table - coloured",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/sofa.png",
+   "nama": "sofa",
+   "base": "sofa",
+   "kategori": "benda",
+   "kelompok": "rumah",
+   "w": 764,
+   "h": 451,
+   "transparan": true,
+   "kata": [
+    "sofa"
+   ],
+   "sumber": "https://openclipart.org/detail/245463",
+   "judul_asli": "sofa - coloured",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/sapu.png",
+   "nama": "sapu",
+   "base": "sapu",
+   "kategori": "benda",
+   "kelompok": "rumah",
+   "w": 627,
+   "h": 750,
+   "transparan": true,
+   "kata": [
+    "sapu"
+   ],
+   "sumber": "https://openclipart.org/detail/213736",
+   "judul_asli": "broom - coloured",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/setrika.png",
+   "nama": "setrika",
+   "base": "setrika",
+   "kategori": "benda",
+   "kelompok": "rumah",
+   "w": 800,
+   "h": 628,
+   "transparan": true,
+   "kata": [
+    "setrika"
+   ],
+   "sumber": "https://openclipart.org/detail/1634",
+   "judul_asli": "clothes iron",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/penyedot_debu.png",
+   "nama": "penyedot_debu",
+   "base": "penyedot_debu",
+   "kategori": "benda",
+   "kelompok": "rumah",
+   "w": 381,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "penyedot debu",
+    "vacuum cleaner"
+   ],
+   "sumber": "https://openclipart.org/detail/13321",
+   "judul_asli": "vacuum cleaner upright",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/tempat_sampah.png",
+   "nama": "tempat_sampah",
+   "base": "tempat_sampah",
+   "kategori": "benda",
+   "kelompok": "rumah",
+   "w": 221,
+   "h": 323,
+   "transparan": true,
+   "kata": [
+    "tempat sampah",
+    "sampah"
+   ],
+   "sumber": "https://openclipart.org/detail/273875",
+   "judul_asli": "Trash Can",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/kantong_plastik.png",
+   "nama": "kantong_plastik",
+   "base": "kantong_plastik",
+   "kategori": "benda",
+   "kelompok": "rumah",
+   "w": 584,
+   "h": 755,
+   "transparan": true,
+   "kata": [
+    "kantong plastik",
+    "kantong kresek",
+    "plastik"
+   ],
+   "sumber": "https://openclipart.org/detail/303136",
+   "judul_asli": "Plastic Shopping Bag",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/kardus.png",
+   "nama": "kardus",
+   "base": "kardus",
+   "kategori": "benda",
+   "kelompok": "rumah",
+   "w": 760,
+   "h": 568,
+   "transparan": true,
+   "kata": [
+    "kardus",
+    "kotak kardus"
+   ],
+   "sumber": "https://openclipart.org/detail/192847",
+   "judul_asli": "Cardboard Box",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/gembok.png",
+   "nama": "gembok",
+   "base": "gembok",
+   "kategori": "benda",
+   "kelompok": "rumah",
+   "w": 629,
+   "h": 788,
+   "transparan": true,
+   "kata": [
+    "gembok"
+   ],
+   "sumber": "https://openclipart.org/detail/33541",
+   "judul_asli": "padlock blue",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/senter.png",
+   "nama": "senter",
+   "base": "senter",
+   "kategori": "benda",
+   "kelompok": "rumah",
+   "w": 798,
+   "h": 564,
+   "transparan": true,
+   "kata": [
+    "senter"
+   ],
+   "sumber": "https://openclipart.org/detail/171952",
+   "judul_asli": "Real Light",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/korek_api.png",
+   "nama": "korek_api",
+   "base": "korek_api",
+   "kategori": "benda",
+   "kelompok": "rumah",
+   "w": 713,
+   "h": 448,
+   "transparan": true,
+   "kata": [
+    "korek api"
+   ],
+   "sumber": "https://openclipart.org/detail/223510",
+   "judul_asli": "matches",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/kotak_p3k.png",
+   "nama": "kotak_p3k",
+   "base": "kotak_p3k",
+   "kategori": "benda",
+   "kelompok": "kesehatan",
+   "w": 766,
+   "h": 754,
+   "transparan": true,
+   "kata": [
+    "kotak p3k",
+    "p3k"
+   ],
+   "sumber": "https://openclipart.org/detail/303165",
+   "judul_asli": "First Aid Kit",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/kacamata.png",
+   "nama": "kacamata",
+   "base": "kacamata",
+   "kategori": "benda",
+   "kelompok": "pribadi",
+   "w": 782,
+   "h": 202,
+   "transparan": true,
+   "kata": [
+    "kacamata"
+   ],
+   "sumber": "https://openclipart.org/detail/317472",
+   "judul_asli": "Eyeglasses (#5)",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/sepatu.png",
+   "nama": "sepatu",
+   "base": "sepatu",
+   "kategori": "benda",
+   "kelompok": "pribadi",
+   "w": 800,
+   "h": 492,
+   "transparan": true,
+   "kata": [
+    "sepatu"
+   ],
+   "sumber": "https://openclipart.org/detail/319669",
+   "judul_asli": "Blue sneakers",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/kaos.png",
+   "nama": "kaos",
+   "base": "kaos",
+   "kategori": "benda",
+   "kelompok": "pribadi",
+   "w": 787,
+   "h": 320,
+   "transparan": true,
+   "kata": [
+    "kaos",
+    "baju"
+   ],
+   "sumber": "https://openclipart.org/detail/192435",
+   "judul_asli": "t-shirt",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/topi.png",
+   "nama": "topi",
+   "base": "topi",
+   "kategori": "benda",
+   "kelompok": "pribadi",
+   "w": 792,
+   "h": 504,
+   "transparan": true,
+   "kata": [
+    "topi"
+   ],
+   "sumber": "https://openclipart.org/detail/342026",
+   "judul_asli": "Death Star contractor's cap",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/koper.png",
+   "nama": "koper",
+   "base": "koper",
+   "kategori": "benda",
+   "kelompok": "pribadi",
+   "w": 430,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "koper"
+   ],
+   "sumber": "https://openclipart.org/detail/181230",
+   "judul_asli": "luggage",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/paspor.png",
+   "nama": "paspor",
+   "base": "paspor",
+   "kategori": "benda",
+   "kelompok": "pribadi",
+   "w": 746,
+   "h": 581,
+   "transparan": true,
+   "kata": [
+    "paspor"
+   ],
+   "sumber": "https://openclipart.org/detail/170991",
+   "judul_asli": "Passport and Ticket",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/tiket.png",
+   "nama": "tiket",
+   "base": "tiket",
+   "kategori": "benda",
+   "kelompok": "pribadi",
+   "w": 800,
+   "h": 311,
+   "transparan": true,
+   "kata": [
+    "tiket"
+   ],
+   "sumber": "https://openclipart.org/detail/210258",
+   "judul_asli": "Misc Gameshow Ticket",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/amplop.png",
+   "nama": "amplop",
+   "base": "amplop",
+   "kategori": "benda",
+   "kelompok": "pribadi",
+   "w": 765,
+   "h": 374,
+   "transparan": true,
+   "kata": [
+    "amplop",
+    "surat"
+   ],
+   "sumber": "https://openclipart.org/detail/246762",
+   "judul_asli": "Letter",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/kotak_surat.png",
+   "nama": "kotak_surat",
+   "base": "kotak_surat",
+   "kategori": "benda",
+   "kelompok": "pribadi",
+   "w": 539,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "kotak surat"
+   ],
+   "sumber": "https://openclipart.org/detail/330530",
+   "judul_asli": "Mailbox - Colour Remix",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/lonceng.png",
+   "nama": "lonceng",
+   "base": "lonceng",
+   "kategori": "benda",
+   "kelompok": "lainnya",
+   "w": 530,
+   "h": 546,
+   "transparan": true,
+   "kata": [
+    "lonceng",
+    "bel"
+   ],
+   "sumber": "https://openclipart.org/detail/189316",
+   "judul_asli": "Bell",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/megafon.png",
+   "nama": "megafon",
+   "base": "megafon",
+   "kategori": "benda",
+   "kelompok": "lainnya",
+   "w": 789,
+   "h": 362,
+   "transparan": true,
+   "kata": [
+    "megafon",
+    "toa",
+    "pengeras suara"
+   ],
+   "sumber": "https://openclipart.org/detail/216624",
+   "judul_asli": "Call for action",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/tablet.png",
+   "nama": "tablet",
+   "base": "tablet",
+   "kategori": "benda",
+   "kelompok": "teknologi",
+   "w": 778,
+   "h": 658,
+   "transparan": true,
+   "kata": [
+    "tablet"
+   ],
+   "sumber": "https://openclipart.org/detail/230071",
+   "judul_asli": "Person Holding Tablet",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/jam_pintar.png",
+   "nama": "jam_pintar",
+   "base": "jam_pintar",
+   "kategori": "benda",
+   "kelompok": "teknologi",
+   "w": 594,
+   "h": 466,
+   "transparan": true,
+   "kata": [
+    "jam pintar",
+    "smartwatch"
+   ],
+   "sumber": "https://openclipart.org/detail/331351",
+   "judul_asli": "Smartwatch silhouette",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/router.png",
+   "nama": "router",
+   "base": "router",
+   "kategori": "benda",
+   "kelompok": "teknologi",
+   "w": 800,
+   "h": 757,
+   "transparan": true,
+   "kata": [
+    "router",
+    "wifi"
+   ],
+   "sumber": "https://openclipart.org/detail/191484",
+   "judul_asli": "wifi-router",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/mouse.png",
+   "nama": "mouse",
+   "base": "mouse",
+   "kategori": "benda",
+   "kelompok": "teknologi",
+   "w": 733,
+   "h": 457,
+   "transparan": true,
+   "kata": [
+    "mouse"
+   ],
+   "sumber": "https://openclipart.org/detail/170945",
+   "judul_asli": "mouse (computer)",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/keyboard.png",
+   "nama": "keyboard",
+   "base": "keyboard",
+   "kategori": "benda",
+   "kelompok": "teknologi",
+   "w": 800,
+   "h": 187,
+   "transparan": true,
+   "kata": [
+    "keyboard",
+    "papan ketik"
+   ],
+   "sumber": "https://openclipart.org/detail/354627",
+   "judul_asli": "Black Modern Gaming or Business Keyboard and Mouse Icon",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/printer.png",
+   "nama": "printer",
+   "base": "printer",
+   "kategori": "benda",
+   "kelompok": "teknologi",
+   "w": 722,
+   "h": 696,
+   "transparan": true,
+   "kata": [
+    "printer"
+   ],
+   "sumber": "https://openclipart.org/detail/34897",
+   "judul_asli": "tango printer",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/flashdisk.png",
+   "nama": "flashdisk",
+   "base": "flashdisk",
+   "kategori": "benda",
+   "kelompok": "teknologi",
+   "w": 728,
+   "h": 565,
+   "transparan": true,
+   "kata": [
+    "flashdisk",
+    "usb"
+   ],
+   "sumber": "https://openclipart.org/detail/116653",
+   "judul_asli": "USB Flash Drive",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/chip.png",
+   "nama": "chip",
+   "base": "chip",
+   "kategori": "benda",
+   "kelompok": "teknologi",
+   "w": 800,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "chip",
+    "cip",
+    "prosesor"
+   ],
+   "sumber": "https://openclipart.org/detail/224678",
+   "judul_asli": "Generic SMD TQFP32 IC Package",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/server.png",
+   "nama": "server",
+   "base": "server",
+   "kategori": "benda",
+   "kelompok": "teknologi",
+   "w": 728,
+   "h": 254,
+   "transparan": true,
+   "kata": [
+    "server",
+    "data center"
+   ],
+   "sumber": "https://openclipart.org/detail/276787",
+   "judul_asli": "4U rack server",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/speaker.png",
+   "nama": "speaker",
+   "base": "speaker",
+   "kategori": "benda",
+   "kelompok": "teknologi",
+   "w": 449,
+   "h": 777,
+   "transparan": true,
+   "kata": [
+    "speaker"
+   ],
+   "sumber": "https://openclipart.org/detail/176992",
+   "judul_asli": "Studio Speaker 1 Orange Grill",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/mikrofon.png",
+   "nama": "mikrofon",
+   "base": "mikrofon",
+   "kategori": "benda",
+   "kelompok": "teknologi",
+   "w": 375,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "mikrofon",
+    "mic"
+   ],
+   "sumber": "https://openclipart.org/detail/278004",
+   "judul_asli": "Microphone",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/panel_surya.png",
+   "nama": "panel_surya",
+   "base": "panel_surya",
+   "kategori": "benda",
+   "kelompok": "energi",
+   "w": 800,
+   "h": 689,
+   "transparan": true,
+   "kata": [
+    "panel surya",
+    "tenaga surya"
+   ],
+   "sumber": "https://openclipart.org/detail/291659",
+   "judul_asli": "Simple PV panel",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/kincir_angin.png",
+   "nama": "kincir_angin",
+   "base": "kincir_angin",
+   "kategori": "benda",
+   "kelompok": "energi",
+   "w": 484,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "kincir angin",
+    "turbin angin"
+   ],
+   "sumber": "https://openclipart.org/detail/282339",
+   "judul_asli": "Wind turbine vectorized",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/lampu_lalu_lintas.png",
+   "nama": "lampu_lalu_lintas",
+   "base": "lampu_lalu_lintas",
+   "kategori": "benda",
+   "kelompok": "kota",
+   "w": 268,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "lampu lalu lintas",
+    "lampu merah"
+   ],
+   "sumber": "https://openclipart.org/detail/287747",
+   "judul_asli": "Traffic light (red)",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/atm.png",
+   "nama": "atm",
+   "base": "atm",
+   "kategori": "benda",
+   "kelompok": "uang",
+   "w": 564,
+   "h": 746,
+   "transparan": true,
+   "kata": [
+    "atm",
+    "mesin atm"
+   ],
+   "sumber": "https://openclipart.org/detail/195111",
+   "judul_asli": "atm",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/brankas.png",
+   "nama": "brankas",
+   "base": "brankas",
+   "kategori": "benda",
+   "kelompok": "uang",
+   "w": 716,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "brankas"
+   ],
+   "sumber": "https://openclipart.org/detail/162625",
+   "judul_asli": "Simple strongbox",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/tas_belanja.png",
+   "nama": "tas_belanja",
+   "base": "tas_belanja",
+   "kategori": "benda",
+   "kelompok": "uang",
+   "w": 694,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "tas belanja",
+    "belanja"
+   ],
+   "sumber": "https://openclipart.org/detail/193115",
+   "judul_asli": "Paper shopping bag",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/label_harga.png",
+   "nama": "label_harga",
+   "base": "label_harga",
+   "kategori": "benda",
+   "kelompok": "uang",
+   "w": 726,
+   "h": 750,
+   "transparan": true,
+   "kata": [
+    "label harga",
+    "harga"
+   ],
+   "sumber": "https://openclipart.org/detail/188919",
+   "judul_asli": "name tag",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/bank.png",
+   "nama": "bank",
+   "base": "bank",
+   "kategori": "benda",
+   "kelompok": "uang",
+   "w": 800,
+   "h": 754,
+   "transparan": true,
+   "kata": [
+    "bank"
+   ],
+   "sumber": "https://openclipart.org/detail/303726",
+   "judul_asli": "Piggy bank",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/roda_gigi.png",
+   "nama": "roda_gigi",
+   "base": "roda_gigi",
+   "kategori": "benda",
+   "kelompok": "sains",
+   "w": 795,
+   "h": 790,
+   "transparan": true,
+   "kata": [
+    "roda gigi",
+    "gir"
+   ],
+   "sumber": "https://openclipart.org/detail/301542",
+   "judul_asli": "Gear",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/katrol.png",
+   "nama": "katrol",
+   "base": "katrol",
+   "kategori": "benda",
+   "kelompok": "sains",
+   "w": 436,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "katrol"
+   ],
+   "sumber": "https://openclipart.org/detail/219356",
+   "judul_asli": "Block and tackle",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/bola_dunia.png",
+   "nama": "bola_dunia",
+   "base": "bola_dunia",
+   "kategori": "benda",
+   "kelompok": "sains",
+   "w": 800,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "bola dunia",
+    "globe"
+   ],
+   "sumber": "https://openclipart.org/detail/29188",
+   "judul_asli": "Globe",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/pembakar_bunsen.png",
+   "nama": "pembakar_bunsen",
+   "base": "pembakar_bunsen",
+   "kategori": "benda",
+   "kelompok": "sains",
+   "w": 528,
+   "h": 746,
+   "transparan": true,
+   "kata": [
+    "pembakar bunsen",
+    "bunsen"
+   ],
+   "sumber": "https://openclipart.org/detail/128497",
+   "judul_asli": "Bunsen burner",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/cawan_petri.png",
+   "nama": "cawan_petri",
+   "base": "cawan_petri",
+   "kategori": "benda",
+   "kelompok": "sains",
+   "w": 745,
+   "h": 390,
+   "transparan": true,
+   "kata": [
+    "cawan petri"
+   ],
+   "sumber": "https://openclipart.org/detail/33481",
+   "judul_asli": "Blood Agar Plate with colonies",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/molekul.png",
+   "nama": "molekul",
+   "base": "molekul",
+   "kategori": "benda",
+   "kelompok": "sains",
+   "w": 800,
+   "h": 553,
+   "transparan": true,
+   "kata": [
+    "molekul"
+   ],
+   "sumber": "https://openclipart.org/detail/232272",
+   "judul_asli": "Famous (and infamous) molecules 4 - carbon dioxide",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/sel.png",
+   "nama": "sel",
+   "base": "sel",
+   "kategori": "benda",
+   "kelompok": "sains",
+   "w": 793,
+   "h": 586,
+   "transparan": true,
+   "kata": [
+    "sel tubuh",
+    "sel hewan",
+    "sel darah"
+   ],
+   "sumber": "https://openclipart.org/detail/66733",
+   "judul_asli": "Animal Cell",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/baterai_mobil.png",
+   "nama": "baterai_mobil",
+   "base": "baterai_mobil",
+   "kategori": "benda",
+   "kelompok": "teknologi",
+   "w": 800,
+   "h": 650,
+   "transparan": true,
+   "kata": [
+    "aki"
+   ],
+   "sumber": "https://openclipart.org/detail/66793",
+   "judul_asli": "Car battery",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/darah.png",
+   "nama": "darah",
+   "base": "darah",
+   "kategori": "benda",
+   "kelompok": "tubuh",
+   "w": 484,
+   "h": 757,
+   "transparan": true,
+   "kata": [
+    "tetes darah",
+    "darah"
+   ],
+   "sumber": "https://openclipart.org/detail/308580",
+   "judul_asli": "Blood Drop",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/lambung.png",
+   "nama": "lambung",
+   "base": "lambung",
+   "kategori": "benda",
+   "kelompok": "tubuh",
+   "w": 342,
+   "h": 782,
+   "transparan": true,
+   "kata": [
+    "lambung",
+    "perut"
+   ],
+   "sumber": "https://openclipart.org/detail/340488",
+   "judul_asli": "Digestive system",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/ginjal.png",
+   "nama": "ginjal",
+   "base": "ginjal",
+   "kategori": "benda",
+   "kelompok": "tubuh",
+   "w": 800,
+   "h": 567,
+   "transparan": true,
+   "kata": [
+    "ginjal"
+   ],
+   "sumber": "https://openclipart.org/detail/28929",
+   "judul_asli": "kidney-reins",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/organ_hati.png",
+   "nama": "organ_hati",
+   "base": "organ_hati",
+   "kategori": "benda",
+   "kelompok": "tubuh",
+   "w": 800,
+   "h": 581,
+   "transparan": true,
+   "kata": [
+    "organ hati",
+    "liver"
+   ],
+   "sumber": "https://openclipart.org/detail/37315",
+   "judul_asli": "Liver",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/masker.png",
+   "nama": "masker",
+   "base": "masker",
+   "kategori": "benda",
+   "kelompok": "kesehatan",
+   "w": 781,
+   "h": 503,
+   "transparan": true,
+   "kata": [
+    "masker"
+   ],
+   "sumber": "https://openclipart.org/detail/324338",
+   "judul_asli": "Face Mask - Fix Remix",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/plester.png",
+   "nama": "plester",
+   "base": "plester",
+   "kategori": "benda",
+   "kelompok": "kesehatan",
+   "w": 779,
+   "h": 749,
+   "transparan": true,
+   "kata": [
+    "plester",
+    "perban"
+   ],
+   "sumber": "https://openclipart.org/detail/329315",
+   "judul_asli": "Medical bandage",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/stetoskop.png",
+   "nama": "stetoskop",
+   "base": "stetoskop",
+   "kategori": "benda",
+   "kelompok": "kesehatan",
+   "w": 503,
+   "h": 722,
+   "transparan": true,
+   "kata": [
+    "stetoskop",
+    "dokter"
+   ],
+   "sumber": "https://openclipart.org/detail/304143",
+   "judul_asli": "Stethoscope - Colour",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/ambulans.png",
+   "nama": "ambulans",
+   "base": "ambulans",
+   "kategori": "benda",
+   "kelompok": "transportasi",
+   "w": 777,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "ambulans",
+    "rumah sakit"
+   ],
+   "sumber": "https://openclipart.org/detail/336640",
+   "judul_asli": "Ambulance - Isolated",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/kaktus.png",
+   "nama": "kaktus",
+   "base": "kaktus",
+   "kategori": "benda",
+   "kelompok": "alam",
+   "w": 645,
+   "h": 720,
+   "transparan": true,
+   "kata": [
+    "kaktus"
+   ],
+   "sumber": "https://openclipart.org/detail/326378",
+   "judul_asli": "Blooming Cactus",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/pohon_kelapa.png",
+   "nama": "pohon_kelapa",
+   "base": "pohon_kelapa",
+   "kategori": "benda",
+   "kelompok": "alam",
+   "w": 566,
+   "h": 795,
+   "transparan": true,
+   "kata": [
+    "pohon kelapa",
+    "pohon palem"
+   ],
+   "sumber": "https://openclipart.org/detail/206130",
+   "judul_asli": "Brighter palm tree",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/tornado.png",
+   "nama": "tornado",
+   "base": "tornado",
+   "kategori": "benda",
+   "kelompok": "alam",
+   "w": 625,
+   "h": 792,
+   "transparan": true,
+   "kata": [
+    "tornado",
+    "angin puting beliung"
+   ],
+   "sumber": "https://openclipart.org/detail/299221",
+   "judul_asli": "Angry Tornado Red Eyes",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/bintang.png",
+   "nama": "bintang",
+   "base": "bintang",
+   "kategori": "benda",
+   "kelompok": "angkasa",
+   "w": 800,
+   "h": 761,
+   "transparan": true,
+   "kata": [
+    "bintang di langit",
+    "sebuah bintang"
+   ],
+   "sumber": "https://openclipart.org/detail/165163",
+   "judul_asli": "Yellow star",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/komet.png",
+   "nama": "komet",
+   "base": "komet",
+   "kategori": "benda",
+   "kelompok": "angkasa",
+   "w": 733,
+   "h": 305,
+   "transparan": true,
+   "kata": [
+    "komet"
+   ],
+   "sumber": "https://openclipart.org/detail/258570",
+   "judul_asli": "Comet refixed",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/galaksi.png",
+   "nama": "galaksi",
+   "base": "galaksi",
+   "kategori": "benda",
+   "kelompok": "angkasa",
+   "w": 714,
+   "h": 560,
+   "transparan": true,
+   "kata": [
+    "galaksi",
+    "bima sakti"
+   ],
+   "sumber": "https://openclipart.org/detail/349951",
+   "judul_asli": "Whimsical Galaxy - Colour Remix",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/api_unggun.png",
+   "nama": "api_unggun",
+   "base": "api_unggun",
+   "kategori": "benda",
+   "kelompok": "alam",
+   "w": 656,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "api unggun"
+   ],
+   "sumber": "https://openclipart.org/detail/319262",
+   "judul_asli": "Campfire #2",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/tenda.png",
+   "nama": "tenda",
+   "base": "tenda",
+   "kategori": "benda",
+   "kelompok": "alam",
+   "w": 792,
+   "h": 518,
+   "transparan": true,
+   "kata": [
+    "tenda"
+   ],
+   "sumber": "https://openclipart.org/detail/302380",
+   "judul_asli": "Tent 2",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/teropong.png",
+   "nama": "teropong",
+   "base": "teropong",
+   "kategori": "benda",
+   "kelompok": "alam",
+   "w": 792,
+   "h": 695,
+   "transparan": true,
+   "kata": [
+    "teropong",
+    "binokular"
+   ],
+   "sumber": "https://openclipart.org/detail/314101",
+   "judul_asli": "Binoculars (#2)",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/bola_basket.png",
+   "nama": "bola_basket",
+   "base": "bola_basket",
+   "kategori": "benda",
+   "kelompok": "olahraga",
+   "w": 794,
+   "h": 791,
+   "transparan": true,
+   "kata": [
+    "bola basket",
+    "basket"
+   ],
+   "sumber": "https://openclipart.org/detail/167868",
+   "judul_asli": "Basketball noshadow2",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/raket.png",
+   "nama": "raket",
+   "base": "raket",
+   "kategori": "benda",
+   "kelompok": "olahraga",
+   "w": 722,
+   "h": 724,
+   "transparan": true,
+   "kata": [
+    "raket",
+    "raket tenis"
+   ],
+   "sumber": "https://openclipart.org/detail/321516",
+   "judul_asli": "Tennis Racket and Green Ball",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/dumbel.png",
+   "nama": "dumbel",
+   "base": "dumbel",
+   "kategori": "benda",
+   "kelompok": "olahraga",
+   "w": 793,
+   "h": 338,
+   "transparan": true,
+   "kata": [
+    "dumbel",
+    "barbel",
+    "angkat beban"
+   ],
+   "sumber": "https://openclipart.org/detail/300624",
+   "judul_asli": "Dumbbell 2",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/stopwatch.png",
+   "nama": "stopwatch",
+   "base": "stopwatch",
+   "kategori": "benda",
+   "kelompok": "olahraga",
+   "w": 551,
+   "h": 760,
+   "transparan": true,
+   "kata": [
+    "stopwatch",
+    "pengatur waktu"
+   ],
+   "sumber": "https://openclipart.org/detail/327775",
+   "judul_asli": "Simple Stopwatch",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/peluit.png",
+   "nama": "peluit",
+   "base": "peluit",
+   "kategori": "benda",
+   "kelompok": "olahraga",
+   "w": 726,
+   "h": 443,
+   "transparan": true,
+   "kata": [
+    "peluit"
+   ],
+   "sumber": "https://openclipart.org/detail/196207",
+   "judul_asli": "Whistle",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/sepatu_lari.png",
+   "nama": "sepatu_lari",
+   "base": "sepatu_lari",
+   "kategori": "benda",
+   "kelompok": "olahraga",
+   "w": 799,
+   "h": 445,
+   "transparan": true,
+   "kata": [
+    "sepatu lari"
+   ],
+   "sumber": "https://openclipart.org/detail/284290",
+   "judul_asli": "Jogging shoes",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/gitar.png",
+   "nama": "gitar",
+   "base": "gitar",
+   "kategori": "benda",
+   "kelompok": "musik",
+   "w": 668,
+   "h": 742,
+   "transparan": true,
+   "kata": [
+    "gitar"
+   ],
+   "sumber": "https://openclipart.org/detail/65095",
+   "judul_asli": "My guitar",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/piano.png",
+   "nama": "piano",
+   "base": "piano",
+   "kategori": "benda",
+   "kelompok": "musik",
+   "w": 800,
+   "h": 699,
+   "transparan": true,
+   "kata": [
+    "piano"
+   ],
+   "sumber": "https://openclipart.org/detail/341215",
+   "judul_asli": "Grand piano",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/drum.png",
+   "nama": "drum",
+   "base": "drum",
+   "kategori": "benda",
+   "kelompok": "musik",
+   "w": 800,
+   "h": 611,
+   "transparan": true,
+   "kata": [
+    "drum"
+   ],
+   "sumber": "https://openclipart.org/detail/274",
+   "judul_asli": "Drum Kit",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/taksi.png",
+   "nama": "taksi",
+   "base": "taksi",
+   "kategori": "benda",
+   "kelompok": "transportasi",
+   "w": 774,
+   "h": 400,
+   "transparan": true,
+   "kata": [
+    "taksi"
+   ],
+   "sumber": "https://openclipart.org/detail/324159",
+   "judul_asli": "Cartoon Taxi",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/kapal_selam.png",
+   "nama": "kapal_selam",
+   "base": "kapal_selam",
+   "kategori": "benda",
+   "kelompok": "transportasi",
+   "w": 735,
+   "h": 333,
+   "transparan": true,
+   "kata": [
+    "kapal selam"
+   ],
+   "sumber": "https://openclipart.org/detail/350965",
+   "judul_asli": "Yellow Submarine",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/balon_udara.png",
+   "nama": "balon_udara",
+   "base": "balon_udara",
+   "kategori": "benda",
+   "kelompok": "transportasi",
+   "w": 562,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "balon udara"
+   ],
+   "sumber": "https://openclipart.org/detail/354854",
+   "judul_asli": "Hot Air Balloon - Colour Remix",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/traktor.png",
+   "nama": "traktor",
+   "base": "traktor",
+   "kategori": "benda",
+   "kelompok": "transportasi",
+   "w": 800,
+   "h": 536,
+   "transparan": true,
+   "kata": [
+    "traktor"
+   ],
+   "sumber": "https://openclipart.org/detail/321538",
+   "judul_asli": "Classic Red Tractor",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/skateboard.png",
+   "nama": "skateboard",
+   "base": "skateboard",
+   "kategori": "benda",
+   "kelompok": "transportasi",
+   "w": 766,
+   "h": 519,
+   "transparan": true,
+   "kata": [
+    "skateboard"
+   ],
+   "sumber": "https://openclipart.org/detail/281783",
+   "judul_asli": "Skateboard",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/helm.png",
+   "nama": "helm",
+   "base": "helm",
+   "kategori": "benda",
+   "kelompok": "transportasi",
+   "w": 800,
+   "h": 660,
+   "transparan": true,
+   "kata": [
+    "helm proyek",
+    "helm keselamatan"
+   ],
+   "sumber": "https://openclipart.org/detail/149017",
+   "judul_asli": "helmet mining mine",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/kastil.png",
+   "nama": "kastil",
+   "base": "kastil",
+   "kategori": "benda",
+   "kelompok": "sejarah",
+   "w": 469,
+   "h": 522,
+   "transparan": true,
+   "kata": [
+    "kastil",
+    "istana",
+    "benteng"
+   ],
+   "sumber": "https://openclipart.org/detail/291700",
+   "judul_asli": "Magic Kingdom Castle (Cinderella)",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/perisai.png",
+   "nama": "perisai",
+   "base": "perisai",
+   "kategori": "benda",
+   "kelompok": "sejarah",
+   "w": 670,
+   "h": 792,
+   "transparan": true,
+   "kata": [
+    "perisai"
+   ],
+   "sumber": "https://openclipart.org/detail/75697",
+   "judul_asli": "Gold Shield",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/obor.png",
+   "nama": "obor",
+   "base": "obor",
+   "kategori": "benda",
+   "kelompok": "sejarah",
+   "w": 170,
+   "h": 709,
+   "transparan": true,
+   "kata": [
+    "obor"
+   ],
+   "sumber": "https://openclipart.org/detail/20098",
+   "judul_asli": "torch",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/tengkorak.png",
+   "nama": "tengkorak",
+   "base": "tengkorak",
+   "kategori": "benda",
+   "kelompok": "sejarah",
+   "w": 800,
+   "h": 786,
+   "transparan": true,
+   "kata": [
+    "tengkorak"
+   ],
+   "sumber": "https://openclipart.org/detail/1059",
+   "judul_asli": "Amud skull (grayscale)",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/mumi.png",
+   "nama": "mumi",
+   "base": "mumi",
+   "kategori": "benda",
+   "kelompok": "sejarah",
+   "w": 734,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "mumi"
+   ],
+   "sumber": "https://openclipart.org/detail/316383",
+   "judul_asli": "Mummy (#1)",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/lentera.png",
+   "nama": "lentera",
+   "base": "lentera",
+   "kategori": "benda",
+   "kelompok": "sejarah",
+   "w": 582,
+   "h": 800,
+   "transparan": true,
+   "kata": [
+    "lentera",
+    "lampu minyak"
+   ],
+   "sumber": "https://openclipart.org/detail/352345",
+   "judul_asli": "Traditional Wall Lantern",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/jam_saku.png",
+   "nama": "jam_saku",
+   "base": "jam_saku",
+   "kategori": "benda",
+   "kelompok": "sejarah",
+   "w": 496,
+   "h": 775,
+   "transparan": true,
+   "kata": [
+    "jam saku"
+   ],
+   "sumber": "https://openclipart.org/detail/169296",
+   "judul_asli": "Pocket Watch",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/peta_dunia.png",
+   "nama": "peta_dunia",
+   "base": "peta_dunia",
+   "kategori": "benda",
+   "kelompok": "sejarah",
+   "w": 800,
+   "h": 463,
+   "transparan": true,
+   "kata": [
+    "peta dunia"
+   ],
+   "sumber": "https://openclipart.org/detail/330564",
+   "judul_asli": "Abstract Inaccurate World Map",
+   "lisensi": "CC0"
+  },
+  {
+   "file": "adri/objek/benda/koin_kuno.png",
+   "nama": "koin_kuno",
+   "base": "koin_kuno",
+   "kategori": "benda",
+   "kelompok": "sejarah",
+   "w": 793,
+   "h": 787,
+   "transparan": true,
+   "kata": [
+    "koin kuno",
+    "uang kuno"
+   ],
+   "sumber": "https://openclipart.org/detail/301979",
+   "judul_asli": "Old Coin",
    "lisensi": "CC0"
   }
  ]
