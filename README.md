@@ -9,6 +9,10 @@ Gambar karakter ADRIY untuk video Adriy.project. Repo ini sengaja privat: berisi
   - `pose/` — hasil potong: satu PNG transparan per pose (dibuat `scripts/adri_aset.py` di repo Aidriy)
   - `peta.json` — peta pose ADRI -> gambar, dibaca video
 
+- `travel/` — outfit travel (jaket abu-abu, ransel, tas pinggang ADRIY, headphone, botol, bantal leher, celana kargo)
+  - `lembar-01..09.png` badan penuh, `dekat/` close-up, setengah badan, dan lembar bentuk mulut
+  - `tata.json` — tata letak lembar dan peta pose khusus outfit ini
+
 ## Dipakai di repo Aidriy
 
 ```bash
