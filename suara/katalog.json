@@ -495,6 +495,28 @@
    "catatan": "nada penasaran",
    "sumber": "perpustakaan_suara.py",
    "dibuat": "2026-11-19"
+  },
+  {
+   "id": "8f2b365c031b",
+   "suara": "adriy",
+   "teks": "Padahal, kamu sedang berbaring di tempat tidur. Nggak ada yang mendorong, nggak ada yang menarik, bahkan kamu nggak sedang bermimpi jatuh.",
+   "file": "suara/adriy/8f2b365c031b.wav",
+   "durasi": 7.36,
+   "kategori": "patahkan",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
+  },
+  {
+   "id": "8aab22942b7e",
+   "suara": "ongky",
+   "teks": "Padahal, kamu sedang berbaring di tempat tidur. Nggak ada yang mendorong, nggak ada yang menarik, bahkan kamu nggak sedang bermimpi jatuh.",
+   "file": "suara/ongky/8aab22942b7e.wav",
+   "durasi": 6.72,
+   "kategori": "patahkan",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
   }
  ]
 }
