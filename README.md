@@ -31,3 +31,14 @@ bash video/scripts/ambil_aset.sh        # salin repo ini ke video/public/adri/ (
 
 Menambah aset baru: taruh lembar di folder outfit, tambah tata letaknya di `scripts/adri_aset.py` (repo Aidriy),
 jalankan skrip itu, lalu commit hasilnya di sini.
+
+## sfx/ — sound effect bebas pakai
+
+Sound effect gratis dari internet yang boleh dipakai di video (termasuk dimonetisasi):
+
+- `sfx/opengameart/<paket>/` — paket CC0 dari OpenGameArt.org (tanpa kredit)
+- `sfx/soundbible/` — SoundBible.com, hanya Public Domain dan CC BY 3.0
+- `sfx/wikimedia/<hewan>/` — suara hewan dari Wikimedia Commons (CC0 / Public Domain / CC BY)
+
+Semua sudah diubah ke mp3 (44,1 kHz, 160 kbps). `sfx/katalog.json` mencatat judul, pembuat, lisensi, dan
+sumber tiap file; `sfx/KREDIT.md` mendaftar file CC BY yang wajib dikredit di deskripsi video.
