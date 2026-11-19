@@ -1,0 +1,1695 @@
+{
+ "keterangan": "Katalog objek ADRIY (hewan darat dan laut). 'kata' = frasa di naskah yang memunculkan gambar ini.",
+ "objek": [
+  {
+   "file": "adri/objek/hewan_darat/anjing_beagle.png",
+   "nama": "anjing_beagle",
+   "base": "anjing_beagle",
+   "kategori": "hewan_darat",
+   "w": 486,
+   "h": 558,
+   "transparan": true,
+   "kata": [
+    "anjing beagle",
+    "anjing"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/anoa.png",
+   "nama": "anoa",
+   "base": "anoa",
+   "kategori": "hewan_darat",
+   "w": 484,
+   "h": 458,
+   "transparan": true,
+   "kata": [
+    "anoa"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/armadillo.png",
+   "nama": "armadillo",
+   "base": "armadillo",
+   "kategori": "hewan_darat",
+   "w": 1056,
+   "h": 562,
+   "transparan": true,
+   "kata": [
+    "armadillo"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/babi_hutan.png",
+   "nama": "babi_hutan",
+   "base": "babi_hutan",
+   "kategori": "hewan_darat",
+   "w": 796,
+   "h": 616,
+   "transparan": true,
+   "kata": [
+    "babi hutan"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/babi_rusa.png",
+   "nama": "babi_rusa",
+   "base": "babi_rusa",
+   "kategori": "hewan_darat",
+   "w": 778,
+   "h": 572,
+   "transparan": true,
+   "kata": [
+    "babi rusa"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/babun_duduk.png",
+   "nama": "babun_duduk",
+   "base": "babun_duduk",
+   "kategori": "hewan_darat",
+   "w": 648,
+   "h": 652,
+   "transparan": true,
+   "kata": [
+    "babun duduk",
+    "babun"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/badak.png",
+   "nama": "badak",
+   "base": "badak",
+   "kategori": "hewan_darat",
+   "w": 580,
+   "h": 634,
+   "transparan": true,
+   "kata": [
+    "badak"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/bajing_tanah_lubang.png",
+   "nama": "bajing_tanah_lubang",
+   "base": "bajing_tanah_lubang",
+   "kategori": "hewan_darat",
+   "w": 1088,
+   "h": 620,
+   "transparan": true,
+   "kata": [
+    "bajing tanah lubang",
+    "bajing tanah",
+    "bajing"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/banteng.png",
+   "nama": "banteng",
+   "base": "banteng",
+   "kategori": "hewan_darat",
+   "w": 602,
+   "h": 540,
+   "transparan": true,
+   "kata": [
+    "banteng"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/berang_berang_air_ikan.png",
+   "nama": "berang_berang_air_ikan",
+   "base": "berang_berang_air_ikan",
+   "kategori": "hewan_darat",
+   "w": 1136,
+   "h": 640,
+   "transparan": true,
+   "kata": [
+    "berang berang air ikan",
+    "berang berang air",
+    "berang berang"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/berang_berang_kayu.png",
+   "nama": "berang_berang_kayu",
+   "base": "berang_berang_kayu",
+   "kategori": "hewan_darat",
+   "w": 1278,
+   "h": 620,
+   "transparan": true,
+   "kata": [
+    "berang berang kayu",
+    "berang berang"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/beruang_berdiri.png",
+   "nama": "beruang_berdiri",
+   "base": "beruang_berdiri",
+   "kategori": "hewan_darat",
+   "w": 420,
+   "h": 672,
+   "transparan": true,
+   "kata": [
+    "beruang berdiri"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/beruang_cokelat_mengaum.png",
+   "nama": "beruang_cokelat_mengaum",
+   "base": "beruang_cokelat_mengaum",
+   "kategori": "hewan_darat",
+   "w": 916,
+   "h": 700,
+   "transparan": true,
+   "kata": [
+    "beruang cokelat mengaum",
+    "beruang cokelat"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/beruang_hitam_duduk.png",
+   "nama": "beruang_hitam_duduk",
+   "base": "beruang_hitam_duduk",
+   "kategori": "hewan_darat",
+   "w": 592,
+   "h": 706,
+   "transparan": true,
+   "kata": [
+    "beruang hitam duduk",
+    "beruang hitam"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/beruang_kutub.png",
+   "nama": "beruang_kutub",
+   "base": "beruang_kutub",
+   "kategori": "hewan_darat",
+   "w": 1122,
+   "h": 666,
+   "transparan": true,
+   "kata": [
+    "beruang kutub"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/beruang_madu.png",
+   "nama": "beruang_madu",
+   "base": "beruang_madu",
+   "kategori": "hewan_darat",
+   "w": 782,
+   "h": 684,
+   "transparan": true,
+   "kata": [
+    "beruang madu"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/binturong.png",
+   "nama": "binturong",
+   "base": "binturong",
+   "kategori": "hewan_darat",
+   "w": 932,
+   "h": 624,
+   "transparan": true,
+   "kata": [
+    "binturong"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/bison.png",
+   "nama": "bison",
+   "base": "bison",
+   "kategori": "hewan_darat",
+   "w": 866,
+   "h": 608,
+   "transparan": true,
+   "kata": [
+    "bison"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/bonobo_berjalan.png",
+   "nama": "bonobo_berjalan",
+   "base": "bonobo_berjalan",
+   "kategori": "hewan_darat",
+   "w": 792,
+   "h": 648,
+   "transparan": true,
+   "kata": [
+    "bonobo berjalan",
+    "bonobo"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/caracal.png",
+   "nama": "caracal",
+   "base": "caracal",
+   "kategori": "hewan_darat",
+   "w": 720,
+   "h": 616,
+   "transparan": true,
+   "kata": [
+    "caracal"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/celurut.png",
+   "nama": "celurut",
+   "base": "celurut",
+   "kategori": "hewan_darat",
+   "w": 974,
+   "h": 402,
+   "transparan": true,
+   "kata": [
+    "celurut"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/cheetah_berlari.png",
+   "nama": "cheetah_berlari",
+   "base": "cheetah_berlari",
+   "kategori": "hewan_darat",
+   "w": 1058,
+   "h": 504,
+   "transparan": true,
+   "kata": [
+    "cheetah berlari",
+    "cheetah"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/dingo.png",
+   "nama": "dingo",
+   "base": "dingo",
+   "kategori": "hewan_darat",
+   "w": 666,
+   "h": 682,
+   "transparan": true,
+   "kata": [
+    "dingo"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/domba_jantan.png",
+   "nama": "domba_jantan",
+   "base": "domba_jantan",
+   "kategori": "hewan_darat",
+   "w": 658,
+   "h": 640,
+   "transparan": true,
+   "kata": [
+    "domba jantan",
+    "domba"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/gajah.png",
+   "nama": "gajah",
+   "base": "gajah",
+   "kategori": "hewan_darat",
+   "w": 890,
+   "h": 590,
+   "transparan": true,
+   "kata": [
+    "gajah"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/gazelle.png",
+   "nama": "gazelle",
+   "base": "gazelle",
+   "kategori": "hewan_darat",
+   "w": 536,
+   "h": 688,
+   "transparan": true,
+   "kata": [
+    "gazelle"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/gorila.png",
+   "nama": "gorila",
+   "base": "gorila",
+   "kategori": "hewan_darat",
+   "w": 716,
+   "h": 724,
+   "transparan": true,
+   "kata": [
+    "gorila"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/hamster.png",
+   "nama": "hamster",
+   "base": "hamster",
+   "kategori": "hewan_darat",
+   "w": 486,
+   "h": 620,
+   "transparan": true,
+   "kata": [
+    "hamster"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/harimau_berjalan.png",
+   "nama": "harimau_berjalan",
+   "base": "harimau_berjalan",
+   "kategori": "hewan_darat",
+   "w": 1066,
+   "h": 476,
+   "transparan": true,
+   "kata": [
+    "harimau berjalan",
+    "harimau"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/impala.png",
+   "nama": "impala",
+   "base": "impala",
+   "kategori": "hewan_darat",
+   "w": 656,
+   "h": 684,
+   "transparan": true,
+   "kata": [
+    "impala"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/jaguar_berjalan.png",
+   "nama": "jaguar_berjalan",
+   "base": "jaguar_berjalan",
+   "kategori": "hewan_darat",
+   "w": 1036,
+   "h": 468,
+   "transparan": true,
+   "kata": [
+    "jaguar berjalan",
+    "jaguar"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/jakal_di_batu.png",
+   "nama": "jakal_di_batu",
+   "base": "jakal_di_batu",
+   "kategori": "hewan_darat",
+   "w": 890,
+   "h": 698,
+   "transparan": true,
+   "kata": [
+    "jakal di batu",
+    "jakal di",
+    "jakal"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/jerapah.png",
+   "nama": "jerapah",
+   "base": "jerapah",
+   "kategori": "hewan_darat",
+   "w": 522,
+   "h": 912,
+   "transparan": true,
+   "kata": [
+    "jerapah"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/kadal_di_batu.png",
+   "nama": "kadal_di_batu",
+   "base": "kadal_di_batu",
+   "kategori": "hewan_darat",
+   "w": 892,
+   "h": 602,
+   "transparan": true,
+   "kata": [
+    "kadal di batu",
+    "kadal di",
+    "kadal"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/kambing.png",
+   "nama": "kambing",
+   "base": "kambing",
+   "kategori": "hewan_darat",
+   "w": 588,
+   "h": 780,
+   "transparan": true,
+   "kata": [
+    "kambing"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/kancil.png",
+   "nama": "kancil",
+   "base": "kancil",
+   "kategori": "hewan_darat",
+   "w": 594,
+   "h": 554,
+   "transparan": true,
+   "kata": [
+    "kancil"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/kangguru_berkantung.png",
+   "nama": "kangguru_berkantung",
+   "base": "kangguru_berkantung",
+   "kategori": "hewan_darat",
+   "w": 918,
+   "h": 610,
+   "transparan": true,
+   "kata": [
+    "kangguru berkantung",
+    "kangguru"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/kelinci.png",
+   "nama": "kelinci",
+   "base": "kelinci",
+   "kategori": "hewan_darat",
+   "w": 550,
+   "h": 572,
+   "transparan": true,
+   "kata": [
+    "kelinci"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/kerbau.png",
+   "nama": "kerbau",
+   "base": "kerbau",
+   "kategori": "hewan_darat",
+   "w": 794,
+   "h": 714,
+   "transparan": true,
+   "kata": [
+    "kerbau"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/kesturi.png",
+   "nama": "kesturi",
+   "base": "kesturi",
+   "kategori": "hewan_darat",
+   "w": 556,
+   "h": 646,
+   "transparan": true,
+   "kata": [
+    "kesturi"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/kijang_rumput.png",
+   "nama": "kijang_rumput",
+   "base": "kijang_rumput",
+   "kategori": "hewan_darat",
+   "w": 718,
+   "h": 660,
+   "transparan": true,
+   "kata": [
+    "kijang rumput",
+    "kijang"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/koala_di_dahan.png",
+   "nama": "koala_di_dahan",
+   "base": "koala_di_dahan",
+   "kategori": "hewan_darat",
+   "w": 590,
+   "h": 688,
+   "transparan": true,
+   "kata": [
+    "koala di dahan",
+    "koala di",
+    "koala"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/komodo.png",
+   "nama": "komodo",
+   "base": "komodo",
+   "kategori": "hewan_darat",
+   "w": 1398,
+   "h": 714,
+   "transparan": true,
+   "kata": [
+    "komodo"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/kucing_belang.png",
+   "nama": "kucing_belang",
+   "base": "kucing_belang",
+   "kategori": "hewan_darat",
+   "w": 640,
+   "h": 454,
+   "transparan": true,
+   "kata": [
+    "kucing belang",
+    "kucing"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/kuda_cokelat.png",
+   "nama": "kuda_cokelat",
+   "base": "kuda_cokelat",
+   "kategori": "hewan_darat",
+   "w": 788,
+   "h": 1230,
+   "transparan": true,
+   "kata": [
+    "kuda cokelat"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/kungkang_bergelantung.png",
+   "nama": "kungkang_bergelantung",
+   "base": "kungkang_bergelantung",
+   "kategori": "hewan_darat",
+   "w": 646,
+   "h": 626,
+   "transparan": true,
+   "kata": [
+    "kungkang bergelantung",
+    "kungkang"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/kura_kura_darat.png",
+   "nama": "kura_kura_darat",
+   "base": "kura_kura_darat",
+   "kategori": "hewan_darat",
+   "w": 900,
+   "h": 592,
+   "transparan": true,
+   "kata": [
+    "kura kura darat",
+    "kura kura",
+    "kura"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/kuskus_beruang.png",
+   "nama": "kuskus_beruang",
+   "base": "kuskus_beruang",
+   "kategori": "hewan_darat",
+   "w": 660,
+   "h": 714,
+   "transparan": true,
+   "kata": [
+    "kuskus beruang"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/kuskus_tutul.png",
+   "nama": "kuskus_tutul",
+   "base": "kuskus_tutul",
+   "kategori": "hewan_darat",
+   "w": 738,
+   "h": 602,
+   "transparan": true,
+   "kata": [
+    "kuskus tutul"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/landak.png",
+   "nama": "landak",
+   "base": "landak",
+   "kategori": "hewan_darat",
+   "w": 656,
+   "h": 546,
+   "transparan": true,
+   "kata": [
+    "landak"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/lemur_ekor_cincin.png",
+   "nama": "lemur_ekor_cincin",
+   "base": "lemur_ekor_cincin",
+   "kategori": "hewan_darat",
+   "w": 616,
+   "h": 664,
+   "transparan": true,
+   "kata": [
+    "lemur ekor cincin",
+    "lemur ekor",
+    "lemur"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/llama.png",
+   "nama": "llama",
+   "base": "llama",
+   "kategori": "hewan_darat",
+   "w": 616,
+   "h": 700,
+   "transparan": true,
+   "kata": [
+    "llama"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/luak_belang.png",
+   "nama": "luak_belang",
+   "base": "luak_belang",
+   "kategori": "hewan_darat",
+   "w": 1100,
+   "h": 620,
+   "transparan": true,
+   "kata": [
+    "luak belang",
+    "luak"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/lynx.png",
+   "nama": "lynx",
+   "base": "lynx",
+   "kategori": "hewan_darat",
+   "w": 694,
+   "h": 618,
+   "transparan": true,
+   "kata": [
+    "lynx"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/marmut.png",
+   "nama": "marmut",
+   "base": "marmut",
+   "kategori": "hewan_darat",
+   "w": 986,
+   "h": 604,
+   "transparan": true,
+   "kata": [
+    "marmut"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/meerkat_di_gundukan.png",
+   "nama": "meerkat_di_gundukan",
+   "base": "meerkat_di_gundukan",
+   "kategori": "hewan_darat",
+   "w": 826,
+   "h": 658,
+   "transparan": true,
+   "kata": [
+    "meerkat di gundukan",
+    "meerkat di",
+    "meerkat"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/monyet_bergelantung.png",
+   "nama": "monyet_bergelantung",
+   "base": "monyet_bergelantung",
+   "kategori": "hewan_darat",
+   "w": 1088,
+   "h": 650,
+   "transparan": true,
+   "kata": [
+    "monyet bergelantung",
+    "monyet"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/musang.png",
+   "nama": "musang",
+   "base": "musang",
+   "kategori": "hewan_darat",
+   "w": 706,
+   "h": 558,
+   "transparan": true,
+   "kata": []
+  },
+  {
+   "file": "adri/objek/hewan_darat/musang_di_batang_kayu.png",
+   "nama": "musang_di_batang_kayu",
+   "base": "musang_di_batang_kayu",
+   "kategori": "hewan_darat",
+   "w": 800,
+   "h": 492,
+   "transparan": true,
+   "kata": [
+    "musang di batang kayu",
+    "musang di batang",
+    "musang di"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/musang_kecil_rumput.png",
+   "nama": "musang_kecil_rumput",
+   "base": "musang_kecil_rumput",
+   "kategori": "hewan_darat",
+   "w": 1178,
+   "h": 642,
+   "transparan": true,
+   "kata": [
+    "musang kecil rumput",
+    "musang kecil"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/napu.png",
+   "nama": "napu",
+   "base": "napu",
+   "kategori": "hewan_darat",
+   "w": 626,
+   "h": 626,
+   "transparan": true,
+   "kata": [
+    "napu"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/numbat.png",
+   "nama": "numbat",
+   "base": "numbat",
+   "kategori": "hewan_darat",
+   "w": 1348,
+   "h": 652,
+   "transparan": true,
+   "kata": [
+    "numbat"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/ocelot.png",
+   "nama": "ocelot",
+   "base": "ocelot",
+   "kategori": "hewan_darat",
+   "w": 894,
+   "h": 548,
+   "transparan": true,
+   "kata": [
+    "ocelot"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/orangutan_bergelantung.png",
+   "nama": "orangutan_bergelantung",
+   "base": "orangutan_bergelantung",
+   "kategori": "hewan_darat",
+   "w": 986,
+   "h": 740,
+   "transparan": true,
+   "kata": [
+    "orangutan bergelantung",
+    "orangutan"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/panda_bambu.png",
+   "nama": "panda_bambu",
+   "base": "panda_bambu",
+   "kategori": "hewan_darat",
+   "w": 576,
+   "h": 872,
+   "transparan": true,
+   "kata": [
+    "panda bambu",
+    "panda"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/pekari.png",
+   "nama": "pekari",
+   "base": "pekari",
+   "kategori": "hewan_darat",
+   "w": 538,
+   "h": 406,
+   "transparan": true,
+   "kata": [
+    "pekari"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/pelanduk.png",
+   "nama": "pelanduk",
+   "base": "pelanduk",
+   "kategori": "hewan_darat",
+   "w": 498,
+   "h": 544,
+   "transparan": true,
+   "kata": [
+    "pelanduk"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/pika_di_batu.png",
+   "nama": "pika_di_batu",
+   "base": "pika_di_batu",
+   "kategori": "hewan_darat",
+   "w": 1156,
+   "h": 658,
+   "transparan": true,
+   "kata": [
+    "pika di batu",
+    "pika di",
+    "pika"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/quokka.png",
+   "nama": "quokka",
+   "base": "quokka",
+   "kategori": "hewan_darat",
+   "w": 808,
+   "h": 664,
+   "transparan": true,
+   "kata": [
+    "quokka"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/rakun_di_dahan.png",
+   "nama": "rakun_di_dahan",
+   "base": "rakun_di_dahan",
+   "kategori": "hewan_darat",
+   "w": 1260,
+   "h": 680,
+   "transparan": true,
+   "kata": [
+    "rakun di dahan",
+    "rakun di",
+    "rakun"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/rubah_merah.png",
+   "nama": "rubah_merah",
+   "base": "rubah_merah",
+   "kategori": "hewan_darat",
+   "w": 908,
+   "h": 654,
+   "transparan": true,
+   "kata": [
+    "rubah merah",
+    "rubah"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/rusa_babi.png",
+   "nama": "rusa_babi",
+   "base": "rusa_babi",
+   "kategori": "hewan_darat",
+   "w": 658,
+   "h": 700,
+   "transparan": true,
+   "kata": [
+    "rusa babi"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/rusa_tiduran_pakis.png",
+   "nama": "rusa_tiduran_pakis",
+   "base": "rusa_tiduran_pakis",
+   "kategori": "hewan_darat",
+   "w": 948,
+   "h": 514,
+   "transparan": true,
+   "kata": [
+    "rusa tiduran pakis",
+    "rusa tiduran"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/rusa_totol_makan.png",
+   "nama": "rusa_totol_makan",
+   "base": "rusa_totol_makan",
+   "kategori": "hewan_darat",
+   "w": 820,
+   "h": 506,
+   "transparan": true,
+   "kata": [
+    "rusa totol makan",
+    "rusa totol"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/sapi_bali.png",
+   "nama": "sapi_bali",
+   "base": "sapi_bali",
+   "kategori": "hewan_darat",
+   "w": 596,
+   "h": 564,
+   "transparan": true,
+   "kata": [
+    "sapi bali"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/sapi_perah.png",
+   "nama": "sapi_perah",
+   "base": "sapi_perah",
+   "kategori": "hewan_darat",
+   "w": 874,
+   "h": 932,
+   "transparan": true,
+   "kata": [
+    "sapi perah"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/serigala_abu.png",
+   "nama": "serigala_abu",
+   "base": "serigala_abu",
+   "kategori": "hewan_darat",
+   "w": 908,
+   "h": 694,
+   "transparan": true,
+   "kata": [
+    "serigala abu",
+    "serigala"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/serval.png",
+   "nama": "serval",
+   "base": "serval",
+   "kategori": "hewan_darat",
+   "w": 852,
+   "h": 644,
+   "transparan": true,
+   "kata": [
+    "serval"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/sigung.png",
+   "nama": "sigung",
+   "base": "sigung",
+   "kategori": "hewan_darat",
+   "w": 496,
+   "h": 380,
+   "transparan": true,
+   "kata": [
+    "sigung"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/simpanse_berpikir.png",
+   "nama": "simpanse_berpikir",
+   "base": "simpanse_berpikir",
+   "kategori": "hewan_darat",
+   "w": 480,
+   "h": 686,
+   "transparan": true,
+   "kata": [
+    "simpanse berpikir",
+    "simpanse"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/singa_berjalan.png",
+   "nama": "singa_berjalan",
+   "base": "singa_berjalan",
+   "kategori": "hewan_darat",
+   "w": 998,
+   "h": 570,
+   "transparan": true,
+   "kata": [
+    "singa berjalan",
+    "singa"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/tapir.png",
+   "nama": "tapir",
+   "base": "tapir",
+   "kategori": "hewan_darat",
+   "w": 942,
+   "h": 642,
+   "transparan": true,
+   "kata": [
+    "tapir"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/tikus_belanda_wortel.png",
+   "nama": "tikus_belanda_wortel",
+   "base": "tikus_belanda_wortel",
+   "kategori": "hewan_darat",
+   "w": 930,
+   "h": 458,
+   "transparan": true,
+   "kata": [
+    "tikus belanda wortel",
+    "tikus belanda"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/tikus_di_balok.png",
+   "nama": "tikus_di_balok",
+   "base": "tikus_di_balok",
+   "kategori": "hewan_darat",
+   "w": 1122,
+   "h": 666,
+   "transparan": true,
+   "kata": [
+    "tikus di balok",
+    "tikus di"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/tikus_mondok_gundukan.png",
+   "nama": "tikus_mondok_gundukan",
+   "base": "tikus_mondok_gundukan",
+   "kategori": "hewan_darat",
+   "w": 860,
+   "h": 490,
+   "transparan": true,
+   "kata": [
+    "tikus mondok gundukan",
+    "tikus mondok"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/tikus_mondok_tanah.png",
+   "nama": "tikus_mondok_tanah",
+   "base": "tikus_mondok_tanah",
+   "kategori": "hewan_darat",
+   "w": 1076,
+   "h": 558,
+   "transparan": true,
+   "kata": [
+    "tikus mondok tanah",
+    "tikus mondok"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/trenggiling.png",
+   "nama": "trenggiling",
+   "base": "trenggiling",
+   "kategori": "hewan_darat",
+   "w": 768,
+   "h": 558,
+   "transparan": true,
+   "kata": [
+    "trenggiling"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/tupai_di_dahan.png",
+   "nama": "tupai_di_dahan",
+   "base": "tupai_di_dahan",
+   "kategori": "hewan_darat",
+   "w": 696,
+   "h": 680,
+   "transparan": true,
+   "kata": [
+    "tupai di dahan",
+    "tupai di"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/tupai_makan_biji.png",
+   "nama": "tupai_makan_biji",
+   "base": "tupai_makan_biji",
+   "kategori": "hewan_darat",
+   "w": 1080,
+   "h": 734,
+   "transparan": true,
+   "kata": [
+    "tupai makan biji",
+    "tupai makan"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/ular_piton.png",
+   "nama": "ular_piton",
+   "base": "ular_piton",
+   "kategori": "hewan_darat",
+   "w": 972,
+   "h": 672,
+   "transparan": true,
+   "kata": [
+    "ular piton"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/unta.png",
+   "nama": "unta",
+   "base": "unta",
+   "kategori": "hewan_darat",
+   "w": 556,
+   "h": 696,
+   "transparan": true,
+   "kata": [
+    "unta"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/wombat.png",
+   "nama": "wombat",
+   "base": "wombat",
+   "kategori": "hewan_darat",
+   "w": 674,
+   "h": 492,
+   "transparan": true,
+   "kata": [
+    "wombat"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_darat/zebra.png",
+   "nama": "zebra",
+   "base": "zebra",
+   "kategori": "hewan_darat",
+   "w": 980,
+   "h": 724,
+   "transparan": true,
+   "kata": [
+    "zebra"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/anemon_laut_batu.png",
+   "nama": "anemon_laut_batu",
+   "base": "anemon_laut_batu",
+   "kategori": "hewan_laut",
+   "w": 1082,
+   "h": 688,
+   "transparan": true,
+   "kata": [
+    "anemon laut batu",
+    "anemon laut",
+    "anemon"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/bintang_laut.png",
+   "nama": "bintang_laut",
+   "base": "bintang_laut",
+   "kategori": "hewan_laut",
+   "w": 650,
+   "h": 614,
+   "transparan": true,
+   "kata": [
+    "bintang laut",
+    "bintang"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/bulu_babi_ungu.png",
+   "nama": "bulu_babi_ungu",
+   "base": "bulu_babi_ungu",
+   "kategori": "hewan_laut",
+   "w": 818,
+   "h": 662,
+   "transparan": true,
+   "kata": [
+    "bulu babi ungu",
+    "bulu babi",
+    "bulu"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/cumi_cumi_ungu.png",
+   "nama": "cumi_cumi_ungu",
+   "base": "cumi_cumi_ungu",
+   "kategori": "hewan_laut",
+   "w": 782,
+   "h": 614,
+   "transparan": true,
+   "kata": [
+    "cumi cumi ungu",
+    "cumi cumi",
+    "cumi"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/gurita_merah.png",
+   "nama": "gurita_merah",
+   "base": "gurita_merah",
+   "kategori": "hewan_laut",
+   "w": 1024,
+   "h": 544,
+   "transparan": true,
+   "kata": [
+    "gurita merah",
+    "gurita"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/hiu_abu.png",
+   "nama": "hiu_abu",
+   "base": "hiu_abu",
+   "kategori": "hewan_laut",
+   "w": 1142,
+   "h": 468,
+   "transparan": true,
+   "kata": [
+    "hiu abu",
+    "hiu"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/ikan_badut_a.png",
+   "nama": "ikan_badut_a",
+   "base": "ikan_badut",
+   "kategori": "hewan_laut",
+   "w": 940,
+   "h": 536,
+   "transparan": true,
+   "kata": [
+    "ikan badut"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/ikan_badut_anemon_a.png",
+   "nama": "ikan_badut_anemon_a",
+   "base": "ikan_badut_anemon",
+   "kategori": "hewan_laut",
+   "w": 972,
+   "h": 646,
+   "transparan": true,
+   "kata": [
+    "ikan badut anemon",
+    "ikan badut"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/ikan_badut_anemon_b.png",
+   "nama": "ikan_badut_anemon_b",
+   "base": "ikan_badut_anemon",
+   "kategori": "hewan_laut",
+   "w": 930,
+   "h": 618,
+   "transparan": true,
+   "kata": [
+    "ikan badut anemon",
+    "ikan badut"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/ikan_badut_kartun.png",
+   "nama": "ikan_badut_kartun",
+   "base": "ikan_badut",
+   "kategori": "hewan_laut",
+   "w": 1000,
+   "h": 584,
+   "transparan": true,
+   "kata": [
+    "ikan badut"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/ikan_barakuda.png",
+   "nama": "ikan_barakuda",
+   "base": "ikan_barakuda",
+   "kategori": "hewan_laut",
+   "w": 1060,
+   "h": 290,
+   "transparan": true,
+   "kata": [
+    "ikan barakuda"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/ikan_buntal_a.png",
+   "nama": "ikan_buntal_a",
+   "base": "ikan_buntal",
+   "kategori": "hewan_laut",
+   "w": 686,
+   "h": 586,
+   "transparan": true,
+   "kata": [
+    "ikan buntal"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/ikan_buntal_kartun.png",
+   "nama": "ikan_buntal_kartun",
+   "base": "ikan_buntal",
+   "kategori": "hewan_laut",
+   "w": 874,
+   "h": 674,
+   "transparan": true,
+   "kata": [
+    "ikan buntal"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/ikan_cakalang.png",
+   "nama": "ikan_cakalang",
+   "base": "ikan_cakalang",
+   "kategori": "hewan_laut",
+   "w": 1008,
+   "h": 428,
+   "transparan": true,
+   "kata": [
+    "ikan cakalang"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/ikan_kakap_merah_karang.png",
+   "nama": "ikan_kakap_merah_karang",
+   "base": "ikan_kakap_merah_karang",
+   "kategori": "hewan_laut",
+   "w": 1014,
+   "h": 580,
+   "transparan": true,
+   "kata": [
+    "ikan kakap merah karang",
+    "ikan kakap merah",
+    "ikan kakap"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/ikan_kerapu.png",
+   "nama": "ikan_kerapu",
+   "base": "ikan_kerapu",
+   "kategori": "hewan_laut",
+   "w": 1004,
+   "h": 472,
+   "transparan": true,
+   "kata": [
+    "ikan kerapu"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/ikan_layang.png",
+   "nama": "ikan_layang",
+   "base": "ikan_layang",
+   "kategori": "hewan_laut",
+   "w": 920,
+   "h": 360,
+   "transparan": true,
+   "kata": [
+    "ikan layang"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/ikan_pedang.png",
+   "nama": "ikan_pedang",
+   "base": "ikan_pedang",
+   "kategori": "hewan_laut",
+   "w": 1190,
+   "h": 550,
+   "transparan": true,
+   "kata": [
+    "ikan pedang"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/ikan_tang_biru.png",
+   "nama": "ikan_tang_biru",
+   "base": "ikan_tang_biru",
+   "kategori": "hewan_laut",
+   "w": 834,
+   "h": 440,
+   "transparan": true,
+   "kata": [
+    "ikan tang biru",
+    "ikan tang"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/ikan_tenggiri.png",
+   "nama": "ikan_tenggiri",
+   "base": "ikan_tenggiri",
+   "kategori": "hewan_laut",
+   "w": 1024,
+   "h": 364,
+   "transparan": true,
+   "kata": [
+    "ikan tenggiri"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/kepiting_merah.png",
+   "nama": "kepiting_merah",
+   "base": "kepiting_merah",
+   "kategori": "hewan_laut",
+   "w": 816,
+   "h": 496,
+   "transparan": true,
+   "kata": [
+    "kepiting merah",
+    "kepiting"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/kerang_terbuka.png",
+   "nama": "kerang_terbuka",
+   "base": "kerang_terbuka",
+   "kategori": "hewan_laut",
+   "w": 692,
+   "h": 522,
+   "transparan": true,
+   "kata": [
+    "kerang terbuka",
+    "kerang"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/kima_raksasa_pemandangan.png",
+   "nama": "kima_raksasa_pemandangan",
+   "base": "kima_raksasa_pemandangan",
+   "kategori": "hewan_laut",
+   "w": 1348,
+   "h": 740,
+   "transparan": false,
+   "kata": [
+    "kima raksasa pemandangan",
+    "kima raksasa",
+    "kima"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/kuda_laut_a.png",
+   "nama": "kuda_laut_a",
+   "base": "kuda_laut",
+   "kategori": "hewan_laut",
+   "w": 422,
+   "h": 1144,
+   "transparan": true,
+   "kata": [
+    "kuda laut"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/kuda_laut_b.png",
+   "nama": "kuda_laut_b",
+   "base": "kuda_laut",
+   "kategori": "hewan_laut",
+   "w": 326,
+   "h": 668,
+   "transparan": true,
+   "kata": [
+    "kuda laut"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/lobster_a.png",
+   "nama": "lobster_a",
+   "base": "lobster",
+   "kategori": "hewan_laut",
+   "w": 980,
+   "h": 478,
+   "transparan": true,
+   "kata": [
+    "lobster"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/lobster_kartun.png",
+   "nama": "lobster_kartun",
+   "base": "lobster",
+   "kategori": "hewan_laut",
+   "w": 1070,
+   "h": 624,
+   "transparan": true,
+   "kata": [
+    "lobster"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/lumba_lumba_b.png",
+   "nama": "lumba_lumba_b",
+   "base": "lumba_lumba",
+   "kategori": "hewan_laut",
+   "w": 944,
+   "h": 608,
+   "transparan": true,
+   "kata": [
+    "lumba lumba"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/lumba_lumba_melompat_a.png",
+   "nama": "lumba_lumba_melompat_a",
+   "base": "lumba_lumba_melompat",
+   "kategori": "hewan_laut",
+   "w": 886,
+   "h": 674,
+   "transparan": true,
+   "kata": [
+    "lumba lumba melompat",
+    "lumba lumba"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/nudibranch_warna_warni.png",
+   "nama": "nudibranch_warna_warni",
+   "base": "nudibranch_warna_warni",
+   "kategori": "hewan_laut",
+   "w": 814,
+   "h": 584,
+   "transparan": true,
+   "kata": [
+    "nudibranch warna warni",
+    "nudibranch warna",
+    "nudibranch"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/pari_burung_totol.png",
+   "nama": "pari_burung_totol",
+   "base": "pari_burung_totol",
+   "kategori": "hewan_laut",
+   "w": 968,
+   "h": 498,
+   "transparan": true,
+   "kata": [
+    "pari burung totol",
+    "pari burung",
+    "pari"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/paus_bungkuk.png",
+   "nama": "paus_bungkuk",
+   "base": "paus_bungkuk",
+   "kategori": "hewan_laut",
+   "w": 986,
+   "h": 618,
+   "transparan": true,
+   "kata": [
+    "paus bungkuk",
+    "paus"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/penyu_laut_a.png",
+   "nama": "penyu_laut_a",
+   "base": "penyu_laut",
+   "kategori": "hewan_laut",
+   "w": 950,
+   "h": 622,
+   "transparan": true,
+   "kata": [
+    "penyu laut",
+    "penyu"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/penyu_laut_b.png",
+   "nama": "penyu_laut_b",
+   "base": "penyu_laut",
+   "kategori": "hewan_laut",
+   "w": 1074,
+   "h": 700,
+   "transparan": true,
+   "kata": [
+    "penyu laut",
+    "penyu"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/penyu_laut_c.png",
+   "nama": "penyu_laut_c",
+   "base": "penyu_laut",
+   "kategori": "hewan_laut",
+   "w": 912,
+   "h": 584,
+   "transparan": true,
+   "kata": [
+    "penyu laut",
+    "penyu"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/putri_duyung.png",
+   "nama": "putri_duyung",
+   "base": "putri_duyung",
+   "kategori": "hewan_laut",
+   "w": 878,
+   "h": 676,
+   "transparan": true,
+   "kata": [
+    "putri duyung",
+    "putri"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/timun_laut.png",
+   "nama": "timun_laut",
+   "base": "timun_laut",
+   "kategori": "hewan_laut",
+   "w": 1056,
+   "h": 510,
+   "transparan": true,
+   "kata": [
+    "timun laut",
+    "timun"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/ubur_ubur_biru.png",
+   "nama": "ubur_ubur_biru",
+   "base": "ubur_ubur_biru",
+   "kategori": "hewan_laut",
+   "w": 592,
+   "h": 1228,
+   "transparan": true,
+   "kata": [
+    "ubur ubur biru",
+    "ubur ubur",
+    "ubur"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/udang.png",
+   "nama": "udang",
+   "base": "udang",
+   "kategori": "hewan_laut",
+   "w": 752,
+   "h": 482,
+   "transparan": true,
+   "kata": [
+    "udang"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/ular_laut_a.png",
+   "nama": "ular_laut_a",
+   "base": "ular_laut",
+   "kategori": "hewan_laut",
+   "w": 888,
+   "h": 554,
+   "transparan": true,
+   "kata": [
+    "ular laut"
+   ]
+  },
+  {
+   "file": "adri/objek/hewan_laut/ular_laut_kartun.png",
+   "nama": "ular_laut_kartun",
+   "base": "ular_laut",
+   "kategori": "hewan_laut",
+   "w": 942,
+   "h": 588,
+   "transparan": true,
+   "kata": [
+    "ular laut"
+   ]
+  }
+ ]
+}
