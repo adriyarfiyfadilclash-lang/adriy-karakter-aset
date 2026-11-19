@@ -49,3 +49,10 @@ Benda sehari-hari untuk adegan objek (dapur, rumah, elektronik, uang, sains, tub
 transportasi, sejarah). Semua dari Openclipart.org, lisensi CC0 (bebas tanpa kredit). Latar transparan,
 maks. 800 px. Terdaftar di `objek/katalog.json` (kategori "benda", kolom `kelompok`, `kata`, `sumber`):
 gambar muncul otomatis bila naskah menyebut salah satu `kata`.
+
+## suara/ — perpustakaan suara
+
+Kalimat yang sudah dibuat VoxCPM, per model suara (`suara/<suara>/<id>.wav`), dengan `suara/katalog.json`
+(teks, durasi, kategori, catatan, sumber). Pipeline mengambil kalimat yang persis sama dari sini tanpa membuat
+ulang, dan menyimpan setiap kalimat baru ke sini. Tambah manual:
+`python3 pipeline/perpustakaan_suara.py tambah "Kalimat..." --suara adriy ongky --kategori hook`
