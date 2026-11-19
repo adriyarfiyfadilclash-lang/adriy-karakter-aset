@@ -13,6 +13,9 @@ Gambar karakter ADRIY untuk video Adriy.project. Repo ini sengaja privat: berisi
   - `lembar-01..09.png` badan penuh, `dekat/` close-up, setengah badan, dan lembar bentuk mulut
   - `tata.json` — tata letak lembar dan peta pose khusus outfit ini
 
+- `arkeolog/` — outfit arkeolog/petualang lapangan (topi rimba, kemeja khaki ADRIY, rompi, ransel), 85 pose
+  siap pakai di `pose/`; dipakai otomatis untuk video bertopik sejarah/arkeologi
+
 ## Dipakai di repo Aidriy
 
 ```bash
