@@ -16,6 +16,13 @@ Gambar karakter ADRIY untuk video Adriy.project. Repo ini sengaja privat: berisi
 - `arkeolog/` — outfit arkeolog/petualang lapangan (topi rimba, kemeja khaki ADRIY, rompi, ransel), 85 pose
   siap pakai di `pose/`; dipakai otomatis untuk video bertopik sejarah/arkeologi
 
+- `formal/` (69 pose) jas formal — investasi, ekonomi, bisnis, berita; juga style bisnis
+- `angkasa/` (69 pose) astronot — luar angkasa, planet, atmosfer
+- `penyelam/` (41 pose + 4 rusak di `rusak/`) penyelam — laut, hewan laut; ada siklus jalan dan bentuk mulut badan penuh
+- `lab/` (78 pose) jas lab — sains, kimia, biologi, kedokteran; juga style sains
+
+Outfit dipilih otomatis per video dari topik (lihat `art_direct` di pipeline.py repo Aidriy).
+
 ## Dipakai di repo Aidriy
 
 ```bash
