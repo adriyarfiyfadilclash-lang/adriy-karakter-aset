@@ -42,3 +42,10 @@ Sound effect gratis dari internet yang boleh dipakai di video (termasuk dimoneti
 
 Semua sudah diubah ke mp3 (44,1 kHz, 160 kbps). `sfx/katalog.json` mencatat judul, pembuat, lisensi, dan
 sumber tiap file; `sfx/KREDIT.md` mendaftar file CC BY yang wajib dikredit di deskripsi video.
+
+## objek/benda/ — 138 gambar benda
+
+Benda sehari-hari untuk adegan objek (dapur, rumah, elektronik, uang, sains, tubuh, alam, luar angkasa,
+transportasi, sejarah). Semua dari Openclipart.org, lisensi CC0 (bebas tanpa kredit). Latar transparan,
+maks. 800 px. Terdaftar di `objek/katalog.json` (kategori "benda", kolom `kelompok`, `kata`, `sumber`):
+gambar muncul otomatis bila naskah menyebut salah satu `kata`.
