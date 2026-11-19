@@ -539,6 +539,28 @@
    "catatan": "nada serius",
    "sumber": "perpustakaan_suara.py",
    "dibuat": "2026-11-19"
+  },
+  {
+   "id": "6936b400b36e",
+   "suara": "adriy",
+   "teks": "Ketika tubuh mulai rileks, otot-otot kita perlahan kehilangan ketegangan. Tapi terkadang, otak salah mengartikan perubahan ini seolah-olah tubuh sedang kehilangan keseimbangan.",
+   "file": "suara/adriy/6936b400b36e.wav",
+   "durasi": 9.12,
+   "kategori": "penjelasan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
+  },
+  {
+   "id": "a5018ff1173a",
+   "suara": "ongky",
+   "teks": "Ketika tubuh mulai rileks, otot-otot kita perlahan kehilangan ketegangan. Tapi terkadang, otak salah mengartikan perubahan ini seolah-olah tubuh sedang kehilangan keseimbangan.",
+   "file": "suara/ongky/a5018ff1173a.wav",
+   "durasi": 9.6,
+   "kategori": "penjelasan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
   }
  ]
 }
