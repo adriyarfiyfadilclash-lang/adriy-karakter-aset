@@ -517,6 +517,28 @@
    "catatan": "nada terkejut",
    "sumber": "perpustakaan_suara.py",
    "dibuat": "2026-11-19"
+  },
+  {
+   "id": "44acec416ad1",
+   "suara": "adriy",
+   "teks": "Fenomena ini ternyata punya nama, yaitu hypnic jerk. Dan ini sebenarnya adalah reaksi alami tubuh saat kita mulai memasuki fase tidur.",
+   "file": "suara/adriy/44acec416ad1.wav",
+   "durasi": 8.16,
+   "kategori": "penjelasan",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
+  },
+  {
+   "id": "64295c8936f6",
+   "suara": "ongky",
+   "teks": "Fenomena ini ternyata punya nama, yaitu hypnic jerk. Dan ini sebenarnya adalah reaksi alami tubuh saat kita mulai memasuki fase tidur.",
+   "file": "suara/ongky/64295c8936f6.wav",
+   "durasi": 8.8,
+   "kategori": "penjelasan",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
   }
  ]
 }
