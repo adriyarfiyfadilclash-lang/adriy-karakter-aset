@@ -561,6 +561,182 @@
    "catatan": "nada penasaran",
    "sumber": "perpustakaan_suara.py",
    "dibuat": "2026-11-19"
+  },
+  {
+   "id": "ab5c8e47e95f",
+   "suara": "adriy",
+   "teks": "Akibatnya, otak mengirimkan sinyal secara tiba-tiba ke otot. Dan BOOM! Tubuh kita tersentak, seolah sedang berusaha menyelamatkan diri dari jatuh.",
+   "file": "suara/adriy/ab5c8e47e95f.wav",
+   "durasi": 9.12,
+   "kategori": "penjelasan",
+   "catatan": "nada menjelaskan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
+  },
+  {
+   "id": "6f95230838fb",
+   "suara": "ongky",
+   "teks": "Akibatnya, otak mengirimkan sinyal secara tiba-tiba ke otot. Dan BOOM! Tubuh kita tersentak, seolah sedang berusaha menyelamatkan diri dari jatuh.",
+   "file": "suara/ongky/6f95230838fb.wav",
+   "durasi": 8.8,
+   "kategori": "penjelasan",
+   "catatan": "nada menjelaskan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
+  },
+  {
+   "id": "8913b0c49702",
+   "suara": "adriy",
+   "teks": "Jadi, kalau kamu pernah mengalami ini, tenang... bukan berarti kasurmu tiba-tiba berubah menjadi jurang.",
+   "file": "suara/adriy/8913b0c49702.wav",
+   "durasi": 6.08,
+   "kategori": "bawa kembali",
+   "catatan": "nada sedikit humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
+  },
+  {
+   "id": "3407516ccc5f",
+   "suara": "ongky",
+   "teks": "Jadi, kalau kamu pernah mengalami ini, tenang... bukan berarti kasurmu tiba-tiba berubah menjadi jurang.",
+   "file": "suara/ongky/3407516ccc5f.wav",
+   "durasi": 6.24,
+   "kategori": "bawa kembali",
+   "catatan": "nada sedikit humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
+  },
+  {
+   "id": "002815956330",
+   "suara": "adriy",
+   "teks": "Fenomena ini lebih sering terjadi ketika kita kelelahan, stres, mengonsumsi kafein, atau memiliki jadwal tidur yang tidak teratur.",
+   "file": "suara/adriy/002815956330.wav",
+   "durasi": 7.52,
+   "kategori": "penjelasan",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
+  },
+  {
+   "id": "ee51acf49613",
+   "suara": "ongky",
+   "teks": "Fenomena ini lebih sering terjadi ketika kita kelelahan, stres, mengonsumsi kafein, atau memiliki jadwal tidur yang tidak teratur.",
+   "file": "suara/ongky/ee51acf49613.wav",
+   "durasi": 6.88,
+   "kategori": "penjelasan",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
+  },
+  {
+   "id": "a360d91edbdc",
+   "suara": "adriy",
+   "teks": "Jadi lain kali ketika tubuhmu tersentak saat tidur, ingat... otakmu mungkin cuma sedang terlalu waspada.",
+   "file": "suara/adriy/a360d91edbdc.wav",
+   "durasi": 6.56,
+   "kategori": "penutup",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
+  },
+  {
+   "id": "55eea8629438",
+   "suara": "ongky",
+   "teks": "Jadi lain kali ketika tubuhmu tersentak saat tidur, ingat... otakmu mungkin cuma sedang terlalu waspada.",
+   "file": "suara/ongky/55eea8629438.wav",
+   "durasi": 5.76,
+   "kategori": "penutup",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
+  },
+  {
+   "id": "9ae21af421fa",
+   "suara": "adriy",
+   "teks": "Dan lucunya, terkadang otak kita sendiri yang membuat kita takut... padahal kita sedang berada di tempat paling aman.",
+   "file": "suara/adriy/9ae21af421fa.wav",
+   "durasi": 6.72,
+   "kategori": "penutup",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
+  },
+  {
+   "id": "09a1a21c3436",
+   "suara": "ongky",
+   "teks": "Dan lucunya, terkadang otak kita sendiri yang membuat kita takut... padahal kita sedang berada di tempat paling aman.",
+   "file": "suara/ongky/09a1a21c3436.wav",
+   "durasi": 6.4,
+   "kategori": "penutup",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
+  },
+  {
+   "id": "9e98b66244a8",
+   "suara": "adriy",
+   "teks": "Pernah nggak kamu merasa, semakin bertambah umur, waktu terasa semakin cepat berlalu?",
+   "file": "suara/adriy/9e98b66244a8.wav",
+   "durasi": 5.44,
+   "kategori": "hook",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
+  },
+  {
+   "id": "349b2ad42a9b",
+   "suara": "ongky",
+   "teks": "Pernah nggak kamu merasa, semakin bertambah umur, waktu terasa semakin cepat berlalu?",
+   "file": "suara/ongky/349b2ad42a9b.wav",
+   "durasi": 5.12,
+   "kategori": "hook",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
+  },
+  {
+   "id": "a990d38bbf4e",
+   "suara": "adriy",
+   "teks": "Kok bisa, ya?",
+   "file": "suara/adriy/a990d38bbf4e.wav",
+   "durasi": 1.76,
+   "kategori": "hook",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
+  },
+  {
+   "id": "b7b14e898b7e",
+   "suara": "ongky",
+   "teks": "Kok bisa, ya?",
+   "file": "suara/ongky/b7b14e898b7e.wav",
+   "durasi": 0.8,
+   "kategori": "hook",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
+  },
+  {
+   "id": "62d7e70380ae",
+   "suara": "adriy",
+   "teks": "Dulu, satu hari terasa begitu lama.",
+   "file": "suara/adriy/62d7e70380ae.wav",
+   "durasi": 2.56,
+   "kategori": "relate",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
+  },
+  {
+   "id": "161563ce48c9",
+   "suara": "ongky",
+   "teks": "Dulu, satu hari terasa begitu lama.",
+   "file": "suara/ongky/161563ce48c9.wav",
+   "durasi": 2.56,
+   "kategori": "relate",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-19"
   }
  ]
 }
