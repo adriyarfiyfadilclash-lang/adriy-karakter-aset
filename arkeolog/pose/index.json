@@ -268,7 +268,7 @@
    "file": "pose/lari_loncat_panjang.png",
    "w": 591,
    "h": 547,
-   "rowH": 547,
+   "rowH": 729,
    "bottomGap": 0,
    "dariTransparan": true
   },
@@ -324,7 +324,7 @@
    "file": "pose/melayang_terbang.png",
    "w": 575,
    "h": 435,
-   "rowH": 435,
+   "rowH": 870,
    "bottomGap": 0,
    "dariTransparan": true
   },
@@ -356,7 +356,7 @@
    "file": "pose/salto_gulung.png",
    "w": 419,
    "h": 519,
-   "rowH": 519,
+   "rowH": 741,
    "bottomGap": 0,
    "dariTransparan": true
   },
@@ -500,7 +500,7 @@
    "file": "pose/tendang_putar.png",
    "w": 584,
    "h": 486,
-   "rowH": 486,
+   "rowH": 648,
    "bottomGap": 0,
    "dariTransparan": true
   },

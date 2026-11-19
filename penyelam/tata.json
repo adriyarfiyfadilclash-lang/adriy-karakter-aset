@@ -3,14 +3,23 @@
  "siap": true,
  "tinggi": {
   "jongkok_": 0.62,
-  "duduk_": 0.6
+  "duduk_": 0.6,
+  "renang_": 0.4,
+  "dorong_": 0.4,
+  "melayang_tangan_silang": 0.4,
+  "rebahan_": 0.4,
+  "merangkak": 0.5,
+  "lari_loncat": 0.75,
+  "melayang_terbang": 0.5,
+  "tendang_putar": 0.75,
+  "salto_": 0.7
  },
  "penuh": {
   "netral": "berdiri_tangan_saku",
   "jelaskan": "lipsync_diam_senyum",
   "sapa": "jempol_regulator",
-  "tunjuk": "renang_ulur_tangan",
-  "ajak": "renang_ulur_tangan",
+  "tunjuk": "ok_senter",
+  "ajak": "jempol_regulator",
   "angkat": "naik_pelampung_sinyal",
   "lihat": "foto_kamera_lampu",
   "pegang": "jongkok_pegang_bintang_laut",

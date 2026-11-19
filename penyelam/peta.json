@@ -26,18 +26,18 @@
   ],
   "tunjuk": [
    {
-    "w": 739,
-    "h": 320,
-    "rowH": 320,
-    "file": "adri/penyelam/pose/renang_ulur_tangan.png"
+    "w": 401,
+    "h": 835,
+    "rowH": 835,
+    "file": "adri/penyelam/pose/ok_senter.png"
    }
   ],
   "ajak": [
    {
-    "w": 739,
-    "h": 320,
-    "rowH": 320,
-    "file": "adri/penyelam/pose/renang_ulur_tangan.png"
+    "w": 349,
+    "h": 799,
+    "rowH": 799,
+    "file": "adri/penyelam/pose/jempol_regulator.png"
    }
   ],
   "angkat": [

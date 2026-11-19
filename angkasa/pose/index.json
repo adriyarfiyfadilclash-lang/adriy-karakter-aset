@@ -124,7 +124,7 @@
    "file": "pose/dorong_pintu.png",
    "w": 580,
    "h": 585,
-   "rowH": 585,
+   "rowH": 1462,
    "bottomGap": 0,
    "dariTransparan": true
   },
@@ -404,7 +404,7 @@
    "file": "pose/merangkak.png",
    "w": 508,
    "h": 453,
-   "rowH": 453,
+   "rowH": 906,
    "bottomGap": 0,
    "dariTransparan": true
   },
@@ -452,7 +452,7 @@
    "file": "pose/rebahan_melayang.png",
    "w": 410,
    "h": 598,
-   "rowH": 598,
+   "rowH": 1495,
    "bottomGap": 0,
    "dariTransparan": true
   },
