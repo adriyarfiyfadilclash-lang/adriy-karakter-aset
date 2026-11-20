@@ -22910,6 +22910,906 @@
    "catatan": "nada tegas",
    "sumber": "perpustakaan_suara.py",
    "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c9e975c4e9a8",
+   "suara": "adriy",
+   "teks": "Mulailah dari yang kecil, tapi mulailah hari ini.",
+   "dibaca": "Mulailah dari yang kecil, tapi mulailah hari ini.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/c9e975c4e9a8.wav",
+   "durasi": 3.2,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f34bae8b70e9",
+   "suara": "ongky",
+   "teks": "Mulailah dari yang kecil, tapi mulailah hari ini.",
+   "dibaca": "Mulailah dari yang kecil, tapi mulailah hari ini.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/f34bae8b70e9.wav",
+   "durasi": 3.2,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "368ccf702478",
+   "suara": "adriy",
+   "teks": "Setiap ahli dulunya juga pemula.",
+   "dibaca": "Setiap ahli dulunya juga pemula.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/368ccf702478.wav",
+   "durasi": 2.4,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f80a4fbf79a8",
+   "suara": "ongky",
+   "teks": "Setiap ahli dulunya juga pemula.",
+   "dibaca": "Setiap ahli dulunya juga pemula.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/f80a4fbf79a8.wav",
+   "durasi": 2.24,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bf5bbb9493f1",
+   "suara": "adriy",
+   "teks": "Tidak apa-apa pelan, asal tidak berhenti.",
+   "dibaca": "Tidak apa-apa pelan, asal tidak berhenti.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/bf5bbb9493f1.wav",
+   "durasi": 13.28,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "174b1b27ea79",
+   "suara": "ongky",
+   "teks": "Tidak apa-apa pelan, asal tidak berhenti.",
+   "dibaca": "Tidak apa-apa pelan, asal tidak berhenti.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/174b1b27ea79.wav",
+   "durasi": 2.72,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b74e574c1682",
+   "suara": "adriy",
+   "teks": "Kegagalan bukan akhir, tapi bagian dari proses.",
+   "dibaca": "Kegagalan bukan akhir, tapi bagian dari proses.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/b74e574c1682.wav",
+   "durasi": 3.2,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "207ff299458e",
+   "suara": "ongky",
+   "teks": "Kegagalan bukan akhir, tapi bagian dari proses.",
+   "dibaca": "Kegagalan bukan akhir, tapi bagian dari proses.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/207ff299458e.wav",
+   "durasi": 3.52,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "dff564371be3",
+   "suara": "adriy",
+   "teks": "Kamu tidak harus hebat untuk memulai.",
+   "dibaca": "Kamu tidak harus hebat untuk memulai.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/dff564371be3.wav",
+   "durasi": 2.08,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "91fb25453162",
+   "suara": "ongky",
+   "teks": "Kamu tidak harus hebat untuk memulai.",
+   "dibaca": "Kamu tidak harus hebat untuk memulai.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/91fb25453162.wav",
+   "durasi": 2.08,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "88bfe682a0d5",
+   "suara": "adriy",
+   "teks": "Satu kebiasaan kecil bisa mengubah banyak hal.",
+   "dibaca": "Satu kebiasaan kecil bisa mengubah banyak hal.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/88bfe682a0d5.wav",
+   "durasi": 2.88,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f37cef3a687b",
+   "suara": "ongky",
+   "teks": "Satu kebiasaan kecil bisa mengubah banyak hal.",
+   "dibaca": "Satu kebiasaan kecil bisa mengubah banyak hal.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/f37cef3a687b.wav",
+   "durasi": 2.88,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d71d969ba141",
+   "suara": "adriy",
+   "teks": "Konsisten lebih penting daripada sempurna.",
+   "dibaca": "Konsisten lebih penting daripada sempurna.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/d71d969ba141.wav",
+   "durasi": 2.4,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e9fb85e37b32",
+   "suara": "ongky",
+   "teks": "Konsisten lebih penting daripada sempurna.",
+   "dibaca": "Konsisten lebih penting daripada sempurna.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/e9fb85e37b32.wav",
+   "durasi": 3.2,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c5fd705e0778",
+   "suara": "adriy",
+   "teks": "Hari ini mungkin berat, tapi kamu bisa melewatinya.",
+   "dibaca": "Hari ini mungkin berat, tapi kamu bisa melewatinya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/c5fd705e0778.wav",
+   "durasi": 3.52,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e86296e98228",
+   "suara": "ongky",
+   "teks": "Hari ini mungkin berat, tapi kamu bisa melewatinya.",
+   "dibaca": "Hari ini mungkin berat, tapi kamu bisa melewatinya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/e86296e98228.wav",
+   "durasi": 3.36,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "0359171cd163",
+   "suara": "adriy",
+   "teks": "Percaya pada prosesnya.",
+   "dibaca": "Percaya pada prosesnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/0359171cd163.wav",
+   "durasi": 0.96,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8b5d902797d7",
+   "suara": "ongky",
+   "teks": "Percaya pada prosesnya.",
+   "dibaca": "Percaya pada prosesnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/8b5d902797d7.wav",
+   "durasi": 1.92,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e6deb6cb6500",
+   "suara": "adriy",
+   "teks": "Yang kamu lakukan hari ini menentukan dirimu besok.",
+   "dibaca": "Yang kamu lakukan hari ini menentukan dirimu besok.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/e6deb6cb6500.wav",
+   "durasi": 2.88,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8ed911cb7c71",
+   "suara": "ongky",
+   "teks": "Yang kamu lakukan hari ini menentukan dirimu besok.",
+   "dibaca": "Yang kamu lakukan hari ini menentukan dirimu besok.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/8ed911cb7c71.wav",
+   "durasi": 3.04,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d0de4fdf767b",
+   "suara": "adriy",
+   "teks": "Jangan bandingkan langkahmu dengan orang lain.",
+   "dibaca": "Jangan bandingkan langkahmu dengan orang lain.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/d0de4fdf767b.wav",
+   "durasi": 2.4,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "854a57f3bd1a",
+   "suara": "ongky",
+   "teks": "Jangan bandingkan langkahmu dengan orang lain.",
+   "dibaca": "Jangan bandingkan langkahmu dengan orang lain.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/ongky/854a57f3bd1a.wav",
+   "durasi": 2.72,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "deca4b87564a",
+   "suara": "adriy",
+   "teks": "Setiap langkah tetap berarti, sekecil apa pun.",
+   "dibaca": "Setiap langkah tetap berarti, sekecil apa pun.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/deca4b87564a.wav",
+   "durasi": 3.2,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "159443957ebd",
+   "suara": "ongky",
+   "teks": "Setiap langkah tetap berarti, sekecil apa pun.",
+   "dibaca": "Setiap langkah tetap berarti, sekecil apa pun.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/159443957ebd.wav",
+   "durasi": 3.04,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "cadc8489c3d3",
+   "suara": "adriy",
+   "teks": "Belajar tidak pernah ada kata terlambat.",
+   "dibaca": "Belajar tidak pernah ada kata terlambat.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/cadc8489c3d3.wav",
+   "durasi": 2.08,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "05455e0a36aa",
+   "suara": "ongky",
+   "teks": "Belajar tidak pernah ada kata terlambat.",
+   "dibaca": "Belajar tidak pernah ada kata terlambat.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/05455e0a36aa.wav",
+   "durasi": 2.4,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "af0d196e1500",
+   "suara": "adriy",
+   "teks": "Rasa penasaran adalah awal dari semua penemuan.",
+   "dibaca": "Rasa penasaran adalah awal dari semua penemuan.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/af0d196e1500.wav",
+   "durasi": 3.2,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bd72339c3e8c",
+   "suara": "ongky",
+   "teks": "Rasa penasaran adalah awal dari semua penemuan.",
+   "dibaca": "Rasa penasaran adalah awal dari semua penemuan.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/bd72339c3e8c.wav",
+   "durasi": 3.52,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5402b7ff46b5",
+   "suara": "adriy",
+   "teks": "Teruslah bertanya, karena di situlah kita tumbuh.",
+   "dibaca": "Teruslah bertanya, karena di situlah kita tumbuh.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/5402b7ff46b5.wav",
+   "durasi": 2.88,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e1b639a495f1",
+   "suara": "ongky",
+   "teks": "Teruslah bertanya, karena di situlah kita tumbuh.",
+   "dibaca": "Teruslah bertanya, karena di situlah kita tumbuh.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/e1b639a495f1.wav",
+   "durasi": 2.88,
+   "kategori": "motivasi",
+   "catatan": "nada motivasi",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6ff6ba5a7d5d",
+   "suara": "adriy",
+   "teks": "Banyak penemuan besar berawal dari pertanyaan sederhana.",
+   "dibaca": "Banyak penemuan besar berawal dari pertanyaan sederhana.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/adriy/6ff6ba5a7d5d.wav",
+   "durasi": 3.04,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8fc333ce68a7",
+   "suara": "ongky",
+   "teks": "Banyak penemuan besar berawal dari pertanyaan sederhana.",
+   "dibaca": "Banyak penemuan besar berawal dari pertanyaan sederhana.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/ongky/8fc333ce68a7.wav",
+   "durasi": 3.04,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "1dceb21e888b",
+   "suara": "adriy",
+   "teks": "Mereka juga pernah gagal, berkali-kali.",
+   "dibaca": "Mereka juga pernah gagal, berkali-kali.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/1dceb21e888b.wav",
+   "durasi": 2.72,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "fd424a9a550e",
+   "suara": "ongky",
+   "teks": "Mereka juga pernah gagal, berkali-kali.",
+   "dibaca": "Mereka juga pernah gagal, berkali-kali.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/fd424a9a550e.wav",
+   "durasi": 2.72,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bf7c25466dc1",
+   "suara": "adriy",
+   "teks": "Yang membedakan hanyalah, mereka tidak menyerah.",
+   "dibaca": "Yang membedakan hanyalah, mereka tidak menyerah.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/bf7c25466dc1.wav",
+   "durasi": 2.88,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a4a8f0732f62",
+   "suara": "ongky",
+   "teks": "Yang membedakan hanyalah, mereka tidak menyerah.",
+   "dibaca": "Yang membedakan hanyalah, mereka tidak menyerah.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/a4a8f0732f62.wav",
+   "durasi": 3.36,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "caf9fcd3ab74",
+   "suara": "adriy",
+   "teks": "Dunia berubah karena ada yang berani mencoba.",
+   "dibaca": "Dunia berubah karena ada yang berani mencoba.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/caf9fcd3ab74.wav",
+   "durasi": 2.72,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9c75e03679ee",
+   "suara": "ongky",
+   "teks": "Dunia berubah karena ada yang berani mencoba.",
+   "dibaca": "Dunia berubah karena ada yang berani mencoba.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/9c75e03679ee.wav",
+   "durasi": 3.2,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3f3d808db5cf",
+   "suara": "adriy",
+   "teks": "Mungkin, kamu adalah orang berikutnya.",
+   "dibaca": "Mungkin, kamu adalah orang berikutnya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/3f3d808db5cf.wav",
+   "durasi": 2.4,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8f904f67b7d7",
+   "suara": "ongky",
+   "teks": "Mungkin, kamu adalah orang berikutnya.",
+   "dibaca": "Mungkin, kamu adalah orang berikutnya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/8f904f67b7d7.wav",
+   "durasi": 2.56,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f19d6a925b7b",
+   "suara": "adriy",
+   "teks": "Mimpi besar dimulai dari langkah kecil.",
+   "dibaca": "Mimpi besar dimulai dari langkah kecil.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/adriy/f19d6a925b7b.wav",
+   "durasi": 2.72,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bf4078a142f7",
+   "suara": "ongky",
+   "teks": "Mimpi besar dimulai dari langkah kecil.",
+   "dibaca": "Mimpi besar dimulai dari langkah kecil.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/ongky/bf4078a142f7.wav",
+   "durasi": 2.4,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f7a513c3159f",
+   "suara": "adriy",
+   "teks": "Hal mustahil hanya belum pernah dicoba.",
+   "dibaca": "Hal mustahil hanya belum pernah dicoba.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/f7a513c3159f.wav",
+   "durasi": 2.24,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "814ded27c315",
+   "suara": "ongky",
+   "teks": "Hal mustahil hanya belum pernah dicoba.",
+   "dibaca": "Hal mustahil hanya belum pernah dicoba.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/814ded27c315.wav",
+   "durasi": 2.24,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6a861178bc2a",
+   "suara": "adriy",
+   "teks": "Setiap hari adalah kesempatan untuk menjadi lebih baik.",
+   "dibaca": "Setiap hari adalah kesempatan untuk menjadi lebih baik.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/6a861178bc2a.wav",
+   "durasi": 2.88,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "059320fdad09",
+   "suara": "ongky",
+   "teks": "Setiap hari adalah kesempatan untuk menjadi lebih baik.",
+   "dibaca": "Setiap hari adalah kesempatan untuk menjadi lebih baik.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/059320fdad09.wav",
+   "durasi": 3.04,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "52065c1c3f92",
+   "suara": "adriy",
+   "teks": "Jangan takut salah, takutlah kalau tidak pernah mencoba.",
+   "dibaca": "Jangan takut salah, takutlah kalau tidak pernah mencoba.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/52065c1c3f92.wav",
+   "durasi": 3.2,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "990293b2610f",
+   "suara": "ongky",
+   "teks": "Jangan takut salah, takutlah kalau tidak pernah mencoba.",
+   "dibaca": "Jangan takut salah, takutlah kalau tidak pernah mencoba.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/990293b2610f.wav",
+   "durasi": 4.0,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "69d0afb1160b",
+   "suara": "adriy",
+   "teks": "Kita semua punya potensi yang belum kita sadari.",
+   "dibaca": "Kita semua punya potensi yang belum kita sadari.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/69d0afb1160b.wav",
+   "durasi": 3.2,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ed8f86ac21de",
+   "suara": "ongky",
+   "teks": "Kita semua punya potensi yang belum kita sadari.",
+   "dibaca": "Kita semua punya potensi yang belum kita sadari.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/ed8f86ac21de.wav",
+   "durasi": 2.72,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e2a5c0ea8ff9",
+   "suara": "adriy",
+   "teks": "Rasa ingin tahu bisa membawamu ke tempat yang tak terduga.",
+   "dibaca": "Rasa ingin tahu bisa membawamu ke tempat yang tak terduga.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/e2a5c0ea8ff9.wav",
+   "durasi": 3.36,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6be992eface9",
+   "suara": "ongky",
+   "teks": "Rasa ingin tahu bisa membawamu ke tempat yang tak terduga.",
+   "dibaca": "Rasa ingin tahu bisa membawamu ke tempat yang tak terduga.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/6be992eface9.wav",
+   "durasi": 3.52,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a21ab6ce716d",
+   "suara": "adriy",
+   "teks": "Teruslah belajar, karena dunia tidak pernah berhenti berubah.",
+   "dibaca": "Teruslah belajar, karena dunia tidak pernah berhenti berubah.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/a21ab6ce716d.wav",
+   "durasi": 4.16,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ba1142e780ac",
+   "suara": "ongky",
+   "teks": "Teruslah belajar, karena dunia tidak pernah berhenti berubah.",
+   "dibaca": "Teruslah belajar, karena dunia tidak pernah berhenti berubah.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/ba1142e780ac.wav",
+   "durasi": 3.2,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "fced9391eb6c",
+   "suara": "adriy",
+   "teks": "Yang hari ini terasa sulit, besok mungkin jadi kebiasaan.",
+   "dibaca": "Yang hari ini terasa sulit, besok mungkin jadi kebiasaan.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/fced9391eb6c.wav",
+   "durasi": 3.84,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "463982b3d472",
+   "suara": "ongky",
+   "teks": "Yang hari ini terasa sulit, besok mungkin jadi kebiasaan.",
+   "dibaca": "Yang hari ini terasa sulit, besok mungkin jadi kebiasaan.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/463982b3d472.wav",
+   "durasi": 3.68,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "389738850f12",
+   "suara": "adriy",
+   "teks": "Percaya pada dirimu sendiri, itu langkah pertama.",
+   "dibaca": "Percaya pada dirimu sendiri, itu langkah pertama.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/389738850f12.wav",
+   "durasi": 3.04,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "df04d0b0c427",
+   "suara": "ongky",
+   "teks": "Percaya pada dirimu sendiri, itu langkah pertama.",
+   "dibaca": "Percaya pada dirimu sendiri, itu langkah pertama.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/df04d0b0c427.wav",
+   "durasi": 3.52,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "cd84a127327f",
+   "suara": "adriy",
+   "teks": "Dan perjalananmu, baru saja dimulai.",
+   "dibaca": "Dan perjalananmu, baru saja dimulai.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/adriy/cd84a127327f.wav",
+   "durasi": 3.04,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e4ecfb97df66",
+   "suara": "ongky",
+   "teks": "Dan perjalananmu, baru saja dimulai.",
+   "dibaca": "Dan perjalananmu, baru saja dimulai.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/ongky/e4ecfb97df66.wav",
+   "durasi": 4.16,
+   "kategori": "motivasi",
+   "catatan": "nada inspiratif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
   }
  ]
 }
