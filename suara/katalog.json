@@ -18070,6 +18070,1220 @@
    "catatan": "nada dramatis",
    "sumber": "perpustakaan_suara.py",
    "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8ec1de42575c",
+   "suara": "adriy",
+   "teks": "Iya, kamu nggak salah dengar.",
+   "dibaca": "Iya, kamu nggak salah dengar.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/8ec1de42575c.wav",
+   "durasi": 1.76,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "10e135b26cd2",
+   "suara": "ongky",
+   "teks": "Iya, kamu nggak salah dengar.",
+   "dibaca": "Iya, kamu nggak salah dengar.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/10e135b26cd2.wav",
+   "durasi": 2.4,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a1e40aeaa009",
+   "suara": "adriy",
+   "teks": "Kedengarannya aneh, tapi beneran.",
+   "dibaca": "Kedengarannya aneh, tapi beneran.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/a1e40aeaa009.wav",
+   "durasi": 2.4,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "98a79c9b9256",
+   "suara": "ongky",
+   "teks": "Kedengarannya aneh, tapi beneran.",
+   "dibaca": "Kedengarannya aneh, tapi beneran.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/98a79c9b9256.wav",
+   "durasi": 2.72,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "323b30693083",
+   "suara": "adriy",
+   "teks": "Plot twist, kan?",
+   "dibaca": "Plot twist, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/323b30693083.wav",
+   "durasi": 1.12,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "25793e0589a0",
+   "suara": "ongky",
+   "teks": "Plot twist, kan?",
+   "dibaca": "Plot twist, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/25793e0589a0.wav",
+   "durasi": 1.44,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "24a4b027db43",
+   "suara": "adriy",
+   "teks": "Siapa yang sering begini? Ngaku aja.",
+   "dibaca": "Siapa yang sering begini? Ngaku aja.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/24a4b027db43.wav",
+   "durasi": 3.04,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "084a53e4b452",
+   "suara": "ongky",
+   "teks": "Siapa yang sering begini? Ngaku aja.",
+   "dibaca": "Siapa yang sering begini? Ngaku aja.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/084a53e4b452.wav",
+   "durasi": 2.24,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ed1ca68d20d7",
+   "suara": "adriy",
+   "teks": "Jangan bilang kamu juga begitu.",
+   "dibaca": "Jangan bilang kamu juga begitu.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/ed1ca68d20d7.wav",
+   "durasi": 1.6,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9a6ef680b0b4",
+   "suara": "ongky",
+   "teks": "Jangan bilang kamu juga begitu.",
+   "dibaca": "Jangan bilang kamu juga begitu.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/9a6ef680b0b4.wav",
+   "durasi": 2.24,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bde9befbc6cb",
+   "suara": "adriy",
+   "teks": "Tenang, kamu nggak sendirian.",
+   "dibaca": "Tenang, kamu nggak sendirian.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/bde9befbc6cb.wav",
+   "durasi": 1.92,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f2ab91b9c115",
+   "suara": "ongky",
+   "teks": "Tenang, kamu nggak sendirian.",
+   "dibaca": "Tenang, kamu nggak sendirian.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/f2ab91b9c115.wav",
+   "durasi": 1.92,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9a849f4fb51c",
+   "suara": "adriy",
+   "teks": "Iya, kita semua pernah begitu.",
+   "dibaca": "Iya, kita semua pernah begitu.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/9a849f4fb51c.wav",
+   "durasi": 1.92,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e5dd28e9072b",
+   "suara": "ongky",
+   "teks": "Iya, kita semua pernah begitu.",
+   "dibaca": "Iya, kita semua pernah begitu.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/e5dd28e9072b.wav",
+   "durasi": 2.08,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "064ac752e2dc",
+   "suara": "adriy",
+   "teks": "Otak kita kadang memang suka bercanda.",
+   "dibaca": "Otak kita kadang memang suka bercanda.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/064ac752e2dc.wav",
+   "durasi": 2.56,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9cac705974aa",
+   "suara": "ongky",
+   "teks": "Otak kita kadang memang suka bercanda.",
+   "dibaca": "Otak kita kadang memang suka bercanda.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/9cac705974aa.wav",
+   "durasi": 2.88,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "12c43443655f",
+   "suara": "adriy",
+   "teks": "Ternyata tubuh kita juga bisa drama.",
+   "dibaca": "Ternyata tubuh kita juga bisa drama.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/12c43443655f.wav",
+   "durasi": 2.4,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7cb3fc6eaf86",
+   "suara": "ongky",
+   "teks": "Ternyata tubuh kita juga bisa drama.",
+   "dibaca": "Ternyata tubuh kita juga bisa drama.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/7cb3fc6eaf86.wav",
+   "durasi": 2.72,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "1768a0c390f1",
+   "suara": "adriy",
+   "teks": "Kalau dipikir-pikir, lucu juga, ya.",
+   "dibaca": "Kalau dipikir-pikir, lucu juga, ya.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/1768a0c390f1.wav",
+   "durasi": 2.56,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7c88b0b2287b",
+   "suara": "ongky",
+   "teks": "Kalau dipikir-pikir, lucu juga, ya.",
+   "dibaca": "Kalau dipikir-pikir, lucu juga, ya.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/7c88b0b2287b.wav",
+   "durasi": 2.4,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9f1153191cfc",
+   "suara": "adriy",
+   "teks": "Jadi, bukan salah kamu, ya.",
+   "dibaca": "Jadi, bukan salah kamu, ya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/9f1153191cfc.wav",
+   "durasi": 2.4,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9178a3c5f732",
+   "suara": "ongky",
+   "teks": "Jadi, bukan salah kamu, ya.",
+   "dibaca": "Jadi, bukan salah kamu, ya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/9178a3c5f732.wav",
+   "durasi": 2.4,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "036d8359c150",
+   "suara": "adriy",
+   "teks": "Ya, namanya juga manusia.",
+   "dibaca": "Ya, namanya juga manusia.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/036d8359c150.wav",
+   "durasi": 1.92,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c77595e213e4",
+   "suara": "ongky",
+   "teks": "Ya, namanya juga manusia.",
+   "dibaca": "Ya, namanya juga manusia.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/c77595e213e4.wav",
+   "durasi": 2.88,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "57ce2a48902c",
+   "suara": "adriy",
+   "teks": "Kayaknya otak kita butuh liburan.",
+   "dibaca": "Kayaknya otak kita butuh liburan.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/57ce2a48902c.wav",
+   "durasi": 2.08,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "327c778224a7",
+   "suara": "ongky",
+   "teks": "Kayaknya otak kita butuh liburan.",
+   "dibaca": "Kayaknya otak kita butuh liburan.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/327c778224a7.wav",
+   "durasi": 3.2,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "87c8f4c7e945",
+   "suara": "adriy",
+   "teks": "Siapa yang setuju? Angkat tangan.",
+   "dibaca": "Siapa yang setuju? Angkat tangan.",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/87c8f4c7e945.wav",
+   "durasi": 2.08,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "99410446231d",
+   "suara": "ongky",
+   "teks": "Siapa yang setuju? Angkat tangan.",
+   "dibaca": "Siapa yang setuju? Angkat tangan.",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/99410446231d.wav",
+   "durasi": 2.88,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2abe8db76934",
+   "suara": "adriy",
+   "teks": "Sudah ketebak, kan?",
+   "dibaca": "Sudah ketebak, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/2abe8db76934.wav",
+   "durasi": 1.44,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "722ac61699cb",
+   "suara": "ongky",
+   "teks": "Sudah ketebak, kan?",
+   "dibaca": "Sudah ketebak, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/722ac61699cb.wav",
+   "durasi": 1.6,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c1e65a7210b9",
+   "suara": "adriy",
+   "teks": "Jujur, ini agak absurd.",
+   "dibaca": "Jujur, ini agak absurd.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/c1e65a7210b9.wav",
+   "durasi": 1.92,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "575abd9d7f1c",
+   "suara": "ongky",
+   "teks": "Jujur, ini agak absurd.",
+   "dibaca": "Jujur, ini agak absurd.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/575abd9d7f1c.wav",
+   "durasi": 1.76,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8ae5ba8ef98f",
+   "suara": "adriy",
+   "teks": "Dan ya, ini sains, bukan sulap.",
+   "dibaca": "Dan ya, ini sains, bukan sulap.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/8ae5ba8ef98f.wav",
+   "durasi": 3.04,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "de3141d6fa96",
+   "suara": "ongky",
+   "teks": "Dan ya, ini sains, bukan sulap.",
+   "dibaca": "Dan ya, ini sains, bukan sulap.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/de3141d6fa96.wav",
+   "durasi": 3.04,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9d2fc74d4101",
+   "suara": "adriy",
+   "teks": "Kalau ada penghargaan buat hal ini, kita semua pasti menang.",
+   "dibaca": "Kalau ada penghargaan buat hal ini, kita semua pasti menang.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/9d2fc74d4101.wav",
+   "durasi": 4.0,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3c823d9bbea3",
+   "suara": "ongky",
+   "teks": "Kalau ada penghargaan buat hal ini, kita semua pasti menang.",
+   "dibaca": "Kalau ada penghargaan buat hal ini, kita semua pasti menang.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/3c823d9bbea3.wav",
+   "durasi": 3.04,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "393a4aae3b04",
+   "suara": "adriy",
+   "teks": "Kalau kamu ketawa sendiri, berarti kamu pernah ngalamin.",
+   "dibaca": "Kalau kamu ketawa sendiri, berarti kamu pernah ngalamin.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/393a4aae3b04.wav",
+   "durasi": 3.68,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bc77110fcab8",
+   "suara": "ongky",
+   "teks": "Kalau kamu ketawa sendiri, berarti kamu pernah ngalamin.",
+   "dibaca": "Kalau kamu ketawa sendiri, berarti kamu pernah ngalamin.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/bc77110fcab8.wav",
+   "durasi": 3.52,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "51d44001abf5",
+   "suara": "adriy",
+   "teks": "Rasanya pengin protes, tapi ke siapa?",
+   "dibaca": "Rasanya pengin protes, tapi ke siapa?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/51d44001abf5.wav",
+   "durasi": 2.24,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ca81064d8c33",
+   "suara": "ongky",
+   "teks": "Rasanya pengin protes, tapi ke siapa?",
+   "dibaca": "Rasanya pengin protes, tapi ke siapa?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/ca81064d8c33.wav",
+   "durasi": 3.52,
+   "kategori": "humor dan santai",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "dce896cd55ae",
+   "suara": "adriy",
+   "teks": "Santai saja, ini normal, kok.",
+   "dibaca": "Santai saja, ini normal, kok.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/dce896cd55ae.wav",
+   "durasi": 3.04,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f15dffad335e",
+   "suara": "ongky",
+   "teks": "Santai saja, ini normal, kok.",
+   "dibaca": "Santai saja, ini normal, kok.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/f15dffad335e.wav",
+   "durasi": 2.88,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4907a599f005",
+   "suara": "adriy",
+   "teks": "Nggak usah dipikirin terlalu berat.",
+   "dibaca": "Nggak usah dipikirin terlalu berat.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/4907a599f005.wav",
+   "durasi": 1.92,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "1bc41d176c59",
+   "suara": "ongky",
+   "teks": "Nggak usah dipikirin terlalu berat.",
+   "dibaca": "Nggak usah dipikirin terlalu berat.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/1bc41d176c59.wav",
+   "durasi": 2.24,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8ad281d37caf",
+   "suara": "adriy",
+   "teks": "Pelan-pelan saja, kita bahas satu per satu.",
+   "dibaca": "Pelan-pelan saja, kita bahas satu per satu.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/8ad281d37caf.wav",
+   "durasi": 2.56,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "baf0de955c6e",
+   "suara": "ongky",
+   "teks": "Pelan-pelan saja, kita bahas satu per satu.",
+   "dibaca": "Pelan-pelan saja, kita bahas satu per satu.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/baf0de955c6e.wav",
+   "durasi": 3.36,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d4431f5efa5f",
+   "suara": "adriy",
+   "teks": "Nah, gitu ceritanya.",
+   "dibaca": "Nah, gitu ceritanya.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/d4431f5efa5f.wav",
+   "durasi": 1.76,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "804317c5e724",
+   "suara": "ongky",
+   "teks": "Nah, gitu ceritanya.",
+   "dibaca": "Nah, gitu ceritanya.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/804317c5e724.wav",
+   "durasi": 2.08,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a5c1d1fa55a6",
+   "suara": "adriy",
+   "teks": "Simpel, kan?",
+   "dibaca": "Simpel, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/a5c1d1fa55a6.wav",
+   "durasi": 0.96,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3ef51d29c7ea",
+   "suara": "ongky",
+   "teks": "Simpel, kan?",
+   "dibaca": "Simpel, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/3ef51d29c7ea.wav",
+   "durasi": 2.08,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4fea695113a5",
+   "suara": "adriy",
+   "teks": "Ya, kurang lebih seperti itu.",
+   "dibaca": "Ya, kurang lebih seperti itu.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/4fea695113a5.wav",
+   "durasi": 1.76,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "96bf8a145279",
+   "suara": "ongky",
+   "teks": "Ya, kurang lebih seperti itu.",
+   "dibaca": "Ya, kurang lebih seperti itu.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/96bf8a145279.wav",
+   "durasi": 2.24,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "61bb8ca9bf28",
+   "suara": "adriy",
+   "teks": "Nggak serumit kedengarannya, kok.",
+   "dibaca": "Nggak serumit kedengarannya, kok.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/61bb8ca9bf28.wav",
+   "durasi": 2.72,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8a148ab97eb3",
+   "suara": "ongky",
+   "teks": "Nggak serumit kedengarannya, kok.",
+   "dibaca": "Nggak serumit kedengarannya, kok.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/8a148ab97eb3.wav",
+   "durasi": 1.76,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a49af436d82e",
+   "suara": "adriy",
+   "teks": "Yuk, kita bahas bareng-bareng.",
+   "dibaca": "Yuk, kita bahas bareng-bareng.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/a49af436d82e.wav",
+   "durasi": 1.76,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f105c4b7863b",
+   "suara": "ongky",
+   "teks": "Yuk, kita bahas bareng-bareng.",
+   "dibaca": "Yuk, kita bahas bareng-bareng.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/f105c4b7863b.wav",
+   "durasi": 1.76,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "026698c9920a",
+   "suara": "adriy",
+   "teks": "Oke, tarik napas dulu.",
+   "dibaca": "Oke, tarik napas dulu.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/026698c9920a.wav",
+   "durasi": 1.6,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f0cf4870c9e0",
+   "suara": "ongky",
+   "teks": "Oke, tarik napas dulu.",
+   "dibaca": "Oke, tarik napas dulu.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/f0cf4870c9e0.wav",
+   "durasi": 2.08,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "dc37518c5ef3",
+   "suara": "adriy",
+   "teks": "Sambil santai, coba dengarkan baik-baik.",
+   "dibaca": "Sambil santai, coba dengarkan baik-baik.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/dc37518c5ef3.wav",
+   "durasi": 2.72,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ceb4e77442d9",
+   "suara": "ongky",
+   "teks": "Sambil santai, coba dengarkan baik-baik.",
+   "dibaca": "Sambil santai, coba dengarkan baik-baik.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/ceb4e77442d9.wav",
+   "durasi": 2.24,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c05703cc1160",
+   "suara": "adriy",
+   "teks": "Anggap saja kita lagi ngobrol santai.",
+   "dibaca": "Anggap saja kita lagi ngobrol santai.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/c05703cc1160.wav",
+   "durasi": 2.08,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bb4fffc7030c",
+   "suara": "ongky",
+   "teks": "Anggap saja kita lagi ngobrol santai.",
+   "dibaca": "Anggap saja kita lagi ngobrol santai.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/bb4fffc7030c.wav",
+   "durasi": 3.36,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "259a5891a5e9",
+   "suara": "adriy",
+   "teks": "Mudah, kan?",
+   "dibaca": "Mudah, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/259a5891a5e9.wav",
+   "durasi": 1.12,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "61b22c1151d9",
+   "suara": "ongky",
+   "teks": "Mudah, kan?",
+   "dibaca": "Mudah, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/61b22c1151d9.wav",
+   "durasi": 1.28,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f1bb37a753ef",
+   "suara": "adriy",
+   "teks": "Ternyata nggak sesulit itu, ya.",
+   "dibaca": "Ternyata nggak sesulit itu, ya.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/f1bb37a753ef.wav",
+   "durasi": 1.76,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4b23c27740ee",
+   "suara": "ongky",
+   "teks": "Ternyata nggak sesulit itu, ya.",
+   "dibaca": "Ternyata nggak sesulit itu, ya.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/4b23c27740ee.wav",
+   "durasi": 1.92,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2f9e7aec20db",
+   "suara": "adriy",
+   "teks": "Ya, begitulah kira-kira.",
+   "dibaca": "Ya, begitulah kira-kira.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/2f9e7aec20db.wav",
+   "durasi": 1.92,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "081e5ce8f8ef",
+   "suara": "ongky",
+   "teks": "Ya, begitulah kira-kira.",
+   "dibaca": "Ya, begitulah kira-kira.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/081e5ce8f8ef.wav",
+   "durasi": 2.72,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c0f52b084d44",
+   "suara": "adriy",
+   "teks": "Oke, nggak usah buru-buru.",
+   "dibaca": "Oke, nggak usah buru-buru.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/c0f52b084d44.wav",
+   "durasi": 2.08,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ffd14380fb29",
+   "suara": "ongky",
+   "teks": "Oke, nggak usah buru-buru.",
+   "dibaca": "Oke, nggak usah buru-buru.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/ffd14380fb29.wav",
+   "durasi": 2.08,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "0b8a0510fea5",
+   "suara": "adriy",
+   "teks": "Santai, nanti juga paham sendiri.",
+   "dibaca": "Santai, nanti juga paham sendiri.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/0b8a0510fea5.wav",
+   "durasi": 2.08,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "51bd6a532403",
+   "suara": "ongky",
+   "teks": "Santai, nanti juga paham sendiri.",
+   "dibaca": "Santai, nanti juga paham sendiri.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/51bd6a532403.wav",
+   "durasi": 2.56,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "433bb15a0be4",
+   "suara": "adriy",
+   "teks": "Sekarang kamu bisa pamer fakta ini ke teman-temanmu.",
+   "dibaca": "Sekarang kamu bisa pamer fakta ini ke teman-temanmu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/433bb15a0be4.wav",
+   "durasi": 3.2,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "39f1309100b0",
+   "suara": "ongky",
+   "teks": "Sekarang kamu bisa pamer fakta ini ke teman-temanmu.",
+   "dibaca": "Sekarang kamu bisa pamer fakta ini ke teman-temanmu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/39f1309100b0.wav",
+   "durasi": 3.04,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "591d0742f332",
+   "suara": "adriy",
+   "teks": "Lumayan, kan, buat bahan obrolan?",
+   "dibaca": "Lumayan, kan, buat bahan obrolan?",
+   "fungsi": [
+    "memancing rasa penasaran",
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/591d0742f332.wav",
+   "durasi": 2.08,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "fc8c31770950",
+   "suara": "ongky",
+   "teks": "Lumayan, kan, buat bahan obrolan?",
+   "dibaca": "Lumayan, kan, buat bahan obrolan?",
+   "fungsi": [
+    "memancing rasa penasaran",
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/fc8c31770950.wav",
+   "durasi": 3.04,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "fc5299106291",
+   "suara": "adriy",
+   "teks": "Jadi, lain kali jangan heran, ya.",
+   "dibaca": "Jadi, lain kali jangan heran, ya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/fc5299106291.wav",
+   "durasi": 2.4,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "08b6ceb689df",
+   "suara": "ongky",
+   "teks": "Jadi, lain kali jangan heran, ya.",
+   "dibaca": "Jadi, lain kali jangan heran, ya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/08b6ceb689df.wav",
+   "durasi": 2.56,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "31aac770d42f",
+   "suara": "adriy",
+   "teks": "Dan yang paling penting, tetap santai.",
+   "dibaca": "Dan yang paling penting, tetap santai.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/31aac770d42f.wav",
+   "durasi": 2.08,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "60cfd6b90f5b",
+   "suara": "ongky",
+   "teks": "Dan yang paling penting, tetap santai.",
+   "dibaca": "Dan yang paling penting, tetap santai.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/60cfd6b90f5b.wav",
+   "durasi": 2.56,
+   "kategori": "humor dan santai",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
   }
  ]
 }
