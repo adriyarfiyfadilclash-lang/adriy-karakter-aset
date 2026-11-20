@@ -21696,6 +21696,1220 @@
    "catatan": "nada emosional",
    "sumber": "perpustakaan_suara.py",
    "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9d225500fb0e",
+   "suara": "adriy",
+   "teks": "Faktanya jelas.",
+   "dibaca": "Faktanya jelas.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/9d225500fb0e.wav",
+   "durasi": 0.96,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "58690ae13a00",
+   "suara": "ongky",
+   "teks": "Faktanya jelas.",
+   "dibaca": "Faktanya jelas.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/58690ae13a00.wav",
+   "durasi": 1.6,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "59b0b3bc5854",
+   "suara": "adriy",
+   "teks": "Ini bukan opini, ini data.",
+   "dibaca": "Ini bukan opini, ini data.",
+   "fungsi": [
+    "membantah asumsi",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/59b0b3bc5854.wav",
+   "durasi": 2.08,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6535256beeae",
+   "suara": "ongky",
+   "teks": "Ini bukan opini, ini data.",
+   "dibaca": "Ini bukan opini, ini data.",
+   "fungsi": [
+    "membantah asumsi",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/6535256beeae.wav",
+   "durasi": 2.24,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "23b750975a6a",
+   "suara": "adriy",
+   "teks": "Buktinya sudah ada.",
+   "dibaca": "Buktinya sudah ada.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/23b750975a6a.wav",
+   "durasi": 1.44,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "05438ab005d4",
+   "suara": "ongky",
+   "teks": "Buktinya sudah ada.",
+   "dibaca": "Buktinya sudah ada.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/05438ab005d4.wav",
+   "durasi": 1.6,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "83862443df21",
+   "suara": "adriy",
+   "teks": "Dan ini sudah dibuktikan berkali-kali.",
+   "dibaca": "Dan ini sudah dibuktikan berkali-kali.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/83862443df21.wav",
+   "durasi": 3.04,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bc3989fa6ecc",
+   "suara": "ongky",
+   "teks": "Dan ini sudah dibuktikan berkali-kali.",
+   "dibaca": "Dan ini sudah dibuktikan berkali-kali.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/bc3989fa6ecc.wav",
+   "durasi": 2.72,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5bd474ac915d",
+   "suara": "adriy",
+   "teks": "Jadi, anggapan itu tidak sepenuhnya tepat.",
+   "dibaca": "Jadi, anggapan itu tidak sepenuhnya tepat.",
+   "fungsi": [
+    "membantah asumsi",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/5bd474ac915d.wav",
+   "durasi": 3.04,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8744a8bb86d6",
+   "suara": "ongky",
+   "teks": "Jadi, anggapan itu tidak sepenuhnya tepat.",
+   "dibaca": "Jadi, anggapan itu tidak sepenuhnya tepat.",
+   "fungsi": [
+    "membantah asumsi",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/8744a8bb86d6.wav",
+   "durasi": 2.88,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4cada03ff26a",
+   "suara": "adriy",
+   "teks": "Dengan kata lain, mitos itu terbantahkan.",
+   "dibaca": "Dengan kata lain, mitos itu terbantahkan.",
+   "fungsi": [
+    "membantah asumsi",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/4cada03ff26a.wav",
+   "durasi": 2.88,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6a28be7c171c",
+   "suara": "ongky",
+   "teks": "Dengan kata lain, mitos itu terbantahkan.",
+   "dibaca": "Dengan kata lain, mitos itu terbantahkan.",
+   "fungsi": [
+    "membantah asumsi",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/6a28be7c171c.wav",
+   "durasi": 3.52,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3a2a286b8157",
+   "suara": "adriy",
+   "teks": "Ini bukan kebetulan semata.",
+   "dibaca": "Ini bukan kebetulan semata.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/3a2a286b8157.wav",
+   "durasi": 1.92,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bf8fa5e29279",
+   "suara": "ongky",
+   "teks": "Ini bukan kebetulan semata.",
+   "dibaca": "Ini bukan kebetulan semata.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/bf8fa5e29279.wav",
+   "durasi": 2.72,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b504322bd69d",
+   "suara": "adriy",
+   "teks": "Polanya terlalu konsisten untuk diabaikan.",
+   "dibaca": "Polanya terlalu konsisten untuk diabaikan.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/b504322bd69d.wav",
+   "durasi": 2.88,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7e13d498e112",
+   "suara": "ongky",
+   "teks": "Polanya terlalu konsisten untuk diabaikan.",
+   "dibaca": "Polanya terlalu konsisten untuk diabaikan.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/7e13d498e112.wav",
+   "durasi": 2.88,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e548f39f3d09",
+   "suara": "adriy",
+   "teks": "Angka tidak pernah berbohong.",
+   "dibaca": "Angka tidak pernah berbohong.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/e548f39f3d09.wav",
+   "durasi": 1.6,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d6448279e23d",
+   "suara": "ongky",
+   "teks": "Angka tidak pernah berbohong.",
+   "dibaca": "Angka tidak pernah berbohong.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/d6448279e23d.wav",
+   "durasi": 1.76,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b7401b46eaba",
+   "suara": "adriy",
+   "teks": "Mari kita lihat faktanya, bukan asumsinya.",
+   "dibaca": "Mari kita lihat faktanya, bukan asumsinya.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/b7401b46eaba.wav",
+   "durasi": 2.56,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "fe56ac080a41",
+   "suara": "ongky",
+   "teks": "Mari kita lihat faktanya, bukan asumsinya.",
+   "dibaca": "Mari kita lihat faktanya, bukan asumsinya.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/fe56ac080a41.wav",
+   "durasi": 4.16,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b7b90b21d42b",
+   "suara": "adriy",
+   "teks": "Yang perlu digarisbawahi adalah ini.",
+   "dibaca": "Yang perlu digarisbawahi adalah ini.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/b7b90b21d42b.wav",
+   "durasi": 2.24,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "36f124947f83",
+   "suara": "ongky",
+   "teks": "Yang perlu digarisbawahi adalah ini.",
+   "dibaca": "Yang perlu digarisbawahi adalah ini.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/36f124947f83.wav",
+   "durasi": 3.04,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "af79e826ccd6",
+   "suara": "adriy",
+   "teks": "Perlu ditegaskan, ini berlaku dalam kondisi tertentu.",
+   "dibaca": "Perlu ditegaskan, ini berlaku dalam kondisi tertentu.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/af79e826ccd6.wav",
+   "durasi": 3.68,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "18835456a79e",
+   "suara": "ongky",
+   "teks": "Perlu ditegaskan, ini berlaku dalam kondisi tertentu.",
+   "dibaca": "Perlu ditegaskan, ini berlaku dalam kondisi tertentu.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/18835456a79e.wav",
+   "durasi": 3.52,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5a585f65f5a2",
+   "suara": "adriy",
+   "teks": "Jadi, jawabannya adalah: tergantung.",
+   "dibaca": "Jadi, jawabannya adalah: tergantung.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/5a585f65f5a2.wav",
+   "durasi": 2.56,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "20fac6f37d07",
+   "suara": "ongky",
+   "teks": "Jadi, jawabannya adalah: tergantung.",
+   "dibaca": "Jadi, jawabannya adalah: tergantung.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/20fac6f37d07.wav",
+   "durasi": 3.2,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7c8121140523",
+   "suara": "adriy",
+   "teks": "Masalahnya bukan di situ.",
+   "dibaca": "Masalahnya bukan di situ.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/7c8121140523.wav",
+   "durasi": 1.6,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f4a06f404900",
+   "suara": "ongky",
+   "teks": "Masalahnya bukan di situ.",
+   "dibaca": "Masalahnya bukan di situ.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/f4a06f404900.wav",
+   "durasi": 1.6,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9865f234d202",
+   "suara": "adriy",
+   "teks": "Yang jadi pertanyaan bukan apakah, tapi seberapa besar.",
+   "dibaca": "Yang jadi pertanyaan bukan apakah, tapi seberapa besar.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/9865f234d202.wav",
+   "durasi": 3.36,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e8615b264e80",
+   "suara": "ongky",
+   "teks": "Yang jadi pertanyaan bukan apakah, tapi seberapa besar.",
+   "dibaca": "Yang jadi pertanyaan bukan apakah, tapi seberapa besar.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/e8615b264e80.wav",
+   "durasi": 3.68,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3b551eb5398b",
+   "suara": "adriy",
+   "teks": "Ada dua sisi yang perlu kita lihat.",
+   "dibaca": "Ada dua sisi yang perlu kita lihat.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/3b551eb5398b.wav",
+   "durasi": 1.92,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ca4f6a55cff0",
+   "suara": "ongky",
+   "teks": "Ada dua sisi yang perlu kita lihat.",
+   "dibaca": "Ada dua sisi yang perlu kita lihat.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/ca4f6a55cff0.wav",
+   "durasi": 2.88,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "86fe488090ee",
+   "suara": "adriy",
+   "teks": "Di satu sisi, ini memang benar.",
+   "dibaca": "Di satu sisi, ini memang benar.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/86fe488090ee.wav",
+   "durasi": 1.92,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "15dd9bedf665",
+   "suara": "ongky",
+   "teks": "Di satu sisi, ini memang benar.",
+   "dibaca": "Di satu sisi, ini memang benar.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/15dd9bedf665.wav",
+   "durasi": 2.88,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "fb57a855da94",
+   "suara": "adriy",
+   "teks": "Tapi di sisi lain, ada hal yang perlu dipertimbangkan.",
+   "dibaca": "Tapi di sisi lain, ada hal yang perlu dipertimbangkan.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/fb57a855da94.wav",
+   "durasi": 3.2,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d91f5b4a40da",
+   "suara": "ongky",
+   "teks": "Tapi di sisi lain, ada hal yang perlu dipertimbangkan.",
+   "dibaca": "Tapi di sisi lain, ada hal yang perlu dipertimbangkan.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/ongky/d91f5b4a40da.wav",
+   "durasi": 3.04,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5a238675d1fb",
+   "suara": "adriy",
+   "teks": "Kalau dipikir secara logis, ini masuk akal.",
+   "dibaca": "Kalau dipikir secara logis, ini masuk akal.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/5a238675d1fb.wav",
+   "durasi": 3.04,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "86d884222825",
+   "suara": "ongky",
+   "teks": "Kalau dipikir secara logis, ini masuk akal.",
+   "dibaca": "Kalau dipikir secara logis, ini masuk akal.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/86d884222825.wav",
+   "durasi": 2.72,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "da913b0e8494",
+   "suara": "adriy",
+   "teks": "Alasannya cukup sederhana.",
+   "dibaca": "Alasannya cukup sederhana.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/da913b0e8494.wav",
+   "durasi": 1.76,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "01805e21c71e",
+   "suara": "ongky",
+   "teks": "Alasannya cukup sederhana.",
+   "dibaca": "Alasannya cukup sederhana.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/01805e21c71e.wav",
+   "durasi": 1.92,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "42ae852dd99b",
+   "suara": "adriy",
+   "teks": "Ada tiga alasan utama.",
+   "dibaca": "Ada tiga alasan utama.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/42ae852dd99b.wav",
+   "durasi": 1.76,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ef2c7527de0a",
+   "suara": "ongky",
+   "teks": "Ada tiga alasan utama.",
+   "dibaca": "Ada tiga alasan utama.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/ef2c7527de0a.wav",
+   "durasi": 2.08,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8ec9b3ffd6f0",
+   "suara": "adriy",
+   "teks": "Alasan pertama, dan yang paling penting.",
+   "dibaca": "Alasan pertama, dan yang paling penting.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/8ec9b3ffd6f0.wav",
+   "durasi": 2.4,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e80ff766b77f",
+   "suara": "ongky",
+   "teks": "Alasan pertama, dan yang paling penting.",
+   "dibaca": "Alasan pertama, dan yang paling penting.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/e80ff766b77f.wav",
+   "durasi": 3.52,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e9a1d5ad4ace",
+   "suara": "adriy",
+   "teks": "Alasan berikutnya sering diabaikan.",
+   "dibaca": "Alasan berikutnya sering diabaikan.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/e9a1d5ad4ace.wav",
+   "durasi": 1.92,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7c79c371b7c1",
+   "suara": "ongky",
+   "teks": "Alasan berikutnya sering diabaikan.",
+   "dibaca": "Alasan berikutnya sering diabaikan.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/7c79c371b7c1.wav",
+   "durasi": 2.56,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2fff5aa7afbc",
+   "suara": "adriy",
+   "teks": "Dan alasan terakhir, justru yang paling kuat.",
+   "dibaca": "Dan alasan terakhir, justru yang paling kuat.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/2fff5aa7afbc.wav",
+   "durasi": 2.72,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "85aa0c1ef3a8",
+   "suara": "ongky",
+   "teks": "Dan alasan terakhir, justru yang paling kuat.",
+   "dibaca": "Dan alasan terakhir, justru yang paling kuat.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/85aa0c1ef3a8.wav",
+   "durasi": 3.2,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3e229c3b02d2",
+   "suara": "adriy",
+   "teks": "Jadi, kesimpulannya cukup jelas.",
+   "dibaca": "Jadi, kesimpulannya cukup jelas.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/3e229c3b02d2.wav",
+   "durasi": 2.4,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d8dd311129c7",
+   "suara": "ongky",
+   "teks": "Jadi, kesimpulannya cukup jelas.",
+   "dibaca": "Jadi, kesimpulannya cukup jelas.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/d8dd311129c7.wav",
+   "durasi": 2.72,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bb2c05547dee",
+   "suara": "adriy",
+   "teks": "Ini bukan soal benar atau salah.",
+   "dibaca": "Ini bukan soal benar atau salah.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/bb2c05547dee.wav",
+   "durasi": 2.24,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5527e441c9bc",
+   "suara": "ongky",
+   "teks": "Ini bukan soal benar atau salah.",
+   "dibaca": "Ini bukan soal benar atau salah.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/5527e441c9bc.wav",
+   "durasi": 3.2,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "81336828d3bf",
+   "suara": "adriy",
+   "teks": "Yang penting adalah memahami konteksnya.",
+   "dibaca": "Yang penting adalah memahami konteksnya.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/81336828d3bf.wav",
+   "durasi": 2.56,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2ea8922dbb41",
+   "suara": "ongky",
+   "teks": "Yang penting adalah memahami konteksnya.",
+   "dibaca": "Yang penting adalah memahami konteksnya.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/2ea8922dbb41.wav",
+   "durasi": 2.72,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b34982e990d2",
+   "suara": "adriy",
+   "teks": "Tidak ada jawaban tunggal untuk pertanyaan ini.",
+   "dibaca": "Tidak ada jawaban tunggal untuk pertanyaan ini.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/b34982e990d2.wav",
+   "durasi": 2.88,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8178ad92f6d3",
+   "suara": "ongky",
+   "teks": "Tidak ada jawaban tunggal untuk pertanyaan ini.",
+   "dibaca": "Tidak ada jawaban tunggal untuk pertanyaan ini.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/8178ad92f6d3.wav",
+   "durasi": 2.4,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "eed0b35179f7",
+   "suara": "adriy",
+   "teks": "Inilah yang membedakan fakta dari mitos.",
+   "dibaca": "Inilah yang membedakan fakta dari mitos.",
+   "fungsi": [
+    "membantah asumsi",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/eed0b35179f7.wav",
+   "durasi": 2.4,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8b1acc1d428d",
+   "suara": "ongky",
+   "teks": "Inilah yang membedakan fakta dari mitos.",
+   "dibaca": "Inilah yang membedakan fakta dari mitos.",
+   "fungsi": [
+    "membantah asumsi",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/8b1acc1d428d.wav",
+   "durasi": 2.24,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "72cea5a4d58a",
+   "suara": "adriy",
+   "teks": "Jangan percaya begitu saja, cek dulu sumbernya.",
+   "dibaca": "Jangan percaya begitu saja, cek dulu sumbernya.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/72cea5a4d58a.wav",
+   "durasi": 3.2,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "228b5d329bbe",
+   "suara": "ongky",
+   "teks": "Jangan percaya begitu saja, cek dulu sumbernya.",
+   "dibaca": "Jangan percaya begitu saja, cek dulu sumbernya.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/228b5d329bbe.wav",
+   "durasi": 2.56,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a92739ad98af",
+   "suara": "adriy",
+   "teks": "Satu penelitian saja belum cukup untuk menyimpulkan.",
+   "dibaca": "Satu penelitian saja belum cukup untuk menyimpulkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/a92739ad98af.wav",
+   "durasi": 2.88,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e8d91d9bc8a3",
+   "suara": "ongky",
+   "teks": "Satu penelitian saja belum cukup untuk menyimpulkan.",
+   "dibaca": "Satu penelitian saja belum cukup untuk menyimpulkan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/e8d91d9bc8a3.wav",
+   "durasi": 3.68,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3d7f6a5c5429",
+   "suara": "adriy",
+   "teks": "Butuh lebih banyak bukti untuk memastikannya.",
+   "dibaca": "Butuh lebih banyak bukti untuk memastikannya.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/3d7f6a5c5429.wav",
+   "durasi": 2.72,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c1b0d73d47fe",
+   "suara": "ongky",
+   "teks": "Butuh lebih banyak bukti untuk memastikannya.",
+   "dibaca": "Butuh lebih banyak bukti untuk memastikannya.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/c1b0d73d47fe.wav",
+   "durasi": 2.88,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "99d602d136a3",
+   "suara": "adriy",
+   "teks": "Korelasi bukan berarti sebab-akibat.",
+   "dibaca": "Korelasi bukan berarti sebab-akibat.",
+   "fungsi": [
+    "membantah asumsi",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/99d602d136a3.wav",
+   "durasi": 2.08,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "16acdf65cbc1",
+   "suara": "ongky",
+   "teks": "Korelasi bukan berarti sebab-akibat.",
+   "dibaca": "Korelasi bukan berarti sebab-akibat.",
+   "fungsi": [
+    "membantah asumsi",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/16acdf65cbc1.wav",
+   "durasi": 2.56,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b6ba9b35353b",
+   "suara": "adriy",
+   "teks": "Dua hal ini memang berhubungan, tapi belum tentu saling menyebabkan.",
+   "dibaca": "Dua hal ini memang berhubungan, tapi belum tentu saling menyebabkan.",
+   "fungsi": [
+    "membantah asumsi",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/b6ba9b35353b.wav",
+   "durasi": 4.16,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "1f84e9254bbb",
+   "suara": "ongky",
+   "teks": "Dua hal ini memang berhubungan, tapi belum tentu saling menyebabkan.",
+   "dibaca": "Dua hal ini memang berhubungan, tapi belum tentu saling menyebabkan.",
+   "fungsi": [
+    "membantah asumsi",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/1f84e9254bbb.wav",
+   "durasi": 4.48,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "22e753940971",
+   "suara": "adriy",
+   "teks": "Ini yang sering disalahpahami.",
+   "dibaca": "Ini yang sering disalahpahami.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/22e753940971.wav",
+   "durasi": 2.24,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2b9c50e53ff8",
+   "suara": "ongky",
+   "teks": "Ini yang sering disalahpahami.",
+   "dibaca": "Ini yang sering disalahpahami.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/2b9c50e53ff8.wav",
+   "durasi": 1.92,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "95f8ed62dccb",
+   "suara": "adriy",
+   "teks": "Jadi, mari luruskan dulu.",
+   "dibaca": "Jadi, mari luruskan dulu.",
+   "fungsi": [
+    "membantah asumsi",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/95f8ed62dccb.wav",
+   "durasi": 1.76,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3c3c4babf5bd",
+   "suara": "ongky",
+   "teks": "Jadi, mari luruskan dulu.",
+   "dibaca": "Jadi, mari luruskan dulu.",
+   "fungsi": [
+    "membantah asumsi",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/3c3c4babf5bd.wav",
+   "durasi": 2.88,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "08fabaf974f8",
+   "suara": "adriy",
+   "teks": "Klaim itu terdengar meyakinkan, tapi tidak didukung bukti.",
+   "dibaca": "Klaim itu terdengar meyakinkan, tapi tidak didukung bukti.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/08fabaf974f8.wav",
+   "durasi": 3.68,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f29c35a39e44",
+   "suara": "ongky",
+   "teks": "Klaim itu terdengar meyakinkan, tapi tidak didukung bukti.",
+   "dibaca": "Klaim itu terdengar meyakinkan, tapi tidak didukung bukti.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/f29c35a39e44.wav",
+   "durasi": 4.0,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "743e7e6b62a6",
+   "suara": "adriy",
+   "teks": "Sebaliknya, bukti menunjukkan hal yang berbeda.",
+   "dibaca": "Sebaliknya, bukti menunjukkan hal yang berbeda.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/743e7e6b62a6.wav",
+   "durasi": 3.04,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5d86e61609cc",
+   "suara": "ongky",
+   "teks": "Sebaliknya, bukti menunjukkan hal yang berbeda.",
+   "dibaca": "Sebaliknya, bukti menunjukkan hal yang berbeda.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/5d86e61609cc.wav",
+   "durasi": 3.2,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "409ad91f6ec8",
+   "suara": "adriy",
+   "teks": "Dan itulah yang sebenarnya terjadi.",
+   "dibaca": "Dan itulah yang sebenarnya terjadi.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/409ad91f6ec8.wav",
+   "durasi": 2.24,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "75ec82e97deb",
+   "suara": "ongky",
+   "teks": "Dan itulah yang sebenarnya terjadi.",
+   "dibaca": "Dan itulah yang sebenarnya terjadi.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/75ec82e97deb.wav",
+   "durasi": 3.04,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3b9da4d44c26",
+   "suara": "adriy",
+   "teks": "Titik.",
+   "dibaca": "Titik.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/adriy/3b9da4d44c26.wav",
+   "durasi": 0.64,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "aa37df141d8c",
+   "suara": "ongky",
+   "teks": "Titik.",
+   "dibaca": "Titik.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/ongky/aa37df141d8c.wav",
+   "durasi": 1.12,
+   "kategori": "penegasan",
+   "catatan": "nada tegas",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
   }
  ]
 }
