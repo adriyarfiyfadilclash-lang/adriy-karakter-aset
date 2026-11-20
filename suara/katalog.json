@@ -19284,6 +19284,291 @@
    "catatan": "nada santai",
    "sumber": "perpustakaan_suara.py",
    "dibuat": "2026-11-20"
+  },
+  {
+   "id": "cfe1c995204f",
+   "suara": "adriy",
+   "teks": "Ya ampun, ternyata cuma gara-gara itu.",
+   "dibaca": "Ya ampun, ternyata cuma gara-gara itu.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/cfe1c995204f.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "458b03d23573",
+   "suara": "ongky",
+   "teks": "Ya ampun, ternyata cuma gara-gara itu.",
+   "dibaca": "Ya ampun, ternyata cuma gara-gara itu.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/458b03d23573.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5eb80bdab0fa",
+   "suara": "adriy",
+   "teks": "Ini sih bukan salah kamu, ini salah otak.",
+   "dibaca": "Ini sih bukan salah kamu, ini salah otak.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/5eb80bdab0fa.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5fb50bb102b0",
+   "suara": "ongky",
+   "teks": "Ini sih bukan salah kamu, ini salah otak.",
+   "dibaca": "Ini sih bukan salah kamu, ini salah otak.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/5fb50bb102b0.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7c62f77de1bf",
+   "suara": "adriy",
+   "teks": "Tubuh kita memang suka bikin kejutan.",
+   "dibaca": "Tubuh kita memang suka bikin kejutan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/7c62f77de1bf.wav",
+   "durasi": 2.24,
+   "kategori": "",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d60dafdd1c73",
+   "suara": "ongky",
+   "teks": "Tubuh kita memang suka bikin kejutan.",
+   "dibaca": "Tubuh kita memang suka bikin kejutan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/d60dafdd1c73.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d1456435345c",
+   "suara": "adriy",
+   "teks": "Kalau bisa ngomong, otak kita mungkin bakal minta maaf.",
+   "dibaca": "Kalau bisa ngomong, otak kita mungkin bakal minta maaf.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/d1456435345c.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "00551e76f850",
+   "suara": "ongky",
+   "teks": "Kalau bisa ngomong, otak kita mungkin bakal minta maaf.",
+   "dibaca": "Kalau bisa ngomong, otak kita mungkin bakal minta maaf.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/00551e76f850.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f08efaaae6a9",
+   "suara": "adriy",
+   "teks": "Ternyata kita semua punya kebiasaan aneh yang sama.",
+   "dibaca": "Ternyata kita semua punya kebiasaan aneh yang sama.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/f08efaaae6a9.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5ab0e742fe36",
+   "suara": "ongky",
+   "teks": "Ternyata kita semua punya kebiasaan aneh yang sama.",
+   "dibaca": "Ternyata kita semua punya kebiasaan aneh yang sama.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/5ab0e742fe36.wav",
+   "durasi": 3.04,
+   "kategori": "",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "84681342c380",
+   "suara": "adriy",
+   "teks": "Kayaknya semua orang pernah jadi korban hal ini.",
+   "dibaca": "Kayaknya semua orang pernah jadi korban hal ini.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/84681342c380.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "efefd3a18969",
+   "suara": "ongky",
+   "teks": "Kayaknya semua orang pernah jadi korban hal ini.",
+   "dibaca": "Kayaknya semua orang pernah jadi korban hal ini.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/efefd3a18969.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "216171cf8662",
+   "suara": "adriy",
+   "teks": "Kalau kamu belum pernah, selamat, kamu langka.",
+   "dibaca": "Kalau kamu belum pernah, selamat, kamu langka.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/216171cf8662.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "da3c26b910c1",
+   "suara": "ongky",
+   "teks": "Kalau kamu belum pernah, selamat, kamu langka.",
+   "dibaca": "Kalau kamu belum pernah, selamat, kamu langka.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/da3c26b910c1.wav",
+   "durasi": 3.68,
+   "kategori": "",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "db379ce4fff2",
+   "suara": "adriy",
+   "teks": "Ini dia, misteri yang selama ini bikin kita bingung.",
+   "dibaca": "Ini dia, misteri yang selama ini bikin kita bingung.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/db379ce4fff2.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "520567f537ed",
+   "suara": "ongky",
+   "teks": "Ini dia, misteri yang selama ini bikin kita bingung.",
+   "dibaca": "Ini dia, misteri yang selama ini bikin kita bingung.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/520567f537ed.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ab0996d55eba",
+   "suara": "adriy",
+   "teks": "Dan ya, ini terjadi pada orang dewasa juga.",
+   "dibaca": "Dan ya, ini terjadi pada orang dewasa juga.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/ab0996d55eba.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f0756ffb940b",
+   "suara": "ongky",
+   "teks": "Dan ya, ini terjadi pada orang dewasa juga.",
+   "dibaca": "Dan ya, ini terjadi pada orang dewasa juga.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/f0756ffb940b.wav",
+   "durasi": 4.0,
+   "kategori": "",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3f4b3326d747",
+   "suara": "adriy",
+   "teks": "Jangan khawatir, ini bukan kutukan.",
+   "dibaca": "Jangan khawatir, ini bukan kutukan.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/3f4b3326d747.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "nada humor",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
   }
  ]
 }
