@@ -16868,6 +16868,1208 @@
    "catatan": "nada kagum",
    "sumber": "perpustakaan_suara.py",
    "dibuat": "2026-11-20"
+  },
+  {
+   "id": "034816ca1b79",
+   "suara": "adriy",
+   "teks": "Dan saat itulah, semuanya berubah.",
+   "dibaca": "Dan saat itulah, semuanya berubah.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/adriy/034816ca1b79.wav",
+   "durasi": 1.76,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "59233bfb67ee",
+   "suara": "ongky",
+   "teks": "Dan saat itulah, semuanya berubah.",
+   "dibaca": "Dan saat itulah, semuanya berubah.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/ongky/59233bfb67ee.wav",
+   "durasi": 3.04,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7b7d58f72df8",
+   "suara": "adriy",
+   "teks": "Tidak ada yang siap dengan apa yang terjadi berikutnya.",
+   "dibaca": "Tidak ada yang siap dengan apa yang terjadi berikutnya.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/adriy/7b7d58f72df8.wav",
+   "durasi": 3.04,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c1dd0956cb02",
+   "suara": "ongky",
+   "teks": "Tidak ada yang siap dengan apa yang terjadi berikutnya.",
+   "dibaca": "Tidak ada yang siap dengan apa yang terjadi berikutnya.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/ongky/c1dd0956cb02.wav",
+   "durasi": 3.52,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "aad9328d26dc",
+   "suara": "adriy",
+   "teks": "Waktu terus berjalan, dan tidak ada yang tahu harus berbuat apa.",
+   "dibaca": "Waktu terus berjalan, dan tidak ada yang tahu harus berbuat apa.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/aad9328d26dc.wav",
+   "durasi": 4.16,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "00a4fae98028",
+   "suara": "ongky",
+   "teks": "Waktu terus berjalan, dan tidak ada yang tahu harus berbuat apa.",
+   "dibaca": "Waktu terus berjalan, dan tidak ada yang tahu harus berbuat apa.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/00a4fae98028.wav",
+   "durasi": 3.68,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5d8e50538614",
+   "suara": "adriy",
+   "teks": "Satu langkah salah, dan semuanya bisa berakhir.",
+   "dibaca": "Satu langkah salah, dan semuanya bisa berakhir.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/5d8e50538614.wav",
+   "durasi": 3.36,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f8ded90555ac",
+   "suara": "ongky",
+   "teks": "Satu langkah salah, dan semuanya bisa berakhir.",
+   "dibaca": "Satu langkah salah, dan semuanya bisa berakhir.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/f8ded90555ac.wav",
+   "durasi": 3.68,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "db82a53b848f",
+   "suara": "adriy",
+   "teks": "Keputusan itu akan mengubah segalanya.",
+   "dibaca": "Keputusan itu akan mengubah segalanya.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/adriy/db82a53b848f.wav",
+   "durasi": 2.24,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a997cc2ef1c6",
+   "suara": "ongky",
+   "teks": "Keputusan itu akan mengubah segalanya.",
+   "dibaca": "Keputusan itu akan mengubah segalanya.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/ongky/a997cc2ef1c6.wav",
+   "durasi": 2.88,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "443dabe7b1ad",
+   "suara": "adriy",
+   "teks": "Detik demi detik terasa begitu lama.",
+   "dibaca": "Detik demi detik terasa begitu lama.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/443dabe7b1ad.wav",
+   "durasi": 3.2,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "73498110cc1a",
+   "suara": "ongky",
+   "teks": "Detik demi detik terasa begitu lama.",
+   "dibaca": "Detik demi detik terasa begitu lama.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/73498110cc1a.wav",
+   "durasi": 2.72,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a79ee56bbaff",
+   "suara": "adriy",
+   "teks": "Tapi tidak ada jalan untuk kembali.",
+   "dibaca": "Tapi tidak ada jalan untuk kembali.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/adriy/a79ee56bbaff.wav",
+   "durasi": 2.4,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9c4c2eeb32d2",
+   "suara": "ongky",
+   "teks": "Tapi tidak ada jalan untuk kembali.",
+   "dibaca": "Tapi tidak ada jalan untuk kembali.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/ongky/9c4c2eeb32d2.wav",
+   "durasi": 2.08,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "1f6473719790",
+   "suara": "adriy",
+   "teks": "Semua mata tertuju pada satu titik.",
+   "dibaca": "Semua mata tertuju pada satu titik.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/1f6473719790.wav",
+   "durasi": 2.4,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6b3d483cd08d",
+   "suara": "ongky",
+   "teks": "Semua mata tertuju pada satu titik.",
+   "dibaca": "Semua mata tertuju pada satu titik.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/6b3d483cd08d.wav",
+   "durasi": 2.56,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "0b5d44d28955",
+   "suara": "adriy",
+   "teks": "Dan tiba-tiba, semuanya menjadi sunyi.",
+   "dibaca": "Dan tiba-tiba, semuanya menjadi sunyi.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/adriy/0b5d44d28955.wav",
+   "durasi": 2.4,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "401a75ea6631",
+   "suara": "ongky",
+   "teks": "Dan tiba-tiba, semuanya menjadi sunyi.",
+   "dibaca": "Dan tiba-tiba, semuanya menjadi sunyi.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/ongky/401a75ea6631.wav",
+   "durasi": 3.36,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "40d0212bb13b",
+   "suara": "adriy",
+   "teks": "Mereka hanya punya satu kesempatan.",
+   "dibaca": "Mereka hanya punya satu kesempatan.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/40d0212bb13b.wav",
+   "durasi": 2.88,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2f6583523d6c",
+   "suara": "ongky",
+   "teks": "Mereka hanya punya satu kesempatan.",
+   "dibaca": "Mereka hanya punya satu kesempatan.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/2f6583523d6c.wav",
+   "durasi": 2.4,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "992cc9183dde",
+   "suara": "adriy",
+   "teks": "Inilah momen yang menentukan segalanya.",
+   "dibaca": "Inilah momen yang menentukan segalanya.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/adriy/992cc9183dde.wav",
+   "durasi": 2.4,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a726ab05bb6d",
+   "suara": "ongky",
+   "teks": "Inilah momen yang menentukan segalanya.",
+   "dibaca": "Inilah momen yang menentukan segalanya.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/ongky/a726ab05bb6d.wav",
+   "durasi": 2.88,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "0edf8a5426d0",
+   "suara": "adriy",
+   "teks": "Ada sesuatu yang bergerak di dalam kegelapan.",
+   "dibaca": "Ada sesuatu yang bergerak di dalam kegelapan.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/adriy/0edf8a5426d0.wav",
+   "durasi": 2.56,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7d41e8a45ff7",
+   "suara": "ongky",
+   "teks": "Ada sesuatu yang bergerak di dalam kegelapan.",
+   "dibaca": "Ada sesuatu yang bergerak di dalam kegelapan.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/ongky/7d41e8a45ff7.wav",
+   "durasi": 3.2,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3cb3ba127ab4",
+   "suara": "adriy",
+   "teks": "Hasilnya jauh dari yang diharapkan.",
+   "dibaca": "Hasilnya jauh dari yang diharapkan.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/adriy/3cb3ba127ab4.wav",
+   "durasi": 2.08,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c70d04507f97",
+   "suara": "ongky",
+   "teks": "Hasilnya jauh dari yang diharapkan.",
+   "dibaca": "Hasilnya jauh dari yang diharapkan.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/ongky/c70d04507f97.wav",
+   "durasi": 2.24,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9deb6629f82d",
+   "suara": "adriy",
+   "teks": "Semakin lama, situasinya semakin genting.",
+   "dibaca": "Semakin lama, situasinya semakin genting.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/9deb6629f82d.wav",
+   "durasi": 3.52,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "20d5cb6284b6",
+   "suara": "ongky",
+   "teks": "Semakin lama, situasinya semakin genting.",
+   "dibaca": "Semakin lama, situasinya semakin genting.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/20d5cb6284b6.wav",
+   "durasi": 2.72,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bac38d92c33d",
+   "suara": "adriy",
+   "teks": "Dan saat semuanya hampir berakhir, sesuatu terjadi.",
+   "dibaca": "Dan saat semuanya hampir berakhir, sesuatu terjadi.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/adriy/bac38d92c33d.wav",
+   "durasi": 3.36,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "31038356f4c2",
+   "suara": "ongky",
+   "teks": "Dan saat semuanya hampir berakhir, sesuatu terjadi.",
+   "dibaca": "Dan saat semuanya hampir berakhir, sesuatu terjadi.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/ongky/31038356f4c2.wav",
+   "durasi": 3.2,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ecfddd5a12da",
+   "suara": "adriy",
+   "teks": "Tidak ada yang tahu apa yang menunggu di depan.",
+   "dibaca": "Tidak ada yang tahu apa yang menunggu di depan.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/ecfddd5a12da.wav",
+   "durasi": 2.72,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d3e94d91d6cc",
+   "suara": "ongky",
+   "teks": "Tidak ada yang tahu apa yang menunggu di depan.",
+   "dibaca": "Tidak ada yang tahu apa yang menunggu di depan.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/d3e94d91d6cc.wav",
+   "durasi": 3.68,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5fbe5f0d50cd",
+   "suara": "adriy",
+   "teks": "Semua usaha itu dipertaruhkan dalam satu malam.",
+   "dibaca": "Semua usaha itu dipertaruhkan dalam satu malam.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/adriy/5fbe5f0d50cd.wav",
+   "durasi": 3.36,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "34ad6dbe31d3",
+   "suara": "ongky",
+   "teks": "Semua usaha itu dipertaruhkan dalam satu malam.",
+   "dibaca": "Semua usaha itu dipertaruhkan dalam satu malam.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/ongky/34ad6dbe31d3.wav",
+   "durasi": 3.04,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "51620979b680",
+   "suara": "adriy",
+   "teks": "Tanda-tandanya sudah ada sejak awal.",
+   "dibaca": "Tanda-tandanya sudah ada sejak awal.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/51620979b680.wav",
+   "durasi": 2.08,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "77796d1a17c3",
+   "suara": "ongky",
+   "teks": "Tanda-tandanya sudah ada sejak awal.",
+   "dibaca": "Tanda-tandanya sudah ada sejak awal.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/77796d1a17c3.wav",
+   "durasi": 2.4,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4ea71e5b38cb",
+   "suara": "adriy",
+   "teks": "Tidak ada yang menyangka akhirnya akan seperti ini.",
+   "dibaca": "Tidak ada yang menyangka akhirnya akan seperti ini.",
+   "fungsi": [
+    "memberikan analogi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/4ea71e5b38cb.wav",
+   "durasi": 3.04,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d12eb9f4b6c3",
+   "suara": "ongky",
+   "teks": "Tidak ada yang menyangka akhirnya akan seperti ini.",
+   "dibaca": "Tidak ada yang menyangka akhirnya akan seperti ini.",
+   "fungsi": [
+    "memberikan analogi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/d12eb9f4b6c3.wav",
+   "durasi": 3.04,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e784b3fd2748",
+   "suara": "adriy",
+   "teks": "Dan ternyata, mereka tidak sendirian.",
+   "dibaca": "Dan ternyata, mereka tidak sendirian.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/e784b3fd2748.wav",
+   "durasi": 3.04,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7b310c731f79",
+   "suara": "ongky",
+   "teks": "Dan ternyata, mereka tidak sendirian.",
+   "dibaca": "Dan ternyata, mereka tidak sendirian.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/7b310c731f79.wav",
+   "durasi": 2.56,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ec7aea4a9d13",
+   "suara": "adriy",
+   "teks": "Sejarah mencatat hari itu sebagai titik balik.",
+   "dibaca": "Sejarah mencatat hari itu sebagai titik balik.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/adriy/ec7aea4a9d13.wav",
+   "durasi": 2.72,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b4f071fa4900",
+   "suara": "ongky",
+   "teks": "Sejarah mencatat hari itu sebagai titik balik.",
+   "dibaca": "Sejarah mencatat hari itu sebagai titik balik.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/ongky/b4f071fa4900.wav",
+   "durasi": 3.36,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3c75c6b8b6c4",
+   "suara": "adriy",
+   "teks": "Peringatannya datang terlambat.",
+   "dibaca": "Peringatannya datang terlambat.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/3c75c6b8b6c4.wav",
+   "durasi": 1.76,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7d9eda002cae",
+   "suara": "ongky",
+   "teks": "Peringatannya datang terlambat.",
+   "dibaca": "Peringatannya datang terlambat.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/7d9eda002cae.wav",
+   "durasi": 2.24,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f78605635c6d",
+   "suara": "adriy",
+   "teks": "Semuanya dipertaruhkan.",
+   "dibaca": "Semuanya dipertaruhkan.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/adriy/f78605635c6d.wav",
+   "durasi": 2.72,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "731e469b281a",
+   "suara": "ongky",
+   "teks": "Semuanya dipertaruhkan.",
+   "dibaca": "Semuanya dipertaruhkan.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/ongky/731e469b281a.wav",
+   "durasi": 2.24,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6fb2ecaa4eae",
+   "suara": "adriy",
+   "teks": "Tidak ada suara, hanya detak jantung yang semakin cepat.",
+   "dibaca": "Tidak ada suara, hanya detak jantung yang semakin cepat.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/adriy/6fb2ecaa4eae.wav",
+   "durasi": 3.52,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "628b0ec7a5ad",
+   "suara": "ongky",
+   "teks": "Tidak ada suara, hanya detak jantung yang semakin cepat.",
+   "dibaca": "Tidak ada suara, hanya detak jantung yang semakin cepat.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/ongky/628b0ec7a5ad.wav",
+   "durasi": 3.2,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "0848c3f9f1bd",
+   "suara": "adriy",
+   "teks": "Dan untuk pertama kalinya, mereka merasa takut.",
+   "dibaca": "Dan untuk pertama kalinya, mereka merasa takut.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/adriy/0848c3f9f1bd.wav",
+   "durasi": 3.36,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "dc7ade20925e",
+   "suara": "ongky",
+   "teks": "Dan untuk pertama kalinya, mereka merasa takut.",
+   "dibaca": "Dan untuk pertama kalinya, mereka merasa takut.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/ongky/dc7ade20925e.wav",
+   "durasi": 2.88,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b6b56d491ee1",
+   "suara": "adriy",
+   "teks": "Satu kesalahan kecil bisa berakibat fatal.",
+   "dibaca": "Satu kesalahan kecil bisa berakibat fatal.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/b6b56d491ee1.wav",
+   "durasi": 3.52,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2ce2bfcce119",
+   "suara": "ongky",
+   "teks": "Satu kesalahan kecil bisa berakibat fatal.",
+   "dibaca": "Satu kesalahan kecil bisa berakibat fatal.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/2ce2bfcce119.wav",
+   "durasi": 3.36,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "71574ae82fe7",
+   "suara": "adriy",
+   "teks": "Apa yang mereka temukan, akan mengubah sejarah.",
+   "dibaca": "Apa yang mereka temukan, akan mengubah sejarah.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/adriy/71574ae82fe7.wav",
+   "durasi": 3.04,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "755b678e42d4",
+   "suara": "ongky",
+   "teks": "Apa yang mereka temukan, akan mengubah sejarah.",
+   "dibaca": "Apa yang mereka temukan, akan mengubah sejarah.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/ongky/755b678e42d4.wav",
+   "durasi": 3.04,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "817d7f3ba5c1",
+   "suara": "adriy",
+   "teks": "Kalau terlambat sedikit saja, ceritanya mungkin akan berbeda.",
+   "dibaca": "Kalau terlambat sedikit saja, ceritanya mungkin akan berbeda.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/817d7f3ba5c1.wav",
+   "durasi": 3.68,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a919df9444c6",
+   "suara": "ongky",
+   "teks": "Kalau terlambat sedikit saja, ceritanya mungkin akan berbeda.",
+   "dibaca": "Kalau terlambat sedikit saja, ceritanya mungkin akan berbeda.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/a919df9444c6.wav",
+   "durasi": 3.36,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4d844e1b5368",
+   "suara": "adriy",
+   "teks": "Di saat terakhir, segalanya berbalik.",
+   "dibaca": "Di saat terakhir, segalanya berbalik.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/adriy/4d844e1b5368.wav",
+   "durasi": 2.72,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c610207db8c1",
+   "suara": "ongky",
+   "teks": "Di saat terakhir, segalanya berbalik.",
+   "dibaca": "Di saat terakhir, segalanya berbalik.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/ongky/c610207db8c1.wav",
+   "durasi": 2.56,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6d82635beec6",
+   "suara": "adriy",
+   "teks": "Mereka harus memilih, dan waktunya hampir habis.",
+   "dibaca": "Mereka harus memilih, dan waktunya hampir habis.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/6d82635beec6.wav",
+   "durasi": 3.2,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5b31160964ed",
+   "suara": "ongky",
+   "teks": "Mereka harus memilih, dan waktunya hampir habis.",
+   "dibaca": "Mereka harus memilih, dan waktunya hampir habis.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/5b31160964ed.wav",
+   "durasi": 4.48,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2ab34758dd3e",
+   "suara": "adriy",
+   "teks": "Dan sejak hari itu, tidak ada yang sama lagi.",
+   "dibaca": "Dan sejak hari itu, tidak ada yang sama lagi.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/adriy/2ab34758dd3e.wav",
+   "durasi": 3.04,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4a186d4de22f",
+   "suara": "ongky",
+   "teks": "Dan sejak hari itu, tidak ada yang sama lagi.",
+   "dibaca": "Dan sejak hari itu, tidak ada yang sama lagi.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/ongky/4a186d4de22f.wav",
+   "durasi": 3.2,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6cb4387da6a9",
+   "suara": "adriy",
+   "teks": "Bahaya itu ternyata jauh lebih dekat dari dugaan.",
+   "dibaca": "Bahaya itu ternyata jauh lebih dekat dari dugaan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/6cb4387da6a9.wav",
+   "durasi": 3.68,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ca760063892d",
+   "suara": "ongky",
+   "teks": "Bahaya itu ternyata jauh lebih dekat dari dugaan.",
+   "dibaca": "Bahaya itu ternyata jauh lebih dekat dari dugaan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/ca760063892d.wav",
+   "durasi": 3.68,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "44926b0ed7f0",
+   "suara": "adriy",
+   "teks": "Inilah awal dari sesuatu yang jauh lebih besar.",
+   "dibaca": "Inilah awal dari sesuatu yang jauh lebih besar.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/adriy/44926b0ed7f0.wav",
+   "durasi": 3.04,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bf8e029751e5",
+   "suara": "ongky",
+   "teks": "Inilah awal dari sesuatu yang jauh lebih besar.",
+   "dibaca": "Inilah awal dari sesuatu yang jauh lebih besar.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/ongky/bf8e029751e5.wav",
+   "durasi": 3.52,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "60f5ac92a82f",
+   "suara": "adriy",
+   "teks": "Semua berjalan lancar, sampai sesuatu yang tak terduga terjadi.",
+   "dibaca": "Semua berjalan lancar, sampai sesuatu yang tak terduga terjadi.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/60f5ac92a82f.wav",
+   "durasi": 3.84,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d43a3937c5ab",
+   "suara": "ongky",
+   "teks": "Semua berjalan lancar, sampai sesuatu yang tak terduga terjadi.",
+   "dibaca": "Semua berjalan lancar, sampai sesuatu yang tak terduga terjadi.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/d43a3937c5ab.wav",
+   "durasi": 4.32,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ef9df0465961",
+   "suara": "adriy",
+   "teks": "Harga yang harus dibayar ternyata sangat mahal.",
+   "dibaca": "Harga yang harus dibayar ternyata sangat mahal.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/ef9df0465961.wav",
+   "durasi": 2.72,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "aa476016ac39",
+   "suara": "ongky",
+   "teks": "Harga yang harus dibayar ternyata sangat mahal.",
+   "dibaca": "Harga yang harus dibayar ternyata sangat mahal.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/aa476016ac39.wav",
+   "durasi": 2.56,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "815aaf25eea2",
+   "suara": "adriy",
+   "teks": "Pertanyaannya, apakah mereka akan berhasil?",
+   "dibaca": "Pertanyaannya, apakah mereka akan berhasil?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/815aaf25eea2.wav",
+   "durasi": 2.4,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7c4b005f2355",
+   "suara": "ongky",
+   "teks": "Pertanyaannya, apakah mereka akan berhasil?",
+   "dibaca": "Pertanyaannya, apakah mereka akan berhasil?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/7c4b005f2355.wav",
+   "durasi": 2.88,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f3a29b12330a",
+   "suara": "adriy",
+   "teks": "Dan jawabannya, mengejutkan semua orang.",
+   "dibaca": "Dan jawabannya, mengejutkan semua orang.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/f3a29b12330a.wav",
+   "durasi": 2.72,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "71f8385eaa40",
+   "suara": "ongky",
+   "teks": "Dan jawabannya, mengejutkan semua orang.",
+   "dibaca": "Dan jawabannya, mengejutkan semua orang.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/71f8385eaa40.wav",
+   "durasi": 2.56,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "143a53e13bbf",
+   "suara": "adriy",
+   "teks": "Ada yang tidak beres di sini.",
+   "dibaca": "Ada yang tidak beres di sini.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/143a53e13bbf.wav",
+   "durasi": 2.24,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a7ea216ea380",
+   "suara": "ongky",
+   "teks": "Ada yang tidak beres di sini.",
+   "dibaca": "Ada yang tidak beres di sini.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/a7ea216ea380.wav",
+   "durasi": 2.08,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada menegangkan",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "442a1bfc5731",
+   "suara": "adriy",
+   "teks": "Tidak ada yang pernah membicarakan apa yang terjadi malam itu.",
+   "dibaca": "Tidak ada yang pernah membicarakan apa yang terjadi malam itu.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/adriy/442a1bfc5731.wav",
+   "durasi": 3.36,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "1fd299514a23",
+   "suara": "ongky",
+   "teks": "Tidak ada yang pernah membicarakan apa yang terjadi malam itu.",
+   "dibaca": "Tidak ada yang pernah membicarakan apa yang terjadi malam itu.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/ongky/1fd299514a23.wav",
+   "durasi": 3.52,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "037bca01f20a",
+   "suara": "adriy",
+   "teks": "Dan ceritanya, belum benar-benar selesai.",
+   "dibaca": "Dan ceritanya, belum benar-benar selesai.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/adriy/037bca01f20a.wav",
+   "durasi": 2.88,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ea72d4cb3f0b",
+   "suara": "ongky",
+   "teks": "Dan ceritanya, belum benar-benar selesai.",
+   "dibaca": "Dan ceritanya, belum benar-benar selesai.",
+   "fungsi": [
+    "jeda dramatis"
+   ],
+   "file": "suara/ongky/ea72d4cb3f0b.wav",
+   "durasi": 2.88,
+   "kategori": "dramatis dan menegangkan",
+   "catatan": "nada dramatis",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
   }
  ]
 }
