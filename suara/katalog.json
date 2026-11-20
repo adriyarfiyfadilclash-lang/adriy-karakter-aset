@@ -15648,6 +15648,1226 @@
    "catatan": "nada penasaran",
    "sumber": "perpustakaan_suara.py",
    "dibuat": "2026-11-20"
+  },
+  {
+   "id": "febb8865319c",
+   "suara": "adriy",
+   "teks": "Wah, ternyata begitu!",
+   "dibaca": "Wah, ternyata begitu!",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/febb8865319c.wav",
+   "durasi": 1.76,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "82fb00e6e539",
+   "suara": "ongky",
+   "teks": "Wah, ternyata begitu!",
+   "dibaca": "Wah, ternyata begitu!",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/82fb00e6e539.wav",
+   "durasi": 1.76,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9e1a0bb11eb0",
+   "suara": "adriy",
+   "teks": "Nggak nyangka, kan?",
+   "dibaca": "Nggak nyangka, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/9e1a0bb11eb0.wav",
+   "durasi": 1.12,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "0f7e5a1728e0",
+   "suara": "ongky",
+   "teks": "Nggak nyangka, kan?",
+   "dibaca": "Nggak nyangka, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/0f7e5a1728e0.wav",
+   "durasi": 1.12,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "0d51e2a70028",
+   "suara": "adriy",
+   "teks": "Ini benar-benar mengejutkan.",
+   "dibaca": "Ini benar-benar mengejutkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/0d51e2a70028.wav",
+   "durasi": 1.92,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "059342a572a3",
+   "suara": "ongky",
+   "teks": "Ini benar-benar mengejutkan.",
+   "dibaca": "Ini benar-benar mengejutkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/059342a572a3.wav",
+   "durasi": 2.08,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bae435ff549a",
+   "suara": "adriy",
+   "teks": "Siapa sangka jawabannya seperti ini?",
+   "dibaca": "Siapa sangka jawabannya seperti ini?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/bae435ff549a.wav",
+   "durasi": 1.76,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "22ae1c23f9e9",
+   "suara": "ongky",
+   "teks": "Siapa sangka jawabannya seperti ini?",
+   "dibaca": "Siapa sangka jawabannya seperti ini?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/22ae1c23f9e9.wav",
+   "durasi": 2.4,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "222f0b90abad",
+   "suara": "adriy",
+   "teks": "Bayangkan, semua itu terjadi tanpa kita sadari!",
+   "dibaca": "Bayangkan, semua itu terjadi tanpa kita sadari!",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/222f0b90abad.wav",
+   "durasi": 3.52,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "fa976ffbf4db",
+   "suara": "ongky",
+   "teks": "Bayangkan, semua itu terjadi tanpa kita sadari!",
+   "dibaca": "Bayangkan, semua itu terjadi tanpa kita sadari!",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/fa976ffbf4db.wav",
+   "durasi": 4.48,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9015d6efc777",
+   "suara": "adriy",
+   "teks": "Hah? Kok bisa?",
+   "dibaca": "Hah? Kok bisa?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/9015d6efc777.wav",
+   "durasi": 1.76,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "dab8a5e1b0d2",
+   "suara": "ongky",
+   "teks": "Hah? Kok bisa?",
+   "dibaca": "Hah? Kok bisa?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/dab8a5e1b0d2.wav",
+   "durasi": 1.44,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7d0afe6ddaf7",
+   "suara": "adriy",
+   "teks": "Tunggu, serius ini beneran?",
+   "dibaca": "Tunggu, serius ini beneran?",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/7d0afe6ddaf7.wav",
+   "durasi": 1.28,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c4c87db7cfe4",
+   "suara": "ongky",
+   "teks": "Tunggu, serius ini beneran?",
+   "dibaca": "Tunggu, serius ini beneran?",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/c4c87db7cfe4.wav",
+   "durasi": 2.56,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "65ce3fcadadc",
+   "suara": "adriy",
+   "teks": "Yang ini benar-benar bikin kaget.",
+   "dibaca": "Yang ini benar-benar bikin kaget.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/65ce3fcadadc.wav",
+   "durasi": 2.24,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6125dbd71cb7",
+   "suara": "ongky",
+   "teks": "Yang ini benar-benar bikin kaget.",
+   "dibaca": "Yang ini benar-benar bikin kaget.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/6125dbd71cb7.wav",
+   "durasi": 2.56,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "503464a184e7",
+   "suara": "adriy",
+   "teks": "Ternyata selama ini kita salah kira.",
+   "dibaca": "Ternyata selama ini kita salah kira.",
+   "fungsi": [
+    "membantah asumsi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/503464a184e7.wav",
+   "durasi": 2.4,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "86b33459b5d2",
+   "suara": "ongky",
+   "teks": "Ternyata selama ini kita salah kira.",
+   "dibaca": "Ternyata selama ini kita salah kira.",
+   "fungsi": [
+    "membantah asumsi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/86b33459b5d2.wav",
+   "durasi": 2.4,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4662a50125a7",
+   "suara": "adriy",
+   "teks": "Angkanya bikin geleng-geleng kepala.",
+   "dibaca": "Angkanya bikin geleng-geleng kepala.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/4662a50125a7.wav",
+   "durasi": 2.72,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "57ccf7472733",
+   "suara": "ongky",
+   "teks": "Angkanya bikin geleng-geleng kepala.",
+   "dibaca": "Angkanya bikin geleng-geleng kepala.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/57ccf7472733.wav",
+   "durasi": 1.92,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a805c45c1656",
+   "suara": "adriy",
+   "teks": "Dan ternyata, itu baru sebagian kecilnya.",
+   "dibaca": "Dan ternyata, itu baru sebagian kecilnya.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/a805c45c1656.wav",
+   "durasi": 3.04,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9c38e01a6364",
+   "suara": "ongky",
+   "teks": "Dan ternyata, itu baru sebagian kecilnya.",
+   "dibaca": "Dan ternyata, itu baru sebagian kecilnya.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/9c38e01a6364.wav",
+   "durasi": 3.36,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d600dc029c0c",
+   "suara": "adriy",
+   "teks": "Bahkan para ilmuwan pun sempat terkejut dengan hasilnya.",
+   "dibaca": "Bahkan para ilmuwan pun sempat terkejut dengan hasilnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/d600dc029c0c.wav",
+   "durasi": 3.04,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3967b09452b3",
+   "suara": "ongky",
+   "teks": "Bahkan para ilmuwan pun sempat terkejut dengan hasilnya.",
+   "dibaca": "Bahkan para ilmuwan pun sempat terkejut dengan hasilnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/3967b09452b3.wav",
+   "durasi": 2.72,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c8368782feab",
+   "suara": "adriy",
+   "teks": "Nggak ada yang menyangka hasilnya bakal seperti ini.",
+   "dibaca": "Nggak ada yang menyangka hasilnya bakal seperti ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/c8368782feab.wav",
+   "durasi": 2.88,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b7cb50df6c92",
+   "suara": "ongky",
+   "teks": "Nggak ada yang menyangka hasilnya bakal seperti ini.",
+   "dibaca": "Nggak ada yang menyangka hasilnya bakal seperti ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/b7cb50df6c92.wav",
+   "durasi": 2.72,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "aa89d07256d1",
+   "suara": "adriy",
+   "teks": "Ini jauh lebih besar dari yang kita bayangkan!",
+   "dibaca": "Ini jauh lebih besar dari yang kita bayangkan!",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/aa89d07256d1.wav",
+   "durasi": 2.56,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "62b80fe49826",
+   "suara": "ongky",
+   "teks": "Ini jauh lebih besar dari yang kita bayangkan!",
+   "dibaca": "Ini jauh lebih besar dari yang kita bayangkan!",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/62b80fe49826.wav",
+   "durasi": 4.48,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9cc247f327d8",
+   "suara": "adriy",
+   "teks": "Dan itu terjadi hanya dalam sekejap.",
+   "dibaca": "Dan itu terjadi hanya dalam sekejap.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/9cc247f327d8.wav",
+   "durasi": 2.72,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6bbcb794ad5b",
+   "suara": "ongky",
+   "teks": "Dan itu terjadi hanya dalam sekejap.",
+   "dibaca": "Dan itu terjadi hanya dalam sekejap.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/6bbcb794ad5b.wav",
+   "durasi": 2.88,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7c2709a8da20",
+   "suara": "adriy",
+   "teks": "Kedengarannya mustahil, kan? Tapi ini nyata.",
+   "dibaca": "Kedengarannya mustahil, kan? Tapi ini nyata.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/7c2709a8da20.wav",
+   "durasi": 2.88,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6526b7b59063",
+   "suara": "ongky",
+   "teks": "Kedengarannya mustahil, kan? Tapi ini nyata.",
+   "dibaca": "Kedengarannya mustahil, kan? Tapi ini nyata.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/6526b7b59063.wav",
+   "durasi": 3.04,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f28c35f1fb0e",
+   "suara": "adriy",
+   "teks": "Ternyata jawabannya ada di depan mata kita selama ini.",
+   "dibaca": "Ternyata jawabannya ada di depan mata kita selama ini.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/f28c35f1fb0e.wav",
+   "durasi": 3.2,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7cdc20dee1da",
+   "suara": "ongky",
+   "teks": "Ternyata jawabannya ada di depan mata kita selama ini.",
+   "dibaca": "Ternyata jawabannya ada di depan mata kita selama ini.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/7cdc20dee1da.wav",
+   "durasi": 3.04,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "722b5e55a249",
+   "suara": "adriy",
+   "teks": "Fakta ini benar-benar di luar nalar.",
+   "dibaca": "Fakta ini benar-benar di luar nalar.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/722b5e55a249.wav",
+   "durasi": 2.88,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "fe62827f845a",
+   "suara": "ongky",
+   "teks": "Fakta ini benar-benar di luar nalar.",
+   "dibaca": "Fakta ini benar-benar di luar nalar.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/fe62827f845a.wav",
+   "durasi": 2.56,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4435b3aa76cc",
+   "suara": "adriy",
+   "teks": "Dan yang lebih gila lagi, ini terjadi setiap hari.",
+   "dibaca": "Dan yang lebih gila lagi, ini terjadi setiap hari.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/4435b3aa76cc.wav",
+   "durasi": 3.52,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "96a7fd4fbb96",
+   "suara": "ongky",
+   "teks": "Dan yang lebih gila lagi, ini terjadi setiap hari.",
+   "dibaca": "Dan yang lebih gila lagi, ini terjadi setiap hari.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/96a7fd4fbb96.wav",
+   "durasi": 3.36,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "16d84ed12801",
+   "suara": "adriy",
+   "teks": "Ternyata, semua itu cuma karena satu hal kecil.",
+   "dibaca": "Ternyata, semua itu cuma karena satu hal kecil.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/16d84ed12801.wav",
+   "durasi": 3.2,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e48b93f51bc4",
+   "suara": "ongky",
+   "teks": "Ternyata, semua itu cuma karena satu hal kecil.",
+   "dibaca": "Ternyata, semua itu cuma karena satu hal kecil.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/e48b93f51bc4.wav",
+   "durasi": 3.68,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2532cf70e957",
+   "suara": "adriy",
+   "teks": "Luar biasa, kan?",
+   "dibaca": "Luar biasa, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/2532cf70e957.wav",
+   "durasi": 0.96,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "1e51b35fcfda",
+   "suara": "ongky",
+   "teks": "Luar biasa, kan?",
+   "dibaca": "Luar biasa, kan?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/1e51b35fcfda.wav",
+   "durasi": 1.44,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f416e4560cca",
+   "suara": "adriy",
+   "teks": "Keren banget, ya?",
+   "dibaca": "Keren banget, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/f416e4560cca.wav",
+   "durasi": 1.44,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "99c9b5b047f4",
+   "suara": "ongky",
+   "teks": "Keren banget, ya?",
+   "dibaca": "Keren banget, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/99c9b5b047f4.wav",
+   "durasi": 1.44,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f9233bd5d8a8",
+   "suara": "adriy",
+   "teks": "Alam memang penuh kejutan.",
+   "dibaca": "Alam memang penuh kejutan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/f9233bd5d8a8.wav",
+   "durasi": 1.6,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "40ef9f397f2a",
+   "suara": "ongky",
+   "teks": "Alam memang penuh kejutan.",
+   "dibaca": "Alam memang penuh kejutan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/40ef9f397f2a.wav",
+   "durasi": 2.08,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bce1771cbe57",
+   "suara": "adriy",
+   "teks": "Tubuh manusia memang luar biasa.",
+   "dibaca": "Tubuh manusia memang luar biasa.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/bce1771cbe57.wav",
+   "durasi": 2.24,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "37bd2330d5cd",
+   "suara": "ongky",
+   "teks": "Tubuh manusia memang luar biasa.",
+   "dibaca": "Tubuh manusia memang luar biasa.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/37bd2330d5cd.wav",
+   "durasi": 2.4,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2be415dbb17a",
+   "suara": "adriy",
+   "teks": "Otak kita benar-benar mengagumkan.",
+   "dibaca": "Otak kita benar-benar mengagumkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/2be415dbb17a.wav",
+   "durasi": 2.24,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "31085e08960b",
+   "suara": "ongky",
+   "teks": "Otak kita benar-benar mengagumkan.",
+   "dibaca": "Otak kita benar-benar mengagumkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/31085e08960b.wav",
+   "durasi": 3.2,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4b1754b19253",
+   "suara": "adriy",
+   "teks": "Coba bayangkan betapa rumitnya proses itu.",
+   "dibaca": "Coba bayangkan betapa rumitnya proses itu.",
+   "fungsi": [
+    "memberikan analogi",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/4b1754b19253.wav",
+   "durasi": 3.04,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "557a19bbe12a",
+   "suara": "ongky",
+   "teks": "Coba bayangkan betapa rumitnya proses itu.",
+   "dibaca": "Coba bayangkan betapa rumitnya proses itu.",
+   "fungsi": [
+    "memberikan analogi",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/557a19bbe12a.wav",
+   "durasi": 3.04,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d2373b7340ff",
+   "suara": "adriy",
+   "teks": "Semua itu bekerja dengan begitu rapi.",
+   "dibaca": "Semua itu bekerja dengan begitu rapi.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/d2373b7340ff.wav",
+   "durasi": 2.88,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "35c09e900b91",
+   "suara": "ongky",
+   "teks": "Semua itu bekerja dengan begitu rapi.",
+   "dibaca": "Semua itu bekerja dengan begitu rapi.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/35c09e900b91.wav",
+   "durasi": 2.72,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "99ca506d7f4a",
+   "suara": "adriy",
+   "teks": "Hebatnya, semua itu terjadi secara otomatis.",
+   "dibaca": "Hebatnya, semua itu terjadi secara otomatis.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/99ca506d7f4a.wav",
+   "durasi": 3.36,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b2c404e9d06f",
+   "suara": "ongky",
+   "teks": "Hebatnya, semua itu terjadi secara otomatis.",
+   "dibaca": "Hebatnya, semua itu terjadi secara otomatis.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/b2c404e9d06f.wav",
+   "durasi": 3.52,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a07b907cc4f5",
+   "suara": "adriy",
+   "teks": "Ini salah satu keajaiban yang jarang kita sadari.",
+   "dibaca": "Ini salah satu keajaiban yang jarang kita sadari.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/a07b907cc4f5.wav",
+   "durasi": 3.2,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "1b3060734dec",
+   "suara": "ongky",
+   "teks": "Ini salah satu keajaiban yang jarang kita sadari.",
+   "dibaca": "Ini salah satu keajaiban yang jarang kita sadari.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/1b3060734dec.wav",
+   "durasi": 2.72,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b8bca5499ab4",
+   "suara": "adriy",
+   "teks": "Benar-benar desain yang sempurna.",
+   "dibaca": "Benar-benar desain yang sempurna.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/b8bca5499ab4.wav",
+   "durasi": 1.92,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f2431b432f3a",
+   "suara": "ongky",
+   "teks": "Benar-benar desain yang sempurna.",
+   "dibaca": "Benar-benar desain yang sempurna.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/f2431b432f3a.wav",
+   "durasi": 3.36,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ea558d713c03",
+   "suara": "adriy",
+   "teks": "Sulit dipercaya, tapi inilah kenyataannya.",
+   "dibaca": "Sulit dipercaya, tapi inilah kenyataannya.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/ea558d713c03.wav",
+   "durasi": 3.2,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5ea688eff435",
+   "suara": "ongky",
+   "teks": "Sulit dipercaya, tapi inilah kenyataannya.",
+   "dibaca": "Sulit dipercaya, tapi inilah kenyataannya.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/5ea688eff435.wav",
+   "durasi": 3.04,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2bc1955545f3",
+   "suara": "adriy",
+   "teks": "Betapa kecilnya kita dibandingkan alam semesta.",
+   "dibaca": "Betapa kecilnya kita dibandingkan alam semesta.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/2bc1955545f3.wav",
+   "durasi": 3.04,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "cb0c6564dec6",
+   "suara": "ongky",
+   "teks": "Betapa kecilnya kita dibandingkan alam semesta.",
+   "dibaca": "Betapa kecilnya kita dibandingkan alam semesta.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/ongky/cb0c6564dec6.wav",
+   "durasi": 2.56,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c56cb56b126c",
+   "suara": "adriy",
+   "teks": "Dan semua itu berawal dari sesuatu yang sangat kecil.",
+   "dibaca": "Dan semua itu berawal dari sesuatu yang sangat kecil.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/adriy/c56cb56b126c.wav",
+   "durasi": 3.2,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "04f84af831d4",
+   "suara": "ongky",
+   "teks": "Dan semua itu berawal dari sesuatu yang sangat kecil.",
+   "dibaca": "Dan semua itu berawal dari sesuatu yang sangat kecil.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/ongky/04f84af831d4.wav",
+   "durasi": 2.88,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "56649c867f7b",
+   "suara": "adriy",
+   "teks": "Semakin dipelajari, semakin mengagumkan.",
+   "dibaca": "Semakin dipelajari, semakin mengagumkan.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/56649c867f7b.wav",
+   "durasi": 2.56,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "868a222953ce",
+   "suara": "ongky",
+   "teks": "Semakin dipelajari, semakin mengagumkan.",
+   "dibaca": "Semakin dipelajari, semakin mengagumkan.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/868a222953ce.wav",
+   "durasi": 2.72,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d636eb717db2",
+   "suara": "adriy",
+   "teks": "Inilah yang membuat sains begitu menarik.",
+   "dibaca": "Inilah yang membuat sains begitu menarik.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/d636eb717db2.wav",
+   "durasi": 2.4,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4f99929b0732",
+   "suara": "ongky",
+   "teks": "Inilah yang membuat sains begitu menarik.",
+   "dibaca": "Inilah yang membuat sains begitu menarik.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/4f99929b0732.wav",
+   "durasi": 2.56,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f910a560584a",
+   "suara": "adriy",
+   "teks": "Kadang, hal paling sederhana justru yang paling menakjubkan.",
+   "dibaca": "Kadang, hal paling sederhana justru yang paling menakjubkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/f910a560584a.wav",
+   "durasi": 3.36,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "434285a5ee39",
+   "suara": "ongky",
+   "teks": "Kadang, hal paling sederhana justru yang paling menakjubkan.",
+   "dibaca": "Kadang, hal paling sederhana justru yang paling menakjubkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/434285a5ee39.wav",
+   "durasi": 4.0,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e9a71ca8c876",
+   "suara": "adriy",
+   "teks": "Benar-benar pencapaian yang luar biasa.",
+   "dibaca": "Benar-benar pencapaian yang luar biasa.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/e9a71ca8c876.wav",
+   "durasi": 2.4,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bb6a75cd124f",
+   "suara": "ongky",
+   "teks": "Benar-benar pencapaian yang luar biasa.",
+   "dibaca": "Benar-benar pencapaian yang luar biasa.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/bb6a75cd124f.wav",
+   "durasi": 3.52,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "659f554a407a",
+   "suara": "adriy",
+   "teks": "Rasanya seperti sihir, padahal ini sains.",
+   "dibaca": "Rasanya seperti sihir, padahal ini sains.",
+   "fungsi": [
+    "memberikan analogi",
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/659f554a407a.wav",
+   "durasi": 2.72,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "46e4a642b43e",
+   "suara": "ongky",
+   "teks": "Rasanya seperti sihir, padahal ini sains.",
+   "dibaca": "Rasanya seperti sihir, padahal ini sains.",
+   "fungsi": [
+    "memberikan analogi",
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/46e4a642b43e.wav",
+   "durasi": 3.36,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "646bfdc44091",
+   "suara": "adriy",
+   "teks": "Kita hidup di dunia yang penuh hal menakjubkan.",
+   "dibaca": "Kita hidup di dunia yang penuh hal menakjubkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/646bfdc44091.wav",
+   "durasi": 2.56,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6f10c470c67d",
+   "suara": "ongky",
+   "teks": "Kita hidup di dunia yang penuh hal menakjubkan.",
+   "dibaca": "Kita hidup di dunia yang penuh hal menakjubkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/6f10c470c67d.wav",
+   "durasi": 3.2,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8c015b645b29",
+   "suara": "adriy",
+   "teks": "Dan sampai sekarang, ini masih membuat para ahli kagum.",
+   "dibaca": "Dan sampai sekarang, ini masih membuat para ahli kagum.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/8c015b645b29.wav",
+   "durasi": 3.36,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6c603df5672a",
+   "suara": "ongky",
+   "teks": "Dan sampai sekarang, ini masih membuat para ahli kagum.",
+   "dibaca": "Dan sampai sekarang, ini masih membuat para ahli kagum.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/6c603df5672a.wav",
+   "durasi": 3.68,
+   "kategori": "terkejut dan kagum",
+   "catatan": "nada kagum",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
   }
  ]
 }
