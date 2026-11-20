@@ -20494,6 +20494,186 @@
    "catatan": "nada santai",
    "sumber": "perpustakaan_suara.py",
    "dibuat": "2026-11-20"
+  },
+  {
+   "id": "1f41afae7e7c",
+   "suara": "adriy",
+   "teks": "Mungkin, selama ini kita terlalu cepat menilai.",
+   "dibaca": "Mungkin, selama ini kita terlalu cepat menilai.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/1f41afae7e7c.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "76f5d8198ddb",
+   "suara": "ongky",
+   "teks": "Mungkin, selama ini kita terlalu cepat menilai.",
+   "dibaca": "Mungkin, selama ini kita terlalu cepat menilai.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/76f5d8198ddb.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "473f29a5211a",
+   "suara": "adriy",
+   "teks": "Kadang, kita lupa bahwa semuanya butuh proses.",
+   "dibaca": "Kadang, kita lupa bahwa semuanya butuh proses.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/473f29a5211a.wav",
+   "durasi": 3.52,
+   "kategori": "",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9deb41db1c1e",
+   "suara": "ongky",
+   "teks": "Kadang, kita lupa bahwa semuanya butuh proses.",
+   "dibaca": "Kadang, kita lupa bahwa semuanya butuh proses.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/9deb41db1c1e.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a2859cace644",
+   "suara": "adriy",
+   "teks": "Ada hal-hal yang baru terasa berharga setelah hilang.",
+   "dibaca": "Ada hal-hal yang baru terasa berharga setelah hilang.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/a2859cace644.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4236cdc7f51d",
+   "suara": "ongky",
+   "teks": "Ada hal-hal yang baru terasa berharga setelah hilang.",
+   "dibaca": "Ada hal-hal yang baru terasa berharga setelah hilang.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/4236cdc7f51d.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "21d5aac50240",
+   "suara": "adriy",
+   "teks": "Mungkin, jawabannya selalu ada di dalam diri kita.",
+   "dibaca": "Mungkin, jawabannya selalu ada di dalam diri kita.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/21d5aac50240.wav",
+   "durasi": 2.88,
+   "kategori": "",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "11aab6ea4d0f",
+   "suara": "ongky",
+   "teks": "Mungkin, jawabannya selalu ada di dalam diri kita.",
+   "dibaca": "Mungkin, jawabannya selalu ada di dalam diri kita.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/11aab6ea4d0f.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "807e6681f7a4",
+   "suara": "adriy",
+   "teks": "Kita sering mencari jauh, padahal jawabannya dekat.",
+   "dibaca": "Kita sering mencari jauh, padahal jawabannya dekat.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/807e6681f7a4.wav",
+   "durasi": 3.2,
+   "kategori": "",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b2878e25674f",
+   "suara": "ongky",
+   "teks": "Kita sering mencari jauh, padahal jawabannya dekat.",
+   "dibaca": "Kita sering mencari jauh, padahal jawabannya dekat.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/b2878e25674f.wav",
+   "durasi": 2.72,
+   "kategori": "",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "0aec8fd2bd07",
+   "suara": "adriy",
+   "teks": "Tidak semua hal harus dipahami saat ini juga.",
+   "dibaca": "Tidak semua hal harus dipahami saat ini juga.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/0aec8fd2bd07.wav",
+   "durasi": 2.4,
+   "kategori": "",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3d29202f6f94",
+   "suara": "ongky",
+   "teks": "Tidak semua hal harus dipahami saat ini juga.",
+   "dibaca": "Tidak semua hal harus dipahami saat ini juga.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/3d29202f6f94.wav",
+   "durasi": 2.56,
+   "kategori": "",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
   }
  ]
 }
