@@ -14442,6 +14442,1212 @@
    "catatan": "nada informatif",
    "sumber": "perpustakaan_suara.py",
    "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c02bd5f2913f",
+   "suara": "adriy",
+   "teks": "Sebelum ke jawabannya, kita mulai dari sini dulu.",
+   "dibaca": "Sebelum ke jawabannya, kita mulai dari sini dulu.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/adriy/c02bd5f2913f.wav",
+   "durasi": 3.2,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3c27df58b60a",
+   "suara": "ongky",
+   "teks": "Sebelum ke jawabannya, kita mulai dari sini dulu.",
+   "dibaca": "Sebelum ke jawabannya, kita mulai dari sini dulu.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/ongky/3c27df58b60a.wav",
+   "durasi": 3.52,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3a602224514d",
+   "suara": "adriy",
+   "teks": "Untuk memahaminya, kita perlu mundur sedikit.",
+   "dibaca": "Untuk memahaminya, kita perlu mundur sedikit.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/3a602224514d.wav",
+   "durasi": 3.04,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "cb6752705501",
+   "suara": "ongky",
+   "teks": "Untuk memahaminya, kita perlu mundur sedikit.",
+   "dibaca": "Untuk memahaminya, kita perlu mundur sedikit.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/cb6752705501.wav",
+   "durasi": 3.2,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "03ed1ebd96ed",
+   "suara": "adriy",
+   "teks": "Tapi sebelum itu, ada satu hal yang perlu kamu tahu.",
+   "dibaca": "Tapi sebelum itu, ada satu hal yang perlu kamu tahu.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/03ed1ebd96ed.wav",
+   "durasi": 3.2,
+   "kategori": "transisi",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8eb8604b3ce5",
+   "suara": "ongky",
+   "teks": "Tapi sebelum itu, ada satu hal yang perlu kamu tahu.",
+   "dibaca": "Tapi sebelum itu, ada satu hal yang perlu kamu tahu.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/8eb8604b3ce5.wav",
+   "durasi": 3.36,
+   "kategori": "transisi",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b6543a2dbdbc",
+   "suara": "adriy",
+   "teks": "Oke, sekarang kita lanjut.",
+   "dibaca": "Oke, sekarang kita lanjut.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/b6543a2dbdbc.wav",
+   "durasi": 1.92,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4dbafdf6bbeb",
+   "suara": "ongky",
+   "teks": "Oke, sekarang kita lanjut.",
+   "dibaca": "Oke, sekarang kita lanjut.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/ongky/4dbafdf6bbeb.wav",
+   "durasi": 2.4,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4b96d718e801",
+   "suara": "adriy",
+   "teks": "Nah, sekarang kita masuk ke bagian berikutnya.",
+   "dibaca": "Nah, sekarang kita masuk ke bagian berikutnya.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/4b96d718e801.wav",
+   "durasi": 2.24,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8ac41bc8f8fd",
+   "suara": "ongky",
+   "teks": "Nah, sekarang kita masuk ke bagian berikutnya.",
+   "dibaca": "Nah, sekarang kita masuk ke bagian berikutnya.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/ongky/8ac41bc8f8fd.wav",
+   "durasi": 3.2,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8fa56da2b542",
+   "suara": "adriy",
+   "teks": "Sekarang, mari kita lihat dari sisi lain.",
+   "dibaca": "Sekarang, mari kita lihat dari sisi lain.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/8fa56da2b542.wav",
+   "durasi": 2.72,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4737fcacdf2d",
+   "suara": "ongky",
+   "teks": "Sekarang, mari kita lihat dari sisi lain.",
+   "dibaca": "Sekarang, mari kita lihat dari sisi lain.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/ongky/4737fcacdf2d.wav",
+   "durasi": 2.88,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "05463bae62a7",
+   "suara": "adriy",
+   "teks": "Tapi itu baru setengah ceritanya.",
+   "dibaca": "Tapi itu baru setengah ceritanya.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/05463bae62a7.wav",
+   "durasi": 1.76,
+   "kategori": "transisi",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4678d3bb7fd6",
+   "suara": "ongky",
+   "teks": "Tapi itu baru setengah ceritanya.",
+   "dibaca": "Tapi itu baru setengah ceritanya.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/4678d3bb7fd6.wav",
+   "durasi": 1.76,
+   "kategori": "transisi",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "597ccc68d3b4",
+   "suara": "adriy",
+   "teks": "Dan di sinilah ceritanya mulai berubah.",
+   "dibaca": "Dan di sinilah ceritanya mulai berubah.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/597ccc68d3b4.wav",
+   "durasi": 2.72,
+   "kategori": "transisi",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e28f7c97b15d",
+   "suara": "ongky",
+   "teks": "Dan di sinilah ceritanya mulai berubah.",
+   "dibaca": "Dan di sinilah ceritanya mulai berubah.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/e28f7c97b15d.wav",
+   "durasi": 2.88,
+   "kategori": "transisi",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "51c2ecba2fad",
+   "suara": "adriy",
+   "teks": "Tapi ternyata, bukan cuma itu.",
+   "dibaca": "Tapi ternyata, bukan cuma itu.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/51c2ecba2fad.wav",
+   "durasi": 2.4,
+   "kategori": "transisi",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e3e4b32ff0b6",
+   "suara": "ongky",
+   "teks": "Tapi ternyata, bukan cuma itu.",
+   "dibaca": "Tapi ternyata, bukan cuma itu.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/e3e4b32ff0b6.wav",
+   "durasi": 2.72,
+   "kategori": "transisi",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6fc98491fc25",
+   "suara": "adriy",
+   "teks": "Dan ternyata, masih ada lagi.",
+   "dibaca": "Dan ternyata, masih ada lagi.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/6fc98491fc25.wav",
+   "durasi": 2.08,
+   "kategori": "transisi",
+   "catatan": "nada antusias",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "61f6bbe1d43c",
+   "suara": "ongky",
+   "teks": "Dan ternyata, masih ada lagi.",
+   "dibaca": "Dan ternyata, masih ada lagi.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/61f6bbe1d43c.wav",
+   "durasi": 3.68,
+   "kategori": "transisi",
+   "catatan": "nada antusias",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "fdd9ea32ca9b",
+   "suara": "adriy",
+   "teks": "Setelah tahu itu, sekarang pertanyaannya berubah.",
+   "dibaca": "Setelah tahu itu, sekarang pertanyaannya berubah.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/fdd9ea32ca9b.wav",
+   "durasi": 2.88,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c8e9e045770d",
+   "suara": "ongky",
+   "teks": "Setelah tahu itu, sekarang pertanyaannya berubah.",
+   "dibaca": "Setelah tahu itu, sekarang pertanyaannya berubah.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/c8e9e045770d.wav",
+   "durasi": 3.2,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "28d1b00c8fd6",
+   "suara": "adriy",
+   "teks": "Lalu, bagaimana dengan sebaliknya?",
+   "dibaca": "Lalu, bagaimana dengan sebaliknya?",
+   "fungsi": [
+    "membantah asumsi",
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/28d1b00c8fd6.wav",
+   "durasi": 2.24,
+   "kategori": "transisi",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ff8851c15a73",
+   "suara": "ongky",
+   "teks": "Lalu, bagaimana dengan sebaliknya?",
+   "dibaca": "Lalu, bagaimana dengan sebaliknya?",
+   "fungsi": [
+    "membantah asumsi",
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/ongky/ff8851c15a73.wav",
+   "durasi": 2.72,
+   "kategori": "transisi",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "21d3323a10b6",
+   "suara": "adriy",
+   "teks": "Kalau sudah paham bagian ini, sisanya jadi lebih mudah.",
+   "dibaca": "Kalau sudah paham bagian ini, sisanya jadi lebih mudah.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/21d3323a10b6.wav",
+   "durasi": 3.68,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "879b9e0f6100",
+   "suara": "ongky",
+   "teks": "Kalau sudah paham bagian ini, sisanya jadi lebih mudah.",
+   "dibaca": "Kalau sudah paham bagian ini, sisanya jadi lebih mudah.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/879b9e0f6100.wav",
+   "durasi": 3.84,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4d87d7256ef9",
+   "suara": "adriy",
+   "teks": "Ini yang membawa kita ke bagian paling penting.",
+   "dibaca": "Ini yang membawa kita ke bagian paling penting.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/4d87d7256ef9.wav",
+   "durasi": 2.72,
+   "kategori": "transisi",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2ce4d1c06570",
+   "suara": "ongky",
+   "teks": "Ini yang membawa kita ke bagian paling penting.",
+   "dibaca": "Ini yang membawa kita ke bagian paling penting.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/ongky/2ce4d1c06570.wav",
+   "durasi": 2.88,
+   "kategori": "transisi",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "0bf7a92e5a4e",
+   "suara": "adriy",
+   "teks": "Sekarang, kita bandingkan dengan yang lain.",
+   "dibaca": "Sekarang, kita bandingkan dengan yang lain.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/0bf7a92e5a4e.wav",
+   "durasi": 2.56,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9a15075bc758",
+   "suara": "ongky",
+   "teks": "Sekarang, kita bandingkan dengan yang lain.",
+   "dibaca": "Sekarang, kita bandingkan dengan yang lain.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/ongky/9a15075bc758.wav",
+   "durasi": 3.04,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e66f0f29a23a",
+   "suara": "adriy",
+   "teks": "Untuk lebih jelasnya, kita lihat contohnya.",
+   "dibaca": "Untuk lebih jelasnya, kita lihat contohnya.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/e66f0f29a23a.wav",
+   "durasi": 2.72,
+   "kategori": "transisi",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bc9afd40b9b0",
+   "suara": "ongky",
+   "teks": "Untuk lebih jelasnya, kita lihat contohnya.",
+   "dibaca": "Untuk lebih jelasnya, kita lihat contohnya.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/bc9afd40b9b0.wav",
+   "durasi": 2.56,
+   "kategori": "transisi",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "dc5a5ae9341c",
+   "suara": "adriy",
+   "teks": "Kita kembali ke pertanyaan awal tadi.",
+   "dibaca": "Kita kembali ke pertanyaan awal tadi.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/dc5a5ae9341c.wav",
+   "durasi": 2.08,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "089f649f8814",
+   "suara": "ongky",
+   "teks": "Kita kembali ke pertanyaan awal tadi.",
+   "dibaca": "Kita kembali ke pertanyaan awal tadi.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/ongky/089f649f8814.wav",
+   "durasi": 3.04,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2870e9b0525a",
+   "suara": "adriy",
+   "teks": "Ingat pertanyaan di awal video?",
+   "dibaca": "Ingat pertanyaan di awal video?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/2870e9b0525a.wav",
+   "durasi": 1.6,
+   "kategori": "transisi",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3d403c235fe3",
+   "suara": "ongky",
+   "teks": "Ingat pertanyaan di awal video?",
+   "dibaca": "Ingat pertanyaan di awal video?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/3d403c235fe3.wav",
+   "durasi": 1.92,
+   "kategori": "transisi",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "fdda31c225d1",
+   "suara": "adriy",
+   "teks": "Nah, sekarang kita bisa menjawabnya.",
+   "dibaca": "Nah, sekarang kita bisa menjawabnya.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/fdda31c225d1.wav",
+   "durasi": 2.24,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "01eb1c898a00",
+   "suara": "ongky",
+   "teks": "Nah, sekarang kita bisa menjawabnya.",
+   "dibaca": "Nah, sekarang kita bisa menjawabnya.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/01eb1c898a00.wav",
+   "durasi": 3.68,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6e443384999d",
+   "suara": "adriy",
+   "teks": "Sekarang kita tahu caranya. Tapi, kenapa bisa begitu?",
+   "dibaca": "Sekarang kita tahu caranya. Tapi, kenapa bisa begitu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/6e443384999d.wav",
+   "durasi": 3.36,
+   "kategori": "transisi",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "834831ecaffe",
+   "suara": "ongky",
+   "teks": "Sekarang kita tahu caranya. Tapi, kenapa bisa begitu?",
+   "dibaca": "Sekarang kita tahu caranya. Tapi, kenapa bisa begitu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/834831ecaffe.wav",
+   "durasi": 3.84,
+   "kategori": "transisi",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "99a2804c5d18",
+   "suara": "adriy",
+   "teks": "Dari sinilah semuanya bermula.",
+   "dibaca": "Dari sinilah semuanya bermula.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/adriy/99a2804c5d18.wav",
+   "durasi": 1.92,
+   "kategori": "transisi",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6721e9f4358d",
+   "suara": "ongky",
+   "teks": "Dari sinilah semuanya bermula.",
+   "dibaca": "Dari sinilah semuanya bermula.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/ongky/6721e9f4358d.wav",
+   "durasi": 2.88,
+   "kategori": "transisi",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "92c8b6fd3e75",
+   "suara": "adriy",
+   "teks": "Sampai di sini, kita sudah tahu penyebabnya.",
+   "dibaca": "Sampai di sini, kita sudah tahu penyebabnya.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/92c8b6fd3e75.wav",
+   "durasi": 2.88,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "0453148ed741",
+   "suara": "ongky",
+   "teks": "Sampai di sini, kita sudah tahu penyebabnya.",
+   "dibaca": "Sampai di sini, kita sudah tahu penyebabnya.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/0453148ed741.wav",
+   "durasi": 5.44,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "fa41d9df39ea",
+   "suara": "adriy",
+   "teks": "Tapi, apa akibatnya?",
+   "dibaca": "Tapi, apa akibatnya?",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/fa41d9df39ea.wav",
+   "durasi": 2.08,
+   "kategori": "transisi",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2c2125a28a1e",
+   "suara": "ongky",
+   "teks": "Tapi, apa akibatnya?",
+   "dibaca": "Tapi, apa akibatnya?",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/2c2125a28a1e.wav",
+   "durasi": 2.4,
+   "kategori": "transisi",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3997057650d2",
+   "suara": "adriy",
+   "teks": "Lalu, apa artinya buat kita?",
+   "dibaca": "Lalu, apa artinya buat kita?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/3997057650d2.wav",
+   "durasi": 2.4,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "1abc9138575a",
+   "suara": "ongky",
+   "teks": "Lalu, apa artinya buat kita?",
+   "dibaca": "Lalu, apa artinya buat kita?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/1abc9138575a.wav",
+   "durasi": 2.24,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ebae80f89318",
+   "suara": "adriy",
+   "teks": "Tapi ada sisi lain yang jarang dibicarakan.",
+   "dibaca": "Tapi ada sisi lain yang jarang dibicarakan.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/ebae80f89318.wav",
+   "durasi": 2.56,
+   "kategori": "transisi",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a30f26b05187",
+   "suara": "ongky",
+   "teks": "Tapi ada sisi lain yang jarang dibicarakan.",
+   "dibaca": "Tapi ada sisi lain yang jarang dibicarakan.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/ongky/a30f26b05187.wav",
+   "durasi": 2.88,
+   "kategori": "transisi",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "874c6996ff93",
+   "suara": "adriy",
+   "teks": "Sekarang, bagian yang paling seru.",
+   "dibaca": "Sekarang, bagian yang paling seru.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/874c6996ff93.wav",
+   "durasi": 2.4,
+   "kategori": "transisi",
+   "catatan": "nada antusias",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d9c6338c2685",
+   "suara": "ongky",
+   "teks": "Sekarang, bagian yang paling seru.",
+   "dibaca": "Sekarang, bagian yang paling seru.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/d9c6338c2685.wav",
+   "durasi": 2.88,
+   "kategori": "transisi",
+   "catatan": "nada antusias",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "91bfb8986b98",
+   "suara": "adriy",
+   "teks": "Oke, cukup soal teorinya.",
+   "dibaca": "Oke, cukup soal teorinya.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/91bfb8986b98.wav",
+   "durasi": 2.24,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "64224b6d3e2f",
+   "suara": "ongky",
+   "teks": "Oke, cukup soal teorinya.",
+   "dibaca": "Oke, cukup soal teorinya.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/64224b6d3e2f.wav",
+   "durasi": 2.08,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "984fef02bcff",
+   "suara": "adriy",
+   "teks": "Sekarang, kita lihat kenyataannya.",
+   "dibaca": "Sekarang, kita lihat kenyataannya.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/984fef02bcff.wav",
+   "durasi": 2.4,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ecf5a23ae801",
+   "suara": "ongky",
+   "teks": "Sekarang, kita lihat kenyataannya.",
+   "dibaca": "Sekarang, kita lihat kenyataannya.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/ecf5a23ae801.wav",
+   "durasi": 2.08,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7332a988ba0f",
+   "suara": "adriy",
+   "teks": "Mari kita lihat buktinya.",
+   "dibaca": "Mari kita lihat buktinya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/7332a988ba0f.wav",
+   "durasi": 1.28,
+   "kategori": "transisi",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "070a56780159",
+   "suara": "ongky",
+   "teks": "Mari kita lihat buktinya.",
+   "dibaca": "Mari kita lihat buktinya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/070a56780159.wav",
+   "durasi": 2.24,
+   "kategori": "transisi",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ac82d6b2b958",
+   "suara": "adriy",
+   "teks": "Tapi, apakah hasilnya selalu sama?",
+   "dibaca": "Tapi, apakah hasilnya selalu sama?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/ac82d6b2b958.wav",
+   "durasi": 2.24,
+   "kategori": "transisi",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d2fbc684c4c4",
+   "suara": "ongky",
+   "teks": "Tapi, apakah hasilnya selalu sama?",
+   "dibaca": "Tapi, apakah hasilnya selalu sama?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/d2fbc684c4c4.wav",
+   "durasi": 2.56,
+   "kategori": "transisi",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9ac0023ba83e",
+   "suara": "adriy",
+   "teks": "Dan ini membawa kita ke pertanyaan berikutnya.",
+   "dibaca": "Dan ini membawa kita ke pertanyaan berikutnya.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/9ac0023ba83e.wav",
+   "durasi": 2.56,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9b5d0505fbb0",
+   "suara": "ongky",
+   "teks": "Dan ini membawa kita ke pertanyaan berikutnya.",
+   "dibaca": "Dan ini membawa kita ke pertanyaan berikutnya.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/ongky/9b5d0505fbb0.wav",
+   "durasi": 2.56,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "81723549de4f",
+   "suara": "adriy",
+   "teks": "Tapi, semuanya nggak berhenti di situ.",
+   "dibaca": "Tapi, semuanya nggak berhenti di situ.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/81723549de4f.wav",
+   "durasi": 2.4,
+   "kategori": "transisi",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7120200367e6",
+   "suara": "ongky",
+   "teks": "Tapi, semuanya nggak berhenti di situ.",
+   "dibaca": "Tapi, semuanya nggak berhenti di situ.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/7120200367e6.wav",
+   "durasi": 2.88,
+   "kategori": "transisi",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "db0bed981986",
+   "suara": "adriy",
+   "teks": "Setelah semua penjelasan tadi, kita bisa ambil satu kesimpulan.",
+   "dibaca": "Setelah semua penjelasan tadi, kita bisa ambil satu kesimpulan.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/db0bed981986.wav",
+   "durasi": 3.84,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "0f1a0337c41a",
+   "suara": "ongky",
+   "teks": "Setelah semua penjelasan tadi, kita bisa ambil satu kesimpulan.",
+   "dibaca": "Setelah semua penjelasan tadi, kita bisa ambil satu kesimpulan.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/0f1a0337c41a.wav",
+   "durasi": 3.36,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8f1b026a6d4e",
+   "suara": "adriy",
+   "teks": "Sebelum video ini selesai, ada satu hal lagi.",
+   "dibaca": "Sebelum video ini selesai, ada satu hal lagi.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/8f1b026a6d4e.wav",
+   "durasi": 3.04,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "296697a251b0",
+   "suara": "ongky",
+   "teks": "Sebelum video ini selesai, ada satu hal lagi.",
+   "dibaca": "Sebelum video ini selesai, ada satu hal lagi.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/296697a251b0.wav",
+   "durasi": 2.56,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "aa5c120b243d",
+   "suara": "adriy",
+   "teks": "Dan akhirnya, kita sampai di bagian terakhir.",
+   "dibaca": "Dan akhirnya, kita sampai di bagian terakhir.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/aa5c120b243d.wav",
+   "durasi": 2.88,
+   "kategori": "transisi",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5aa3a4842778",
+   "suara": "ongky",
+   "teks": "Dan akhirnya, kita sampai di bagian terakhir.",
+   "dibaca": "Dan akhirnya, kita sampai di bagian terakhir.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/5aa3a4842778.wav",
+   "durasi": 2.88,
+   "kategori": "transisi",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5c0620d4f4e7",
+   "suara": "adriy",
+   "teks": "Kalau dirangkum, semuanya sebenarnya sederhana.",
+   "dibaca": "Kalau dirangkum, semuanya sebenarnya sederhana.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/5c0620d4f4e7.wav",
+   "durasi": 3.2,
+   "kategori": "transisi",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7d4ae025dabc",
+   "suara": "ongky",
+   "teks": "Kalau dirangkum, semuanya sebenarnya sederhana.",
+   "dibaca": "Kalau dirangkum, semuanya sebenarnya sederhana.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/7d4ae025dabc.wav",
+   "durasi": 3.04,
+   "kategori": "transisi",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c034eb72f481",
+   "suara": "adriy",
+   "teks": "Jadi, kalau ditarik ke belakang, semuanya saling terhubung.",
+   "dibaca": "Jadi, kalau ditarik ke belakang, semuanya saling terhubung.",
+   "fungsi": [
+    "menghubungkan dua topik",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/c034eb72f481.wav",
+   "durasi": 3.68,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d806e01ea7f1",
+   "suara": "ongky",
+   "teks": "Jadi, kalau ditarik ke belakang, semuanya saling terhubung.",
+   "dibaca": "Jadi, kalau ditarik ke belakang, semuanya saling terhubung.",
+   "fungsi": [
+    "menghubungkan dua topik",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/d806e01ea7f1.wav",
+   "durasi": 2.88,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "556600314e72",
+   "suara": "adriy",
+   "teks": "Tapi tunggu, masih ada satu kejutan lagi.",
+   "dibaca": "Tapi tunggu, masih ada satu kejutan lagi.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/556600314e72.wav",
+   "durasi": 2.72,
+   "kategori": "transisi",
+   "catatan": "nada antusias",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9dbad920f903",
+   "suara": "ongky",
+   "teks": "Tapi tunggu, masih ada satu kejutan lagi.",
+   "dibaca": "Tapi tunggu, masih ada satu kejutan lagi.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/9dbad920f903.wav",
+   "durasi": 3.04,
+   "kategori": "transisi",
+   "catatan": "nada antusias",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ef878bb4f432",
+   "suara": "adriy",
+   "teks": "Oke, kita lanjut ke poin berikutnya.",
+   "dibaca": "Oke, kita lanjut ke poin berikutnya.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/ef878bb4f432.wav",
+   "durasi": 2.72,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2dd8cef65bda",
+   "suara": "ongky",
+   "teks": "Oke, kita lanjut ke poin berikutnya.",
+   "dibaca": "Oke, kita lanjut ke poin berikutnya.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/ongky/2dd8cef65bda.wav",
+   "durasi": 2.88,
+   "kategori": "transisi",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d839b3e31230",
+   "suara": "adriy",
+   "teks": "Kita lihat apa yang terjadi selanjutnya.",
+   "dibaca": "Kita lihat apa yang terjadi selanjutnya.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/d839b3e31230.wav",
+   "durasi": 1.76,
+   "kategori": "transisi",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f585723055ad",
+   "suara": "ongky",
+   "teks": "Kita lihat apa yang terjadi selanjutnya.",
+   "dibaca": "Kita lihat apa yang terjadi selanjutnya.",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/f585723055ad.wav",
+   "durasi": 2.08,
+   "kategori": "transisi",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
   }
  ]
 }
