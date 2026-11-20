@@ -12626,6 +12626,1822 @@
    "catatan": "nada antusias",
    "sumber": "perpustakaan_suara.py",
    "dibuat": "2026-11-20"
+  },
+  {
+   "id": "238ded801cf3",
+   "suara": "adriy",
+   "teks": "Secara sederhana, prosesnya terjadi dalam beberapa tahap.",
+   "dibaca": "Secara sederhana, prosesnya terjadi dalam beberapa tahap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/238ded801cf3.wav",
+   "durasi": 3.36,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "11379efadde8",
+   "suara": "ongky",
+   "teks": "Secara sederhana, prosesnya terjadi dalam beberapa tahap.",
+   "dibaca": "Secara sederhana, prosesnya terjadi dalam beberapa tahap.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/11379efadde8.wav",
+   "durasi": 3.68,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8b4ffd0fd0bc",
+   "suara": "adriy",
+   "teks": "Tahap pertama dimulai dari hal yang paling kecil.",
+   "dibaca": "Tahap pertama dimulai dari hal yang paling kecil.",
+   "fungsi": [
+    "mengawali cerita",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/8b4ffd0fd0bc.wav",
+   "durasi": 2.88,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "76fec2d7aef0",
+   "suara": "ongky",
+   "teks": "Tahap pertama dimulai dari hal yang paling kecil.",
+   "dibaca": "Tahap pertama dimulai dari hal yang paling kecil.",
+   "fungsi": [
+    "mengawali cerita",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/76fec2d7aef0.wav",
+   "durasi": 3.52,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "dc2bcac543bd",
+   "suara": "adriy",
+   "teks": "Setelah itu, prosesnya berlanjut ke tahap berikutnya.",
+   "dibaca": "Setelah itu, prosesnya berlanjut ke tahap berikutnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/dc2bcac543bd.wav",
+   "durasi": 3.2,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7432eb6b5610",
+   "suara": "ongky",
+   "teks": "Setelah itu, prosesnya berlanjut ke tahap berikutnya.",
+   "dibaca": "Setelah itu, prosesnya berlanjut ke tahap berikutnya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/7432eb6b5610.wav",
+   "durasi": 2.72,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5976d329521b",
+   "suara": "adriy",
+   "teks": "Pada tahap akhir, semuanya mulai terlihat jelas.",
+   "dibaca": "Pada tahap akhir, semuanya mulai terlihat jelas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/5976d329521b.wav",
+   "durasi": 3.36,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5a487c987fe7",
+   "suara": "ongky",
+   "teks": "Pada tahap akhir, semuanya mulai terlihat jelas.",
+   "dibaca": "Pada tahap akhir, semuanya mulai terlihat jelas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/5a487c987fe7.wav",
+   "durasi": 3.2,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8be0f490211f",
+   "suara": "adriy",
+   "teks": "Semua ini terjadi hanya dalam hitungan detik.",
+   "dibaca": "Semua ini terjadi hanya dalam hitungan detik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/8be0f490211f.wav",
+   "durasi": 2.4,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4f4a7a833e50",
+   "suara": "ongky",
+   "teks": "Semua ini terjadi hanya dalam hitungan detik.",
+   "dibaca": "Semua ini terjadi hanya dalam hitungan detik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/4f4a7a833e50.wav",
+   "durasi": 2.88,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "052a2ac3094a",
+   "suara": "adriy",
+   "teks": "Proses ini bisa berlangsung selama bertahun-tahun.",
+   "dibaca": "Proses ini bisa berlangsung selama bertahun-tahun.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/052a2ac3094a.wav",
+   "durasi": 2.88,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "59d6934cacfa",
+   "suara": "ongky",
+   "teks": "Proses ini bisa berlangsung selama bertahun-tahun.",
+   "dibaca": "Proses ini bisa berlangsung selama bertahun-tahun.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/59d6934cacfa.wav",
+   "durasi": 3.2,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e6266fc63981",
+   "suara": "adriy",
+   "teks": "Hal ini dipengaruhi oleh beberapa faktor.",
+   "dibaca": "Hal ini dipengaruhi oleh beberapa faktor.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/e6266fc63981.wav",
+   "durasi": 2.24,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4d5a452e6642",
+   "suara": "ongky",
+   "teks": "Hal ini dipengaruhi oleh beberapa faktor.",
+   "dibaca": "Hal ini dipengaruhi oleh beberapa faktor.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/4d5a452e6642.wav",
+   "durasi": 3.04,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6b2584280d57",
+   "suara": "adriy",
+   "teks": "Faktor pertama adalah lingkungan di sekitarnya.",
+   "dibaca": "Faktor pertama adalah lingkungan di sekitarnya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/6b2584280d57.wav",
+   "durasi": 2.88,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "418506983c5e",
+   "suara": "ongky",
+   "teks": "Faktor pertama adalah lingkungan di sekitarnya.",
+   "dibaca": "Faktor pertama adalah lingkungan di sekitarnya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/418506983c5e.wav",
+   "durasi": 3.04,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c336d26f512f",
+   "suara": "adriy",
+   "teks": "Faktor berikutnya berasal dari dalam tubuh kita sendiri.",
+   "dibaca": "Faktor berikutnya berasal dari dalam tubuh kita sendiri.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/c336d26f512f.wav",
+   "durasi": 3.68,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3868d4224f30",
+   "suara": "ongky",
+   "teks": "Faktor berikutnya berasal dari dalam tubuh kita sendiri.",
+   "dibaca": "Faktor berikutnya berasal dari dalam tubuh kita sendiri.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/3868d4224f30.wav",
+   "durasi": 3.36,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8fe56744740c",
+   "suara": "adriy",
+   "teks": "Selain itu, kebiasaan sehari-hari juga ikut berperan.",
+   "dibaca": "Selain itu, kebiasaan sehari-hari juga ikut berperan.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/8fe56744740c.wav",
+   "durasi": 3.52,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "edc6e2749a7a",
+   "suara": "ongky",
+   "teks": "Selain itu, kebiasaan sehari-hari juga ikut berperan.",
+   "dibaca": "Selain itu, kebiasaan sehari-hari juga ikut berperan.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/ongky/edc6e2749a7a.wav",
+   "durasi": 3.36,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b4eff21a7898",
+   "suara": "adriy",
+   "teks": "Kuncinya ada pada keseimbangan.",
+   "dibaca": "Kuncinya ada pada keseimbangan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/b4eff21a7898.wav",
+   "durasi": 2.24,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3377eec71873",
+   "suara": "ongky",
+   "teks": "Kuncinya ada pada keseimbangan.",
+   "dibaca": "Kuncinya ada pada keseimbangan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/3377eec71873.wav",
+   "durasi": 2.24,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ca7cc5954cf2",
+   "suara": "adriy",
+   "teks": "Ketika keseimbangan itu terganggu, masalah mulai muncul.",
+   "dibaca": "Ketika keseimbangan itu terganggu, masalah mulai muncul.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/ca7cc5954cf2.wav",
+   "durasi": 3.52,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6d826517ad6d",
+   "suara": "ongky",
+   "teks": "Ketika keseimbangan itu terganggu, masalah mulai muncul.",
+   "dibaca": "Ketika keseimbangan itu terganggu, masalah mulai muncul.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/6d826517ad6d.wav",
+   "durasi": 3.68,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b42ec3053560",
+   "suara": "adriy",
+   "teks": "Itulah sebabnya hal ini lebih sering terjadi pada kondisi tertentu.",
+   "dibaca": "Itulah sebabnya hal ini lebih sering terjadi pada kondisi tertentu.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/b42ec3053560.wav",
+   "durasi": 3.84,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8f60b9f5243c",
+   "suara": "ongky",
+   "teks": "Itulah sebabnya hal ini lebih sering terjadi pada kondisi tertentu.",
+   "dibaca": "Itulah sebabnya hal ini lebih sering terjadi pada kondisi tertentu.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/8f60b9f5243c.wav",
+   "durasi": 3.52,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3144d28c0beb",
+   "suara": "adriy",
+   "teks": "Para ilmuwan menyebut fenomena ini dengan nama khusus.",
+   "dibaca": "Para ilmuwan menyebut fenomena ini dengan nama khusus.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/3144d28c0beb.wav",
+   "durasi": 3.36,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "48d5b8e1291e",
+   "suara": "ongky",
+   "teks": "Para ilmuwan menyebut fenomena ini dengan nama khusus.",
+   "dibaca": "Para ilmuwan menyebut fenomena ini dengan nama khusus.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/48d5b8e1291e.wav",
+   "durasi": 3.2,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "fa579c060930",
+   "suara": "adriy",
+   "teks": "Istilah ini berasal dari bahasa Latin.",
+   "dibaca": "Istilah ini berasal dari bahasa Latin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/fa579c060930.wav",
+   "durasi": 2.4,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "0042b0aa62c8",
+   "suara": "ongky",
+   "teks": "Istilah ini berasal dari bahasa Latin.",
+   "dibaca": "Istilah ini berasal dari bahasa Latin.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/0042b0aa62c8.wav",
+   "durasi": 2.72,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "1647d7c432fb",
+   "suara": "adriy",
+   "teks": "Istilah ini berasal dari bahasa Yunani.",
+   "dibaca": "Istilah ini berasal dari bahasa Yunani.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/1647d7c432fb.wav",
+   "durasi": 2.24,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ab56597b28af",
+   "suara": "ongky",
+   "teks": "Istilah ini berasal dari bahasa Yunani.",
+   "dibaca": "Istilah ini berasal dari bahasa Yunani.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/ab56597b28af.wav",
+   "durasi": 2.72,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b79a71f3d906",
+   "suara": "adriy",
+   "teks": "Fenomena ini pertama kali dijelaskan oleh para peneliti puluhan tahun yang lalu.",
+   "dibaca": "Fenomena ini pertama kali dijelaskan oleh para peneliti puluhan tahun yang lalu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/b79a71f3d906.wav",
+   "durasi": 5.28,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8f7415ca18c5",
+   "suara": "ongky",
+   "teks": "Fenomena ini pertama kali dijelaskan oleh para peneliti puluhan tahun yang lalu.",
+   "dibaca": "Fenomena ini pertama kali dijelaskan oleh para peneliti puluhan tahun yang lalu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/8f7415ca18c5.wav",
+   "durasi": 4.48,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "0927bacabd97",
+   "suara": "adriy",
+   "teks": "Sejak saat itu, banyak penelitian dilakukan untuk memahaminya.",
+   "dibaca": "Sejak saat itu, banyak penelitian dilakukan untuk memahaminya.",
+   "fungsi": [
+    "mengawali cerita",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/0927bacabd97.wav",
+   "durasi": 4.16,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5d9305cf49aa",
+   "suara": "ongky",
+   "teks": "Sejak saat itu, banyak penelitian dilakukan untuk memahaminya.",
+   "dibaca": "Sejak saat itu, banyak penelitian dilakukan untuk memahaminya.",
+   "fungsi": [
+    "mengawali cerita",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/5d9305cf49aa.wav",
+   "durasi": 4.32,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "76f5e2341e3a",
+   "suara": "adriy",
+   "teks": "Penelitian terbaru memberikan gambaran yang lebih jelas.",
+   "dibaca": "Penelitian terbaru memberikan gambaran yang lebih jelas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/76f5e2341e3a.wav",
+   "durasi": 3.04,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d8d7c4e2899d",
+   "suara": "ongky",
+   "teks": "Penelitian terbaru memberikan gambaran yang lebih jelas.",
+   "dibaca": "Penelitian terbaru memberikan gambaran yang lebih jelas.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/d8d7c4e2899d.wav",
+   "durasi": 3.2,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "23c6e7e6fc04",
+   "suara": "adriy",
+   "teks": "Hasilnya menunjukkan pola yang cukup konsisten.",
+   "dibaca": "Hasilnya menunjukkan pola yang cukup konsisten.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/23c6e7e6fc04.wav",
+   "durasi": 3.04,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e7f0e232d4e4",
+   "suara": "ongky",
+   "teks": "Hasilnya menunjukkan pola yang cukup konsisten.",
+   "dibaca": "Hasilnya menunjukkan pola yang cukup konsisten.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/e7f0e232d4e4.wav",
+   "durasi": 3.2,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "0f8dbfbc550f",
+   "suara": "adriy",
+   "teks": "Data menunjukkan bahwa hal ini cukup umum terjadi.",
+   "dibaca": "Data menunjukkan bahwa hal ini cukup umum terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/0f8dbfbc550f.wav",
+   "durasi": 3.84,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "09fc43eae157",
+   "suara": "ongky",
+   "teks": "Data menunjukkan bahwa hal ini cukup umum terjadi.",
+   "dibaca": "Data menunjukkan bahwa hal ini cukup umum terjadi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/09fc43eae157.wav",
+   "durasi": 3.04,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "32a1383b4118",
+   "suara": "adriy",
+   "teks": "Diperkirakan, sebagian besar orang pernah mengalaminya.",
+   "dibaca": "Diperkirakan, sebagian besar orang pernah mengalaminya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/32a1383b4118.wav",
+   "durasi": 3.36,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "934b3ec1fe22",
+   "suara": "ongky",
+   "teks": "Diperkirakan, sebagian besar orang pernah mengalaminya.",
+   "dibaca": "Diperkirakan, sebagian besar orang pernah mengalaminya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/934b3ec1fe22.wav",
+   "durasi": 4.16,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6c23e329cb3a",
+   "suara": "adriy",
+   "teks": "Meski begitu, setiap orang bisa mengalaminya dengan cara yang berbeda.",
+   "dibaca": "Meski begitu, setiap orang bisa mengalaminya dengan cara yang berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/6c23e329cb3a.wav",
+   "durasi": 3.68,
+   "kategori": "penjelasan",
+   "catatan": "nada hati-hati",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7616383481b6",
+   "suara": "ongky",
+   "teks": "Meski begitu, setiap orang bisa mengalaminya dengan cara yang berbeda.",
+   "dibaca": "Meski begitu, setiap orang bisa mengalaminya dengan cara yang berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/7616383481b6.wav",
+   "durasi": 4.64,
+   "kategori": "penjelasan",
+   "catatan": "nada hati-hati",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bc9c481fb379",
+   "suara": "adriy",
+   "teks": "Penjelasan ini masih berupa teori yang paling banyak diterima.",
+   "dibaca": "Penjelasan ini masih berupa teori yang paling banyak diterima.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/bc9c481fb379.wav",
+   "durasi": 3.52,
+   "kategori": "penjelasan",
+   "catatan": "nada hati-hati",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8cb1410db14f",
+   "suara": "ongky",
+   "teks": "Penjelasan ini masih berupa teori yang paling banyak diterima.",
+   "dibaca": "Penjelasan ini masih berupa teori yang paling banyak diterima.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/8cb1410db14f.wav",
+   "durasi": 3.52,
+   "kategori": "penjelasan",
+   "catatan": "nada hati-hati",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2391bb54c9c2",
+   "suara": "adriy",
+   "teks": "Ada juga teori lain yang mencoba menjelaskannya.",
+   "dibaca": "Ada juga teori lain yang mencoba menjelaskannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/2391bb54c9c2.wav",
+   "durasi": 2.56,
+   "kategori": "penjelasan",
+   "catatan": "nada hati-hati",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "045db6f8ba49",
+   "suara": "ongky",
+   "teks": "Ada juga teori lain yang mencoba menjelaskannya.",
+   "dibaca": "Ada juga teori lain yang mencoba menjelaskannya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/045db6f8ba49.wav",
+   "durasi": 3.04,
+   "kategori": "penjelasan",
+   "catatan": "nada hati-hati",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "32afeefc8c2a",
+   "suara": "adriy",
+   "teks": "Sampai sekarang, para ahli belum sepenuhnya sepakat.",
+   "dibaca": "Sampai sekarang, para ahli belum sepenuhnya sepakat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/32afeefc8c2a.wav",
+   "durasi": 3.84,
+   "kategori": "penjelasan",
+   "catatan": "nada hati-hati",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3a5f15508fa8",
+   "suara": "ongky",
+   "teks": "Sampai sekarang, para ahli belum sepenuhnya sepakat.",
+   "dibaca": "Sampai sekarang, para ahli belum sepenuhnya sepakat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/3a5f15508fa8.wav",
+   "durasi": 3.2,
+   "kategori": "penjelasan",
+   "catatan": "nada hati-hati",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "aa85cbea4757",
+   "suara": "adriy",
+   "teks": "Sederhananya, tubuh sedang berusaha melindungi diri.",
+   "dibaca": "Sederhananya, tubuh sedang berusaha melindungi diri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/aa85cbea4757.wav",
+   "durasi": 3.2,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ac967f173108",
+   "suara": "ongky",
+   "teks": "Sederhananya, tubuh sedang berusaha melindungi diri.",
+   "dibaca": "Sederhananya, tubuh sedang berusaha melindungi diri.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/ac967f173108.wav",
+   "durasi": 3.2,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f7c795c1b37a",
+   "suara": "adriy",
+   "teks": "Sederhananya, otak sedang mencoba menghemat energi.",
+   "dibaca": "Sederhananya, otak sedang mencoba menghemat energi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/f7c795c1b37a.wav",
+   "durasi": 3.84,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5ae6b971bd03",
+   "suara": "ongky",
+   "teks": "Sederhananya, otak sedang mencoba menghemat energi.",
+   "dibaca": "Sederhananya, otak sedang mencoba menghemat energi.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/5ae6b971bd03.wav",
+   "durasi": 4.16,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5c5004d8ad00",
+   "suara": "adriy",
+   "teks": "Otak kita bekerja seperti komputer yang terus memilah informasi.",
+   "dibaca": "Otak kita bekerja seperti komputer yang terus memilah informasi.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/5c5004d8ad00.wav",
+   "durasi": 3.68,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8d783061c0c8",
+   "suara": "ongky",
+   "teks": "Otak kita bekerja seperti komputer yang terus memilah informasi.",
+   "dibaca": "Otak kita bekerja seperti komputer yang terus memilah informasi.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/8d783061c0c8.wav",
+   "durasi": 4.0,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f56cb0b0f6fa",
+   "suara": "adriy",
+   "teks": "Mirip seperti alarm yang berbunyi terlalu cepat.",
+   "dibaca": "Mirip seperti alarm yang berbunyi terlalu cepat.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/f56cb0b0f6fa.wav",
+   "durasi": 3.84,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5404e203c2de",
+   "suara": "ongky",
+   "teks": "Mirip seperti alarm yang berbunyi terlalu cepat.",
+   "dibaca": "Mirip seperti alarm yang berbunyi terlalu cepat.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/5404e203c2de.wav",
+   "durasi": 4.16,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4c1ded37b5f5",
+   "suara": "adriy",
+   "teks": "Kira-kira seperti mesin yang sedang beradaptasi.",
+   "dibaca": "Kira-kira seperti mesin yang sedang beradaptasi.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/4c1ded37b5f5.wav",
+   "durasi": 2.88,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4b24e685d172",
+   "suara": "ongky",
+   "teks": "Kira-kira seperti mesin yang sedang beradaptasi.",
+   "dibaca": "Kira-kira seperti mesin yang sedang beradaptasi.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/4b24e685d172.wav",
+   "durasi": 3.2,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2c9c1296a045",
+   "suara": "adriy",
+   "teks": "Bayangkan seperti lalu lintas yang tiba-tiba macet.",
+   "dibaca": "Bayangkan seperti lalu lintas yang tiba-tiba macet.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/2c9c1296a045.wav",
+   "durasi": 2.88,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ab09f452135d",
+   "suara": "ongky",
+   "teks": "Bayangkan seperti lalu lintas yang tiba-tiba macet.",
+   "dibaca": "Bayangkan seperti lalu lintas yang tiba-tiba macet.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/ab09f452135d.wav",
+   "durasi": 3.84,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bf599b47ba59",
+   "suara": "adriy",
+   "teks": "Ini terjadi karena adanya reaksi kimia di dalamnya.",
+   "dibaca": "Ini terjadi karena adanya reaksi kimia di dalamnya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/bf599b47ba59.wav",
+   "durasi": 3.2,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5cafcdd41819",
+   "suara": "ongky",
+   "teks": "Ini terjadi karena adanya reaksi kimia di dalamnya.",
+   "dibaca": "Ini terjadi karena adanya reaksi kimia di dalamnya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/5cafcdd41819.wav",
+   "durasi": 3.68,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e54d7456a9c7",
+   "suara": "adriy",
+   "teks": "Reaksi ini menghasilkan zat baru yang berbeda sifatnya.",
+   "dibaca": "Reaksi ini menghasilkan zat baru yang berbeda sifatnya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/e54d7456a9c7.wav",
+   "durasi": 3.36,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d9f3ebea1317",
+   "suara": "ongky",
+   "teks": "Reaksi ini menghasilkan zat baru yang berbeda sifatnya.",
+   "dibaca": "Reaksi ini menghasilkan zat baru yang berbeda sifatnya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/d9f3ebea1317.wav",
+   "durasi": 3.2,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "70634a23f035",
+   "suara": "adriy",
+   "teks": "Semakin tinggi suhunya, semakin cepat prosesnya terjadi.",
+   "dibaca": "Semakin tinggi suhunya, semakin cepat prosesnya terjadi.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/70634a23f035.wav",
+   "durasi": 4.16,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "56ed8f83007c",
+   "suara": "ongky",
+   "teks": "Semakin tinggi suhunya, semakin cepat prosesnya terjadi.",
+   "dibaca": "Semakin tinggi suhunya, semakin cepat prosesnya terjadi.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/56ed8f83007c.wav",
+   "durasi": 3.84,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "82ffccbc31de",
+   "suara": "adriy",
+   "teks": "Semakin sering dilakukan, semakin kuat pengaruhnya.",
+   "dibaca": "Semakin sering dilakukan, semakin kuat pengaruhnya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/82ffccbc31de.wav",
+   "durasi": 3.2,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8d4eb80e1e8f",
+   "suara": "ongky",
+   "teks": "Semakin sering dilakukan, semakin kuat pengaruhnya.",
+   "dibaca": "Semakin sering dilakukan, semakin kuat pengaruhnya.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/8d4eb80e1e8f.wav",
+   "durasi": 3.2,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "1dbf180c5d3d",
+   "suara": "adriy",
+   "teks": "Sebaliknya, kalau jarang dilakukan, efeknya pun ikut melemah.",
+   "dibaca": "Sebaliknya, kalau jarang dilakukan, efeknya pun ikut melemah.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/1dbf180c5d3d.wav",
+   "durasi": 4.16,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c3e132ef0cbe",
+   "suara": "ongky",
+   "teks": "Sebaliknya, kalau jarang dilakukan, efeknya pun ikut melemah.",
+   "dibaca": "Sebaliknya, kalau jarang dilakukan, efeknya pun ikut melemah.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/c3e132ef0cbe.wav",
+   "durasi": 4.0,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "afed21c901e4",
+   "suara": "adriy",
+   "teks": "Perbedaannya mungkin terlihat kecil, tapi dampaknya besar.",
+   "dibaca": "Perbedaannya mungkin terlihat kecil, tapi dampaknya besar.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/afed21c901e4.wav",
+   "durasi": 3.36,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "0cecca754633",
+   "suara": "ongky",
+   "teks": "Perbedaannya mungkin terlihat kecil, tapi dampaknya besar.",
+   "dibaca": "Perbedaannya mungkin terlihat kecil, tapi dampaknya besar.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/0cecca754633.wav",
+   "durasi": 3.2,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "816ed90fed74",
+   "suara": "adriy",
+   "teks": "Hal ini juga dipengaruhi oleh faktor genetik.",
+   "dibaca": "Hal ini juga dipengaruhi oleh faktor genetik.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/816ed90fed74.wav",
+   "durasi": 2.88,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "16ae3148361c",
+   "suara": "ongky",
+   "teks": "Hal ini juga dipengaruhi oleh faktor genetik.",
+   "dibaca": "Hal ini juga dipengaruhi oleh faktor genetik.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/16ae3148361c.wav",
+   "durasi": 3.04,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "dae0a79e4235",
+   "suara": "adriy",
+   "teks": "Usia juga ikut menentukan.",
+   "dibaca": "Usia juga ikut menentukan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/dae0a79e4235.wav",
+   "durasi": 1.76,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3f76afcf6a3c",
+   "suara": "ongky",
+   "teks": "Usia juga ikut menentukan.",
+   "dibaca": "Usia juga ikut menentukan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/3f76afcf6a3c.wav",
+   "durasi": 2.4,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7b8a78ce65a7",
+   "suara": "adriy",
+   "teks": "Pada anak-anak, hal ini terjadi lebih sering.",
+   "dibaca": "Pada anak-anak, hal ini terjadi lebih sering.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/7b8a78ce65a7.wav",
+   "durasi": 3.04,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f6d054cdb1af",
+   "suara": "ongky",
+   "teks": "Pada anak-anak, hal ini terjadi lebih sering.",
+   "dibaca": "Pada anak-anak, hal ini terjadi lebih sering.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/f6d054cdb1af.wav",
+   "durasi": 3.04,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "93db0deb0cde",
+   "suara": "adriy",
+   "teks": "Seiring bertambahnya usia, prosesnya mulai berubah.",
+   "dibaca": "Seiring bertambahnya usia, prosesnya mulai berubah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/93db0deb0cde.wav",
+   "durasi": 3.84,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c660c59e1cc5",
+   "suara": "ongky",
+   "teks": "Seiring bertambahnya usia, prosesnya mulai berubah.",
+   "dibaca": "Seiring bertambahnya usia, prosesnya mulai berubah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/c660c59e1cc5.wav",
+   "durasi": 2.88,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7341b75165b1",
+   "suara": "adriy",
+   "teks": "Di alam, hal ini sebenarnya cukup umum ditemukan.",
+   "dibaca": "Di alam, hal ini sebenarnya cukup umum ditemukan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/7341b75165b1.wav",
+   "durasi": 3.68,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bdfa5fe1fd2d",
+   "suara": "ongky",
+   "teks": "Di alam, hal ini sebenarnya cukup umum ditemukan.",
+   "dibaca": "Di alam, hal ini sebenarnya cukup umum ditemukan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/bdfa5fe1fd2d.wav",
+   "durasi": 3.2,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a123b5d5ca41",
+   "suara": "adriy",
+   "teks": "Beberapa hewan bahkan memanfaatkannya untuk bertahan hidup.",
+   "dibaca": "Beberapa hewan bahkan memanfaatkannya untuk bertahan hidup.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/a123b5d5ca41.wav",
+   "durasi": 3.2,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e704a0ca55d6",
+   "suara": "ongky",
+   "teks": "Beberapa hewan bahkan memanfaatkannya untuk bertahan hidup.",
+   "dibaca": "Beberapa hewan bahkan memanfaatkannya untuk bertahan hidup.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/e704a0ca55d6.wav",
+   "durasi": 3.68,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e1b9222b964d",
+   "suara": "adriy",
+   "teks": "Manusia sudah memanfaatkan hal ini sejak ribuan tahun lalu.",
+   "dibaca": "Manusia sudah memanfaatkan hal ini sejak ribuan tahun lalu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/e1b9222b964d.wav",
+   "durasi": 3.36,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "756daaf10d7c",
+   "suara": "ongky",
+   "teks": "Manusia sudah memanfaatkan hal ini sejak ribuan tahun lalu.",
+   "dibaca": "Manusia sudah memanfaatkan hal ini sejak ribuan tahun lalu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/756daaf10d7c.wav",
+   "durasi": 4.48,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ac6999296743",
+   "suara": "adriy",
+   "teks": "Sekarang, teknologi modern membuatnya jauh lebih mudah.",
+   "dibaca": "Sekarang, teknologi modern membuatnya jauh lebih mudah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/ac6999296743.wav",
+   "durasi": 3.36,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "86d11be3f968",
+   "suara": "ongky",
+   "teks": "Sekarang, teknologi modern membuatnya jauh lebih mudah.",
+   "dibaca": "Sekarang, teknologi modern membuatnya jauh lebih mudah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/86d11be3f968.wav",
+   "durasi": 3.2,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "26df454ce0a8",
+   "suara": "adriy",
+   "teks": "Itulah kenapa hal ini masih relevan sampai sekarang.",
+   "dibaca": "Itulah kenapa hal ini masih relevan sampai sekarang.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/26df454ce0a8.wav",
+   "durasi": 3.04,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e0c12a644e9a",
+   "suara": "ongky",
+   "teks": "Itulah kenapa hal ini masih relevan sampai sekarang.",
+   "dibaca": "Itulah kenapa hal ini masih relevan sampai sekarang.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/e0c12a644e9a.wav",
+   "durasi": 2.88,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "996f5b6f9a0c",
+   "suara": "adriy",
+   "teks": "Di setiap negara, kebiasaan ini bisa sangat berbeda.",
+   "dibaca": "Di setiap negara, kebiasaan ini bisa sangat berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/996f5b6f9a0c.wav",
+   "durasi": 3.68,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "de3598d317cc",
+   "suara": "ongky",
+   "teks": "Di setiap negara, kebiasaan ini bisa sangat berbeda.",
+   "dibaca": "Di setiap negara, kebiasaan ini bisa sangat berbeda.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/de3598d317cc.wav",
+   "durasi": 3.52,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7348a6d280e5",
+   "suara": "adriy",
+   "teks": "Di Indonesia, hal ini juga sering kita jumpai.",
+   "dibaca": "Di Indonesia, hal ini juga sering kita jumpai.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/7348a6d280e5.wav",
+   "durasi": 3.04,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "857d9f080f77",
+   "suara": "ongky",
+   "teks": "Di Indonesia, hal ini juga sering kita jumpai.",
+   "dibaca": "Di Indonesia, hal ini juga sering kita jumpai.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/857d9f080f77.wav",
+   "durasi": 3.2,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4d016248b33d",
+   "suara": "adriy",
+   "teks": "Kalau diperhatikan, polanya selalu berulang.",
+   "dibaca": "Kalau diperhatikan, polanya selalu berulang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/4d016248b33d.wav",
+   "durasi": 2.72,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4ebc9efe2935",
+   "suara": "ongky",
+   "teks": "Kalau diperhatikan, polanya selalu berulang.",
+   "dibaca": "Kalau diperhatikan, polanya selalu berulang.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/4ebc9efe2935.wav",
+   "durasi": 3.04,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a39984601dab",
+   "suara": "adriy",
+   "teks": "Ternyata, semuanya saling berhubungan.",
+   "dibaca": "Ternyata, semuanya saling berhubungan.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/a39984601dab.wav",
+   "durasi": 2.56,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e65fb9e7f841",
+   "suara": "ongky",
+   "teks": "Ternyata, semuanya saling berhubungan.",
+   "dibaca": "Ternyata, semuanya saling berhubungan.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/ongky/e65fb9e7f841.wav",
+   "durasi": 3.04,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3583a6467529",
+   "suara": "adriy",
+   "teks": "Satu perubahan kecil bisa memicu rangkaian reaksi.",
+   "dibaca": "Satu perubahan kecil bisa memicu rangkaian reaksi.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/3583a6467529.wav",
+   "durasi": 3.52,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "75e045182fbc",
+   "suara": "ongky",
+   "teks": "Satu perubahan kecil bisa memicu rangkaian reaksi.",
+   "dibaca": "Satu perubahan kecil bisa memicu rangkaian reaksi.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/75e045182fbc.wav",
+   "durasi": 3.36,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "0cc424145366",
+   "suara": "adriy",
+   "teks": "Inilah yang disebut sebagai efek berantai.",
+   "dibaca": "Inilah yang disebut sebagai efek berantai.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/0cc424145366.wav",
+   "durasi": 2.4,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "07dcc57847f1",
+   "suara": "ongky",
+   "teks": "Inilah yang disebut sebagai efek berantai.",
+   "dibaca": "Inilah yang disebut sebagai efek berantai.",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/07dcc57847f1.wav",
+   "durasi": 2.56,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "20ce4bb73455",
+   "suara": "adriy",
+   "teks": "Hasil akhirnya bergantung pada bagaimana prosesnya berjalan.",
+   "dibaca": "Hasil akhirnya bergantung pada bagaimana prosesnya berjalan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/20ce4bb73455.wav",
+   "durasi": 4.0,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8a9940b900f7",
+   "suara": "ongky",
+   "teks": "Hasil akhirnya bergantung pada bagaimana prosesnya berjalan.",
+   "dibaca": "Hasil akhirnya bergantung pada bagaimana prosesnya berjalan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/8a9940b900f7.wav",
+   "durasi": 3.52,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "1267127d175c",
+   "suara": "adriy",
+   "teks": "Dengan kata lain, ini adalah cara alami tubuh untuk beradaptasi.",
+   "dibaca": "Dengan kata lain, ini adalah cara alami tubuh untuk beradaptasi.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/1267127d175c.wav",
+   "durasi": 3.84,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7a1736165e2e",
+   "suara": "ongky",
+   "teks": "Dengan kata lain, ini adalah cara alami tubuh untuk beradaptasi.",
+   "dibaca": "Dengan kata lain, ini adalah cara alami tubuh untuk beradaptasi.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/7a1736165e2e.wav",
+   "durasi": 4.8,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "98da3596e848",
+   "suara": "adriy",
+   "teks": "Dengan kata lain, semuanya kembali pada cara kerja otak.",
+   "dibaca": "Dengan kata lain, semuanya kembali pada cara kerja otak.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/98da3596e848.wav",
+   "durasi": 3.36,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f01223be80f5",
+   "suara": "ongky",
+   "teks": "Dengan kata lain, semuanya kembali pada cara kerja otak.",
+   "dibaca": "Dengan kata lain, semuanya kembali pada cara kerja otak.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/f01223be80f5.wav",
+   "durasi": 4.32,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c5d1d93d218b",
+   "suara": "adriy",
+   "teks": "Jadi, bukan karena satu penyebab saja.",
+   "dibaca": "Jadi, bukan karena satu penyebab saja.",
+   "fungsi": [
+    "membantah asumsi",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/c5d1d93d218b.wav",
+   "durasi": 2.4,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6381d1429626",
+   "suara": "ongky",
+   "teks": "Jadi, bukan karena satu penyebab saja.",
+   "dibaca": "Jadi, bukan karena satu penyebab saja.",
+   "fungsi": [
+    "membantah asumsi",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/6381d1429626.wav",
+   "durasi": 3.2,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2aa534bbae08",
+   "suara": "adriy",
+   "teks": "Kombinasi dari semua faktor inilah yang membuatnya terjadi.",
+   "dibaca": "Kombinasi dari semua faktor inilah yang membuatnya terjadi.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/2aa534bbae08.wav",
+   "durasi": 3.36,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bb0b3cbce5ce",
+   "suara": "ongky",
+   "teks": "Kombinasi dari semua faktor inilah yang membuatnya terjadi.",
+   "dibaca": "Kombinasi dari semua faktor inilah yang membuatnya terjadi.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/bb0b3cbce5ce.wav",
+   "durasi": 3.52,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "852d6747c442",
+   "suara": "adriy",
+   "teks": "Itulah penjelasan singkatnya.",
+   "dibaca": "Itulah penjelasan singkatnya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/852d6747c442.wav",
+   "durasi": 2.08,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "021ab220cd66",
+   "suara": "ongky",
+   "teks": "Itulah penjelasan singkatnya.",
+   "dibaca": "Itulah penjelasan singkatnya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/021ab220cd66.wav",
+   "durasi": 1.76,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "838426f0039f",
+   "suara": "adriy",
+   "teks": "Dan sekarang, semuanya jadi lebih masuk akal.",
+   "dibaca": "Dan sekarang, semuanya jadi lebih masuk akal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/838426f0039f.wav",
+   "durasi": 3.04,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8eb62297fd1b",
+   "suara": "ongky",
+   "teks": "Dan sekarang, semuanya jadi lebih masuk akal.",
+   "dibaca": "Dan sekarang, semuanya jadi lebih masuk akal.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/8eb62297fd1b.wav",
+   "durasi": 3.36,
+   "kategori": "penjelasan",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
   }
  ]
 }
