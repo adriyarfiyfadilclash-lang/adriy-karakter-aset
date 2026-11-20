@@ -6512,6 +6512,1584 @@
    "fungsi": [
     "cta"
    ]
+  },
+  {
+   "id": "a3f2ba2418ba",
+   "suara": "adriy",
+   "teks": "Kenapa, ya?",
+   "dibaca": "Kenapa, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/a3f2ba2418ba.wav",
+   "durasi": 1.28,
+   "kategori": "umum",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3a51922d9e41",
+   "suara": "ongky",
+   "teks": "Kenapa, ya?",
+   "dibaca": "Kenapa, ya?",
+   "fungsi": [
+    "pertanyaan retoris",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/3a51922d9e41.wav",
+   "durasi": 1.28,
+   "kategori": "umum",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4172754d4773",
+   "suara": "adriy",
+   "teks": "Tapi, apa benar begitu?",
+   "dibaca": "Tapi, apa benar begitu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/4172754d4773.wav",
+   "durasi": 1.76,
+   "kategori": "umum",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5e840d1b05ee",
+   "suara": "ongky",
+   "teks": "Tapi, apa benar begitu?",
+   "dibaca": "Tapi, apa benar begitu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/5e840d1b05ee.wav",
+   "durasi": 2.72,
+   "kategori": "umum",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "04b484fd18c8",
+   "suara": "adriy",
+   "teks": "Kok bisa begitu?",
+   "dibaca": "Kok bisa begitu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/04b484fd18c8.wav",
+   "durasi": 1.44,
+   "kategori": "umum",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4bb345a98652",
+   "suara": "ongky",
+   "teks": "Kok bisa begitu?",
+   "dibaca": "Kok bisa begitu?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/4bb345a98652.wav",
+   "durasi": 1.28,
+   "kategori": "umum",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "edc41c831063",
+   "suara": "adriy",
+   "teks": "Serius?",
+   "dibaca": "Serius?",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/edc41c831063.wav",
+   "durasi": 0.96,
+   "kategori": "umum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "740fea494fc0",
+   "suara": "ongky",
+   "teks": "Serius?",
+   "dibaca": "Serius?",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/740fea494fc0.wav",
+   "durasi": 0.8,
+   "kategori": "umum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "234be6edb64a",
+   "suara": "adriy",
+   "teks": "Ternyata bukan itu jawabannya.",
+   "dibaca": "Ternyata bukan itu jawabannya.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/234be6edb64a.wav",
+   "durasi": 1.76,
+   "kategori": "umum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5a1c9f4fe1ee",
+   "suara": "ongky",
+   "teks": "Ternyata bukan itu jawabannya.",
+   "dibaca": "Ternyata bukan itu jawabannya.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/5a1c9f4fe1ee.wav",
+   "durasi": 1.92,
+   "kategori": "umum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "aa6b3c6ab6c1",
+   "suara": "adriy",
+   "teks": "Ternyata jawabannya cukup sederhana.",
+   "dibaca": "Ternyata jawabannya cukup sederhana.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/aa6b3c6ab6c1.wav",
+   "durasi": 2.24,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "93b13d9b4dd7",
+   "suara": "ongky",
+   "teks": "Ternyata jawabannya cukup sederhana.",
+   "dibaca": "Ternyata jawabannya cukup sederhana.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/93b13d9b4dd7.wav",
+   "durasi": 2.56,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "52602be71f2f",
+   "suara": "adriy",
+   "teks": "Lalu, bagaimana caranya?",
+   "dibaca": "Lalu, bagaimana caranya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/52602be71f2f.wav",
+   "durasi": 1.92,
+   "kategori": "umum",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "025e54ebd56b",
+   "suara": "ongky",
+   "teks": "Lalu, bagaimana caranya?",
+   "dibaca": "Lalu, bagaimana caranya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/025e54ebd56b.wav",
+   "durasi": 2.08,
+   "kategori": "umum",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "836ef677e004",
+   "suara": "adriy",
+   "teks": "Terus, apa hubungannya dengan kita?",
+   "dibaca": "Terus, apa hubungannya dengan kita?",
+   "fungsi": [
+    "menghubungkan dua topik",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/836ef677e004.wav",
+   "durasi": 2.72,
+   "kategori": "umum",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6332c842101b",
+   "suara": "ongky",
+   "teks": "Terus, apa hubungannya dengan kita?",
+   "dibaca": "Terus, apa hubungannya dengan kita?",
+   "fungsi": [
+    "menghubungkan dua topik",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/6332c842101b.wav",
+   "durasi": 3.52,
+   "kategori": "umum",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "380e42ed7a6e",
+   "suara": "adriy",
+   "teks": "Apa hubungannya dengan kehidupan kita sehari-hari?",
+   "dibaca": "Apa hubungannya dengan kehidupan kita sehari-hari?",
+   "fungsi": [
+    "menghubungkan dua topik",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/380e42ed7a6e.wav",
+   "durasi": 2.56,
+   "kategori": "umum",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "fbed87853987",
+   "suara": "ongky",
+   "teks": "Apa hubungannya dengan kehidupan kita sehari-hari?",
+   "dibaca": "Apa hubungannya dengan kehidupan kita sehari-hari?",
+   "fungsi": [
+    "menghubungkan dua topik",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/fbed87853987.wav",
+   "durasi": 2.72,
+   "kategori": "umum",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d8546ca19610",
+   "suara": "adriy",
+   "teks": "Mungkin kamu juga pernah merasakannya.",
+   "dibaca": "Mungkin kamu juga pernah merasakannya.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/d8546ca19610.wav",
+   "durasi": 2.4,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7b7faa50f13f",
+   "suara": "ongky",
+   "teks": "Mungkin kamu juga pernah merasakannya.",
+   "dibaca": "Mungkin kamu juga pernah merasakannya.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/7b7faa50f13f.wav",
+   "durasi": 2.4,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a461cab9c19a",
+   "suara": "adriy",
+   "teks": "Hampir semua orang pernah mengalaminya.",
+   "dibaca": "Hampir semua orang pernah mengalaminya.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/a461cab9c19a.wav",
+   "durasi": 2.56,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4eacfa625150",
+   "suara": "ongky",
+   "teks": "Hampir semua orang pernah mengalaminya.",
+   "dibaca": "Hampir semua orang pernah mengalaminya.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/4eacfa625150.wav",
+   "durasi": 2.56,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3e0ad9fae4ac",
+   "suara": "adriy",
+   "teks": "Ini sering banget terjadi, tapi jarang kita sadari.",
+   "dibaca": "Ini sering banget terjadi, tapi jarang kita sadari.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/3e0ad9fae4ac.wav",
+   "durasi": 3.36,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d3c98dea2cc0",
+   "suara": "ongky",
+   "teks": "Ini sering banget terjadi, tapi jarang kita sadari.",
+   "dibaca": "Ini sering banget terjadi, tapi jarang kita sadari.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/d3c98dea2cc0.wav",
+   "durasi": 3.36,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8f8f77507b5e",
+   "suara": "adriy",
+   "teks": "Banyak orang masih salah paham soal ini.",
+   "dibaca": "Banyak orang masih salah paham soal ini.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/8f8f77507b5e.wav",
+   "durasi": 2.4,
+   "kategori": "umum",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "70e72a5db8de",
+   "suara": "ongky",
+   "teks": "Banyak orang masih salah paham soal ini.",
+   "dibaca": "Banyak orang masih salah paham soal ini.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/70e72a5db8de.wav",
+   "durasi": 2.4,
+   "kategori": "umum",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "071c52b23640",
+   "suara": "adriy",
+   "teks": "Wajar kalau kamu belum tahu.",
+   "dibaca": "Wajar kalau kamu belum tahu.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/071c52b23640.wav",
+   "durasi": 1.6,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "87e55b69c62e",
+   "suara": "ongky",
+   "teks": "Wajar kalau kamu belum tahu.",
+   "dibaca": "Wajar kalau kamu belum tahu.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/87e55b69c62e.wav",
+   "durasi": 2.88,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ecaebd2f4aaf",
+   "suara": "adriy",
+   "teks": "Tenang, ini normal, kok.",
+   "dibaca": "Tenang, ini normal, kok.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/ecaebd2f4aaf.wav",
+   "durasi": 1.92,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5f0b477ce8c3",
+   "suara": "ongky",
+   "teks": "Tenang, ini normal, kok.",
+   "dibaca": "Tenang, ini normal, kok.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/5f0b477ce8c3.wav",
+   "durasi": 2.72,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c468da815398",
+   "suara": "adriy",
+   "teks": "Tapi, jangan langsung panik dulu.",
+   "dibaca": "Tapi, jangan langsung panik dulu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/c468da815398.wav",
+   "durasi": 2.24,
+   "kategori": "umum",
+   "catatan": "nada hati-hati",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f4a40e2be2d0",
+   "suara": "ongky",
+   "teks": "Tapi, jangan langsung panik dulu.",
+   "dibaca": "Tapi, jangan langsung panik dulu.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/f4a40e2be2d0.wav",
+   "durasi": 2.88,
+   "kategori": "umum",
+   "catatan": "nada hati-hati",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5bafb0ba17bf",
+   "suara": "adriy",
+   "teks": "Ini bukan sekadar mitos.",
+   "dibaca": "Ini bukan sekadar mitos.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/5bafb0ba17bf.wav",
+   "durasi": 1.92,
+   "kategori": "umum",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f8c2d9738cdf",
+   "suara": "ongky",
+   "teks": "Ini bukan sekadar mitos.",
+   "dibaca": "Ini bukan sekadar mitos.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/f8c2d9738cdf.wav",
+   "durasi": 1.6,
+   "kategori": "umum",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "378a96d5a04c",
+   "suara": "adriy",
+   "teks": "Sayangnya, ini cuma mitos.",
+   "dibaca": "Sayangnya, ini cuma mitos.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/378a96d5a04c.wav",
+   "durasi": 2.24,
+   "kategori": "umum",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "cf462b958749",
+   "suara": "ongky",
+   "teks": "Sayangnya, ini cuma mitos.",
+   "dibaca": "Sayangnya, ini cuma mitos.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/cf462b958749.wav",
+   "durasi": 2.24,
+   "kategori": "umum",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "88d8b24d93f6",
+   "suara": "adriy",
+   "teks": "Faktanya justru sebaliknya.",
+   "dibaca": "Faktanya justru sebaliknya.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/adriy/88d8b24d93f6.wav",
+   "durasi": 1.92,
+   "kategori": "umum",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bf2cf765edb3",
+   "suara": "ongky",
+   "teks": "Faktanya justru sebaliknya.",
+   "dibaca": "Faktanya justru sebaliknya.",
+   "fungsi": [
+    "membantah asumsi"
+   ],
+   "file": "suara/ongky/bf2cf765edb3.wav",
+   "durasi": 2.4,
+   "kategori": "umum",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8b03b77327e5",
+   "suara": "adriy",
+   "teks": "Para peneliti menemukan sesuatu yang menarik.",
+   "dibaca": "Para peneliti menemukan sesuatu yang menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/8b03b77327e5.wav",
+   "durasi": 2.24,
+   "kategori": "umum",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "fa4bcae11e30",
+   "suara": "ongky",
+   "teks": "Para peneliti menemukan sesuatu yang menarik.",
+   "dibaca": "Para peneliti menemukan sesuatu yang menarik.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/fa4bcae11e30.wav",
+   "durasi": 2.88,
+   "kategori": "umum",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b2020e1d2859",
+   "suara": "adriy",
+   "teks": "Para ahli masih memperdebatkan hal ini.",
+   "dibaca": "Para ahli masih memperdebatkan hal ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/b2020e1d2859.wav",
+   "durasi": 2.56,
+   "kategori": "umum",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "cfb50cddf38c",
+   "suara": "ongky",
+   "teks": "Para ahli masih memperdebatkan hal ini.",
+   "dibaca": "Para ahli masih memperdebatkan hal ini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/cfb50cddf38c.wav",
+   "durasi": 2.72,
+   "kategori": "umum",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "43ea5e83b1f9",
+   "suara": "adriy",
+   "teks": "Tapi, belum ada bukti yang benar-benar kuat.",
+   "dibaca": "Tapi, belum ada bukti yang benar-benar kuat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/43ea5e83b1f9.wav",
+   "durasi": 2.88,
+   "kategori": "umum",
+   "catatan": "nada hati-hati",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f17bacb44329",
+   "suara": "ongky",
+   "teks": "Tapi, belum ada bukti yang benar-benar kuat.",
+   "dibaca": "Tapi, belum ada bukti yang benar-benar kuat.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/f17bacb44329.wav",
+   "durasi": 3.2,
+   "kategori": "umum",
+   "catatan": "nada hati-hati",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "840d71b9d3dd",
+   "suara": "adriy",
+   "teks": "Penjelasannya ada di dalam otak kita.",
+   "dibaca": "Penjelasannya ada di dalam otak kita.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/840d71b9d3dd.wav",
+   "durasi": 2.24,
+   "kategori": "umum",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "dedce107030b",
+   "suara": "ongky",
+   "teks": "Penjelasannya ada di dalam otak kita.",
+   "dibaca": "Penjelasannya ada di dalam otak kita.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/dedce107030b.wav",
+   "durasi": 2.4,
+   "kategori": "umum",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d3c527d0cd35",
+   "suara": "adriy",
+   "teks": "Semua ini berawal dari cara kerja tubuh kita.",
+   "dibaca": "Semua ini berawal dari cara kerja tubuh kita.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/adriy/d3c527d0cd35.wav",
+   "durasi": 3.04,
+   "kategori": "umum",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f45168adb4ed",
+   "suara": "ongky",
+   "teks": "Semua ini berawal dari cara kerja tubuh kita.",
+   "dibaca": "Semua ini berawal dari cara kerja tubuh kita.",
+   "fungsi": [
+    "mengawali cerita"
+   ],
+   "file": "suara/ongky/f45168adb4ed.wav",
+   "durasi": 2.56,
+   "kategori": "umum",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2b743c522492",
+   "suara": "adriy",
+   "teks": "Prosesnya kira-kira seperti ini.",
+   "dibaca": "Prosesnya kira-kira seperti ini.",
+   "fungsi": [
+    "memberikan analogi",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/2b743c522492.wav",
+   "durasi": 2.4,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "13f8ac19484f",
+   "suara": "ongky",
+   "teks": "Prosesnya kira-kira seperti ini.",
+   "dibaca": "Prosesnya kira-kira seperti ini.",
+   "fungsi": [
+    "memberikan analogi",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/13f8ac19484f.wav",
+   "durasi": 3.52,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7bb2d9a0bc5b",
+   "suara": "adriy",
+   "teks": "Coba bayangkan sebentar.",
+   "dibaca": "Coba bayangkan sebentar.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/7bb2d9a0bc5b.wav",
+   "durasi": 1.92,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "fa23c56a0e3e",
+   "suara": "ongky",
+   "teks": "Coba bayangkan sebentar.",
+   "dibaca": "Coba bayangkan sebentar.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/fa23c56a0e3e.wav",
+   "durasi": 1.44,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f6c3c681a45f",
+   "suara": "adriy",
+   "teks": "Sederhananya begini.",
+   "dibaca": "Sederhananya begini.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/f6c3c681a45f.wav",
+   "durasi": 1.44,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "bc208025eff6",
+   "suara": "ongky",
+   "teks": "Sederhananya begini.",
+   "dibaca": "Sederhananya begini.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/bc208025eff6.wav",
+   "durasi": 1.44,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e8f120afc721",
+   "suara": "adriy",
+   "teks": "Analoginya seperti ini.",
+   "dibaca": "Analoginya seperti ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/e8f120afc721.wav",
+   "durasi": 1.92,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "0a38f97b3ccb",
+   "suara": "ongky",
+   "teks": "Analoginya seperti ini.",
+   "dibaca": "Analoginya seperti ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/0a38f97b3ccb.wav",
+   "durasi": 1.92,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "07128425556c",
+   "suara": "adriy",
+   "teks": "Misalnya seperti ini.",
+   "dibaca": "Misalnya seperti ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/07128425556c.wav",
+   "durasi": 1.6,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "dfc1d614ce59",
+   "suara": "ongky",
+   "teks": "Misalnya seperti ini.",
+   "dibaca": "Misalnya seperti ini.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/dfc1d614ce59.wav",
+   "durasi": 2.4,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "15e0dde72e31",
+   "suara": "adriy",
+   "teks": "Contohnya bisa kita lihat setiap hari.",
+   "dibaca": "Contohnya bisa kita lihat setiap hari.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/15e0dde72e31.wav",
+   "durasi": 2.4,
+   "kategori": "umum",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d1ee103ec2b8",
+   "suara": "ongky",
+   "teks": "Contohnya bisa kita lihat setiap hari.",
+   "dibaca": "Contohnya bisa kita lihat setiap hari.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/d1ee103ec2b8.wav",
+   "durasi": 2.72,
+   "kategori": "umum",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "df78861fec4b",
+   "suara": "adriy",
+   "teks": "Dan hasilnya cukup mengejutkan.",
+   "dibaca": "Dan hasilnya cukup mengejutkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/df78861fec4b.wav",
+   "durasi": 2.24,
+   "kategori": "umum",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d09bcee07807",
+   "suara": "ongky",
+   "teks": "Dan hasilnya cukup mengejutkan.",
+   "dibaca": "Dan hasilnya cukup mengejutkan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/d09bcee07807.wav",
+   "durasi": 2.56,
+   "kategori": "umum",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "422c0bb1872c",
+   "suara": "adriy",
+   "teks": "Angkanya jauh lebih besar dari yang kita kira.",
+   "dibaca": "Angkanya jauh lebih besar dari yang kita kira.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/422c0bb1872c.wav",
+   "durasi": 2.56,
+   "kategori": "umum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "612d0226c609",
+   "suara": "ongky",
+   "teks": "Angkanya jauh lebih besar dari yang kita kira.",
+   "dibaca": "Angkanya jauh lebih besar dari yang kita kira.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/612d0226c609.wav",
+   "durasi": 2.88,
+   "kategori": "umum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "be9d440fe537",
+   "suara": "adriy",
+   "teks": "Angkanya ternyata jauh lebih kecil dari dugaan kita.",
+   "dibaca": "Angkanya ternyata jauh lebih kecil dari dugaan kita.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/be9d440fe537.wav",
+   "durasi": 3.2,
+   "kategori": "umum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "61eab23ab91d",
+   "suara": "ongky",
+   "teks": "Angkanya ternyata jauh lebih kecil dari dugaan kita.",
+   "dibaca": "Angkanya ternyata jauh lebih kecil dari dugaan kita.",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/61eab23ab91d.wav",
+   "durasi": 3.84,
+   "kategori": "umum",
+   "catatan": "nada terkejut",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a6c7efa74298",
+   "suara": "adriy",
+   "teks": "Kalau dibandingkan, perbedaannya cukup jauh.",
+   "dibaca": "Kalau dibandingkan, perbedaannya cukup jauh.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/adriy/a6c7efa74298.wav",
+   "durasi": 3.04,
+   "kategori": "umum",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f57b69ab6b1b",
+   "suara": "ongky",
+   "teks": "Kalau dibandingkan, perbedaannya cukup jauh.",
+   "dibaca": "Kalau dibandingkan, perbedaannya cukup jauh.",
+   "fungsi": [
+    "menghubungkan dua topik"
+   ],
+   "file": "suara/ongky/f57b69ab6b1b.wav",
+   "durasi": 3.2,
+   "kategori": "umum",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "54e4580a08cc",
+   "suara": "adriy",
+   "teks": "Bedanya ternyata cuma satu hal kecil.",
+   "dibaca": "Bedanya ternyata cuma satu hal kecil.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/54e4580a08cc.wav",
+   "durasi": 2.56,
+   "kategori": "umum",
+   "catatan": "nada antusias",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ec3d9e100af0",
+   "suara": "ongky",
+   "teks": "Bedanya ternyata cuma satu hal kecil.",
+   "dibaca": "Bedanya ternyata cuma satu hal kecil.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/ec3d9e100af0.wav",
+   "durasi": 2.4,
+   "kategori": "umum",
+   "catatan": "nada antusias",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "64d32fbe2dce",
+   "suara": "adriy",
+   "teks": "Di balik itu semua, ada alasan yang masuk akal.",
+   "dibaca": "Di balik itu semua, ada alasan yang masuk akal.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/64d32fbe2dce.wav",
+   "durasi": 3.36,
+   "kategori": "umum",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "56a0826bf63c",
+   "suara": "ongky",
+   "teks": "Di balik itu semua, ada alasan yang masuk akal.",
+   "dibaca": "Di balik itu semua, ada alasan yang masuk akal.",
+   "fungsi": [
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/56a0826bf63c.wav",
+   "durasi": 3.52,
+   "kategori": "umum",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "1e4eea27b176",
+   "suara": "adriy",
+   "teks": "Pelan-pelan, semuanya mulai masuk akal.",
+   "dibaca": "Pelan-pelan, semuanya mulai masuk akal.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/1e4eea27b176.wav",
+   "durasi": 2.88,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "14a642734446",
+   "suara": "ongky",
+   "teks": "Pelan-pelan, semuanya mulai masuk akal.",
+   "dibaca": "Pelan-pelan, semuanya mulai masuk akal.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/14a642734446.wav",
+   "durasi": 3.68,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b5b27a37cd63",
+   "suara": "adriy",
+   "teks": "Dan di sinilah semuanya berubah.",
+   "dibaca": "Dan di sinilah semuanya berubah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/b5b27a37cd63.wav",
+   "durasi": 2.4,
+   "kategori": "umum",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "00ed78995a80",
+   "suara": "ongky",
+   "teks": "Dan di sinilah semuanya berubah.",
+   "dibaca": "Dan di sinilah semuanya berubah.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/00ed78995a80.wav",
+   "durasi": 2.88,
+   "kategori": "umum",
+   "catatan": "nada serius",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8b44a8fc5ef5",
+   "suara": "adriy",
+   "teks": "Tapi ceritanya belum berhenti di sini.",
+   "dibaca": "Tapi ceritanya belum berhenti di sini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/8b44a8fc5ef5.wav",
+   "durasi": 1.92,
+   "kategori": "umum",
+   "catatan": "nada antusias",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "dac001c9f187",
+   "suara": "ongky",
+   "teks": "Tapi ceritanya belum berhenti di sini.",
+   "dibaca": "Tapi ceritanya belum berhenti di sini.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/dac001c9f187.wav",
+   "durasi": 2.56,
+   "kategori": "umum",
+   "catatan": "nada antusias",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "34bdb6266dcc",
+   "suara": "adriy",
+   "teks": "Ada beberapa hal yang bisa kamu lakukan.",
+   "dibaca": "Ada beberapa hal yang bisa kamu lakukan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/34bdb6266dcc.wav",
+   "durasi": 2.72,
+   "kategori": "umum",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "afec407b693f",
+   "suara": "ongky",
+   "teks": "Ada beberapa hal yang bisa kamu lakukan.",
+   "dibaca": "Ada beberapa hal yang bisa kamu lakukan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/afec407b693f.wav",
+   "durasi": 6.24,
+   "kategori": "umum",
+   "catatan": "nada informatif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f1b80f80904c",
+   "suara": "adriy",
+   "teks": "Caranya sebenarnya cukup mudah.",
+   "dibaca": "Caranya sebenarnya cukup mudah.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/f1b80f80904c.wav",
+   "durasi": 2.72,
+   "kategori": "umum",
+   "catatan": "nada hangat",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a8b8aa01cc18",
+   "suara": "ongky",
+   "teks": "Caranya sebenarnya cukup mudah.",
+   "dibaca": "Caranya sebenarnya cukup mudah.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/a8b8aa01cc18.wav",
+   "durasi": 2.4,
+   "kategori": "umum",
+   "catatan": "nada hangat",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a5048c288540",
+   "suara": "adriy",
+   "teks": "Kamu bisa mulai dari hal kecil.",
+   "dibaca": "Kamu bisa mulai dari hal kecil.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/adriy/a5048c288540.wav",
+   "durasi": 1.92,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b6fd437fe6a5",
+   "suara": "ongky",
+   "teks": "Kamu bisa mulai dari hal kecil.",
+   "dibaca": "Kamu bisa mulai dari hal kecil.",
+   "fungsi": [
+    "mengubah suasana"
+   ],
+   "file": "suara/ongky/b6fd437fe6a5.wav",
+   "durasi": 2.4,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d673c6b2e74d",
+   "suara": "adriy",
+   "teks": "Kalau sering terjadi, sebaiknya periksakan ke tenaga kesehatan.",
+   "dibaca": "Kalau sering terjadi, sebaiknya periksakan ke tenaga kesehatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/d673c6b2e74d.wav",
+   "durasi": 3.52,
+   "kategori": "umum",
+   "catatan": "nada hati-hati",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4c90af1fd096",
+   "suara": "ongky",
+   "teks": "Kalau sering terjadi, sebaiknya periksakan ke tenaga kesehatan.",
+   "dibaca": "Kalau sering terjadi, sebaiknya periksakan ke tenaga kesehatan.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/4c90af1fd096.wav",
+   "durasi": 3.68,
+   "kategori": "umum",
+   "catatan": "nada hati-hati",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "97c37c1b83e1",
+   "suara": "adriy",
+   "teks": "Tetap konsultasikan dengan ahlinya, ya.",
+   "dibaca": "Tetap konsultasikan dengan ahlinya, ya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/97c37c1b83e1.wav",
+   "durasi": 3.36,
+   "kategori": "umum",
+   "catatan": "nada hati-hati",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "0ac003cff498",
+   "suara": "ongky",
+   "teks": "Tetap konsultasikan dengan ahlinya, ya.",
+   "dibaca": "Tetap konsultasikan dengan ahlinya, ya.",
+   "fungsi": [
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/0ac003cff498.wav",
+   "durasi": 2.56,
+   "kategori": "umum",
+   "catatan": "nada hati-hati",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "39015080a79c",
+   "suara": "adriy",
+   "teks": "Jadi, sekarang kamu sudah tahu jawabannya.",
+   "dibaca": "Jadi, sekarang kamu sudah tahu jawabannya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/39015080a79c.wav",
+   "durasi": 2.72,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2be52a9b8604",
+   "suara": "ongky",
+   "teks": "Jadi, sekarang kamu sudah tahu jawabannya.",
+   "dibaca": "Jadi, sekarang kamu sudah tahu jawabannya.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/2be52a9b8604.wav",
+   "durasi": 3.04,
+   "kategori": "umum",
+   "catatan": "nada santai",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "18f6a01855b4",
+   "suara": "adriy",
+   "teks": "Ternyata, tubuh kita jauh lebih pintar dari yang kita kira.",
+   "dibaca": "Ternyata, tubuh kita jauh lebih pintar dari yang kita kira.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/18f6a01855b4.wav",
+   "durasi": 3.68,
+   "kategori": "umum",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d05f5d3cbe7d",
+   "suara": "ongky",
+   "teks": "Ternyata, tubuh kita jauh lebih pintar dari yang kita kira.",
+   "dibaca": "Ternyata, tubuh kita jauh lebih pintar dari yang kita kira.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/d05f5d3cbe7d.wav",
+   "durasi": 3.52,
+   "kategori": "umum",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a6d656b0a69c",
+   "suara": "adriy",
+   "teks": "Ternyata, otak kita menyimpan banyak kejutan.",
+   "dibaca": "Ternyata, otak kita menyimpan banyak kejutan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/a6d656b0a69c.wav",
+   "durasi": 2.72,
+   "kategori": "umum",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "61615d7ec37f",
+   "suara": "ongky",
+   "teks": "Ternyata, otak kita menyimpan banyak kejutan.",
+   "dibaca": "Ternyata, otak kita menyimpan banyak kejutan.",
+   "fungsi": [
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/61615d7ec37f.wav",
+   "durasi": 3.2,
+   "kategori": "umum",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d2ae6be67a31",
+   "suara": "adriy",
+   "teks": "Hal kecil seperti ini ternyata punya cerita panjang.",
+   "dibaca": "Hal kecil seperti ini ternyata punya cerita panjang.",
+   "fungsi": [
+    "memberikan analogi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/adriy/d2ae6be67a31.wav",
+   "durasi": 2.88,
+   "kategori": "umum",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "45194c37dfa2",
+   "suara": "ongky",
+   "teks": "Hal kecil seperti ini ternyata punya cerita panjang.",
+   "dibaca": "Hal kecil seperti ini ternyata punya cerita panjang.",
+   "fungsi": [
+    "memberikan analogi",
+    "mengungkap kejutan"
+   ],
+   "file": "suara/ongky/45194c37dfa2.wav",
+   "durasi": 3.2,
+   "kategori": "umum",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "709d99bbeb12",
+   "suara": "adriy",
+   "teks": "Dunia ini memang penuh hal yang belum kita pahami.",
+   "dibaca": "Dunia ini memang penuh hal yang belum kita pahami.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/adriy/709d99bbeb12.wav",
+   "durasi": 2.4,
+   "kategori": "umum",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7c3a8f014c16",
+   "suara": "ongky",
+   "teks": "Dunia ini memang penuh hal yang belum kita pahami.",
+   "dibaca": "Dunia ini memang penuh hal yang belum kita pahami.",
+   "fungsi": [
+    "menyampaikan kesimpulan"
+   ],
+   "file": "suara/ongky/7c3a8f014c16.wav",
+   "durasi": 3.2,
+   "kategori": "umum",
+   "catatan": "nada reflektif",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a935d293775d",
+   "suara": "adriy",
+   "teks": "Jadi, jangan berhenti penasaran, ya.",
+   "dibaca": "Jadi, jangan berhenti penasaran, ya.",
+   "fungsi": [
+    "menyampaikan kesimpulan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/a935d293775d.wav",
+   "durasi": 2.24,
+   "kategori": "umum",
+   "catatan": "nada hangat",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3b34484d0100",
+   "suara": "ongky",
+   "teks": "Jadi, jangan berhenti penasaran, ya.",
+   "dibaca": "Jadi, jangan berhenti penasaran, ya.",
+   "fungsi": [
+    "menyampaikan kesimpulan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/3b34484d0100.wav",
+   "durasi": 2.24,
+   "kategori": "umum",
+   "catatan": "nada hangat",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4264599182ee",
+   "suara": "adriy",
+   "teks": "Menurutmu, fakta mana yang paling mengejutkan?",
+   "dibaca": "Menurutmu, fakta mana yang paling mengejutkan?",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/adriy/4264599182ee.wav",
+   "durasi": 3.04,
+   "kategori": "umum",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b68d1bf79bb2",
+   "suara": "ongky",
+   "teks": "Menurutmu, fakta mana yang paling mengejutkan?",
+   "dibaca": "Menurutmu, fakta mana yang paling mengejutkan?",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memperkenalkan fakta"
+   ],
+   "file": "suara/ongky/b68d1bf79bb2.wav",
+   "durasi": 4.48,
+   "kategori": "umum",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "87f5ceca2715",
+   "suara": "adriy",
+   "teks": "Kalau kamu suka konten seperti ini, tunggu video berikutnya.",
+   "dibaca": "Kalau kamu suka konten seperti ini, tunggu video berikutnya.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/adriy/87f5ceca2715.wav",
+   "durasi": 3.84,
+   "kategori": "umum",
+   "catatan": "nada antusias",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2b04cce534ea",
+   "suara": "ongky",
+   "teks": "Kalau kamu suka konten seperti ini, tunggu video berikutnya.",
+   "dibaca": "Kalau kamu suka konten seperti ini, tunggu video berikutnya.",
+   "fungsi": [
+    "memberikan analogi"
+   ],
+   "file": "suara/ongky/2b04cce534ea.wav",
+   "durasi": 2.72,
+   "kategori": "umum",
+   "catatan": "nada antusias",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
   }
  ]
 }
