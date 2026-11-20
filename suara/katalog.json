@@ -10194,6 +10194,1220 @@
    "catatan": "nada antusias",
    "sumber": "perpustakaan_suara.py",
    "dibuat": "2026-11-20"
+  },
+  {
+   "id": "36097cbae63f",
+   "suara": "adriy",
+   "teks": "Pernah nggak kamu bertanya-tanya, kenapa hal ini selalu terjadi?",
+   "dibaca": "Pernah nggak kamu bertanya-tanya, kenapa hal ini selalu terjadi?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/36097cbae63f.wav",
+   "durasi": 3.68,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "021745bedd87",
+   "suara": "ongky",
+   "teks": "Pernah nggak kamu bertanya-tanya, kenapa hal ini selalu terjadi?",
+   "dibaca": "Pernah nggak kamu bertanya-tanya, kenapa hal ini selalu terjadi?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/021745bedd87.wav",
+   "durasi": 4.0,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "136e72f5200c",
+   "suara": "adriy",
+   "teks": "Pernah kepikiran, apa jadinya kalau ini nggak ada?",
+   "dibaca": "Pernah kepikiran, apa jadinya kalau ini nggak ada?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/136e72f5200c.wav",
+   "durasi": 2.72,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "baa0d8d592ac",
+   "suara": "ongky",
+   "teks": "Pernah kepikiran, apa jadinya kalau ini nggak ada?",
+   "dibaca": "Pernah kepikiran, apa jadinya kalau ini nggak ada?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/baa0d8d592ac.wav",
+   "durasi": 3.68,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "199c98ca3414",
+   "suara": "adriy",
+   "teks": "Kenapa kita nggak pernah mempertanyakan hal ini sebelumnya?",
+   "dibaca": "Kenapa kita nggak pernah mempertanyakan hal ini sebelumnya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/199c98ca3414.wav",
+   "durasi": 2.88,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "71826fcfa92f",
+   "suara": "ongky",
+   "teks": "Kenapa kita nggak pernah mempertanyakan hal ini sebelumnya?",
+   "dibaca": "Kenapa kita nggak pernah mempertanyakan hal ini sebelumnya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/71826fcfa92f.wav",
+   "durasi": 2.72,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "45b454309e27",
+   "suara": "adriy",
+   "teks": "Apa yang sebenarnya terjadi di balik layar?",
+   "dibaca": "Apa yang sebenarnya terjadi di balik layar?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/45b454309e27.wav",
+   "durasi": 2.56,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4c4015720e6b",
+   "suara": "ongky",
+   "teks": "Apa yang sebenarnya terjadi di balik layar?",
+   "dibaca": "Apa yang sebenarnya terjadi di balik layar?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/4c4015720e6b.wav",
+   "durasi": 2.4,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "15d23314b217",
+   "suara": "adriy",
+   "teks": "Apa kamu tahu jawabannya?",
+   "dibaca": "Apa kamu tahu jawabannya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/15d23314b217.wav",
+   "durasi": 1.76,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2833c9bf4dd3",
+   "suara": "ongky",
+   "teks": "Apa kamu tahu jawabannya?",
+   "dibaca": "Apa kamu tahu jawabannya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/2833c9bf4dd3.wav",
+   "durasi": 1.76,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8fb34a49861d",
+   "suara": "adriy",
+   "teks": "Bisa nggak kamu menebak apa penyebabnya?",
+   "dibaca": "Bisa nggak kamu menebak apa penyebabnya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/8fb34a49861d.wav",
+   "durasi": 2.08,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9cfd168fc2c2",
+   "suara": "ongky",
+   "teks": "Bisa nggak kamu menebak apa penyebabnya?",
+   "dibaca": "Bisa nggak kamu menebak apa penyebabnya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/9cfd168fc2c2.wav",
+   "durasi": 2.08,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "38ffa0a48bc1",
+   "suara": "adriy",
+   "teks": "Apa yang membuat hal ini begitu istimewa?",
+   "dibaca": "Apa yang membuat hal ini begitu istimewa?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/38ffa0a48bc1.wav",
+   "durasi": 2.56,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f67f36697872",
+   "suara": "ongky",
+   "teks": "Apa yang membuat hal ini begitu istimewa?",
+   "dibaca": "Apa yang membuat hal ini begitu istimewa?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/f67f36697872.wav",
+   "durasi": 3.04,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5b5720d111a6",
+   "suara": "adriy",
+   "teks": "Kenapa hanya sebagian orang yang mengalaminya?",
+   "dibaca": "Kenapa hanya sebagian orang yang mengalaminya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/5b5720d111a6.wav",
+   "durasi": 2.72,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "003f0c850ebd",
+   "suara": "ongky",
+   "teks": "Kenapa hanya sebagian orang yang mengalaminya?",
+   "dibaca": "Kenapa hanya sebagian orang yang mengalaminya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/003f0c850ebd.wav",
+   "durasi": 2.4,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a69f6a6287e5",
+   "suara": "adriy",
+   "teks": "Apa benar semua orang mengalami hal yang sama?",
+   "dibaca": "Apa benar semua orang mengalami hal yang sama?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/a69f6a6287e5.wav",
+   "durasi": 2.88,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "fc42ac82cff6",
+   "suara": "ongky",
+   "teks": "Apa benar semua orang mengalami hal yang sama?",
+   "dibaca": "Apa benar semua orang mengalami hal yang sama?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/fc42ac82cff6.wav",
+   "durasi": 3.36,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d1f69b99ae31",
+   "suara": "adriy",
+   "teks": "Bagaimana kalau ternyata kita salah selama ini?",
+   "dibaca": "Bagaimana kalau ternyata kita salah selama ini?",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/d1f69b99ae31.wav",
+   "durasi": 2.24,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a023e2cfb3e0",
+   "suara": "ongky",
+   "teks": "Bagaimana kalau ternyata kita salah selama ini?",
+   "dibaca": "Bagaimana kalau ternyata kita salah selama ini?",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/a023e2cfb3e0.wav",
+   "durasi": 3.68,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c272cb7da943",
+   "suara": "adriy",
+   "teks": "Dari mana sebenarnya semua ini berasal?",
+   "dibaca": "Dari mana sebenarnya semua ini berasal?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/c272cb7da943.wav",
+   "durasi": 2.72,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f6c5cf73cd91",
+   "suara": "ongky",
+   "teks": "Dari mana sebenarnya semua ini berasal?",
+   "dibaca": "Dari mana sebenarnya semua ini berasal?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/f6c5cf73cd91.wav",
+   "durasi": 3.2,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "4fc1b3c19a16",
+   "suara": "adriy",
+   "teks": "Kenapa hal sekecil ini bisa berdampak sebesar itu?",
+   "dibaca": "Kenapa hal sekecil ini bisa berdampak sebesar itu?",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/4fc1b3c19a16.wav",
+   "durasi": 3.04,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "f895d873c50e",
+   "suara": "ongky",
+   "teks": "Kenapa hal sekecil ini bisa berdampak sebesar itu?",
+   "dibaca": "Kenapa hal sekecil ini bisa berdampak sebesar itu?",
+   "fungsi": [
+    "menjelaskan sebab-akibat",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/f895d873c50e.wav",
+   "durasi": 2.56,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8679515bb37d",
+   "suara": "adriy",
+   "teks": "Pernah nggak kamu memperhatikan detail kecil ini?",
+   "dibaca": "Pernah nggak kamu memperhatikan detail kecil ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/8679515bb37d.wav",
+   "durasi": 2.72,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ea94dbdc4d02",
+   "suara": "ongky",
+   "teks": "Pernah nggak kamu memperhatikan detail kecil ini?",
+   "dibaca": "Pernah nggak kamu memperhatikan detail kecil ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/ea94dbdc4d02.wav",
+   "durasi": 2.24,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9cc4f72a6a2e",
+   "suara": "adriy",
+   "teks": "Apa yang terjadi kalau kita melakukannya setiap hari?",
+   "dibaca": "Apa yang terjadi kalau kita melakukannya setiap hari?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/9cc4f72a6a2e.wav",
+   "durasi": 2.56,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "8a05488ffbc8",
+   "suara": "ongky",
+   "teks": "Apa yang terjadi kalau kita melakukannya setiap hari?",
+   "dibaca": "Apa yang terjadi kalau kita melakukannya setiap hari?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/8a05488ffbc8.wav",
+   "durasi": 3.2,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5f41b84bdf4d",
+   "suara": "adriy",
+   "teks": "Kenapa rasanya begitu sulit untuk dihentikan?",
+   "dibaca": "Kenapa rasanya begitu sulit untuk dihentikan?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/5f41b84bdf4d.wav",
+   "durasi": 2.4,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "dfcd3c1483a2",
+   "suara": "ongky",
+   "teks": "Kenapa rasanya begitu sulit untuk dihentikan?",
+   "dibaca": "Kenapa rasanya begitu sulit untuk dihentikan?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/dfcd3c1483a2.wav",
+   "durasi": 3.52,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "147f95e68f4c",
+   "suara": "adriy",
+   "teks": "Apakah ini bisa dicegah?",
+   "dibaca": "Apakah ini bisa dicegah?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/147f95e68f4c.wav",
+   "durasi": 1.92,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e4fad4265383",
+   "suara": "ongky",
+   "teks": "Apakah ini bisa dicegah?",
+   "dibaca": "Apakah ini bisa dicegah?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/e4fad4265383.wav",
+   "durasi": 1.44,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b12fe4ee1a93",
+   "suara": "adriy",
+   "teks": "Apa yang akan terjadi selanjutnya?",
+   "dibaca": "Apa yang akan terjadi selanjutnya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/b12fe4ee1a93.wav",
+   "durasi": 2.08,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ab1c2eff019e",
+   "suara": "ongky",
+   "teks": "Apa yang akan terjadi selanjutnya?",
+   "dibaca": "Apa yang akan terjadi selanjutnya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/ab1c2eff019e.wav",
+   "durasi": 2.72,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ee5ee327eee8",
+   "suara": "adriy",
+   "teks": "Siapa yang pertama kali menemukannya?",
+   "dibaca": "Siapa yang pertama kali menemukannya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/ee5ee327eee8.wav",
+   "durasi": 1.92,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "a8a6e8fdbde7",
+   "suara": "ongky",
+   "teks": "Siapa yang pertama kali menemukannya?",
+   "dibaca": "Siapa yang pertama kali menemukannya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/a8a6e8fdbde7.wav",
+   "durasi": 2.08,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "71f7acded4d2",
+   "suara": "adriy",
+   "teks": "Bagaimana mungkin hal ini belum banyak diketahui orang?",
+   "dibaca": "Bagaimana mungkin hal ini belum banyak diketahui orang?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/71f7acded4d2.wav",
+   "durasi": 3.36,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "1152e0042988",
+   "suara": "ongky",
+   "teks": "Bagaimana mungkin hal ini belum banyak diketahui orang?",
+   "dibaca": "Bagaimana mungkin hal ini belum banyak diketahui orang?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/1152e0042988.wav",
+   "durasi": 2.88,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3bd12a7b812b",
+   "suara": "adriy",
+   "teks": "Kenapa jawabannya justru berlawanan dengan dugaan kita?",
+   "dibaca": "Kenapa jawabannya justru berlawanan dengan dugaan kita?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/3bd12a7b812b.wav",
+   "durasi": 3.2,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c549663e5830",
+   "suara": "ongky",
+   "teks": "Kenapa jawabannya justru berlawanan dengan dugaan kita?",
+   "dibaca": "Kenapa jawabannya justru berlawanan dengan dugaan kita?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/c549663e5830.wav",
+   "durasi": 3.2,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "600adca26624",
+   "suara": "adriy",
+   "teks": "Apa rahasia di balik semua ini?",
+   "dibaca": "Apa rahasia di balik semua ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/600adca26624.wav",
+   "durasi": 2.08,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "baf4594d3388",
+   "suara": "ongky",
+   "teks": "Apa rahasia di balik semua ini?",
+   "dibaca": "Apa rahasia di balik semua ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/baf4594d3388.wav",
+   "durasi": 1.92,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3c0c9aff79f9",
+   "suara": "adriy",
+   "teks": "Seberapa sering sebenarnya hal ini terjadi?",
+   "dibaca": "Seberapa sering sebenarnya hal ini terjadi?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/3c0c9aff79f9.wav",
+   "durasi": 2.88,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6b864de18f70",
+   "suara": "ongky",
+   "teks": "Seberapa sering sebenarnya hal ini terjadi?",
+   "dibaca": "Seberapa sering sebenarnya hal ini terjadi?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/6b864de18f70.wav",
+   "durasi": 2.56,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "1db1391e7bc6",
+   "suara": "adriy",
+   "teks": "Apa bedanya dengan yang selama ini kita kira?",
+   "dibaca": "Apa bedanya dengan yang selama ini kita kira?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/1db1391e7bc6.wav",
+   "durasi": 2.4,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "15cc8364cf85",
+   "suara": "ongky",
+   "teks": "Apa bedanya dengan yang selama ini kita kira?",
+   "dibaca": "Apa bedanya dengan yang selama ini kita kira?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/15cc8364cf85.wav",
+   "durasi": 3.36,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ed00bcef1cb3",
+   "suara": "adriy",
+   "teks": "Kenapa otak kita bereaksi seperti itu?",
+   "dibaca": "Kenapa otak kita bereaksi seperti itu?",
+   "fungsi": [
+    "memberikan analogi",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/adriy/ed00bcef1cb3.wav",
+   "durasi": 2.72,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ca26b7add73a",
+   "suara": "ongky",
+   "teks": "Kenapa otak kita bereaksi seperti itu?",
+   "dibaca": "Kenapa otak kita bereaksi seperti itu?",
+   "fungsi": [
+    "memberikan analogi",
+    "menjelaskan sebab-akibat"
+   ],
+   "file": "suara/ongky/ca26b7add73a.wav",
+   "durasi": 2.56,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7df0ae89c5b4",
+   "suara": "adriy",
+   "teks": "Kenapa tubuh kita melakukan hal ini tanpa kita minta?",
+   "dibaca": "Kenapa tubuh kita melakukan hal ini tanpa kita minta?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/7df0ae89c5b4.wav",
+   "durasi": 3.2,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "0b6e69797b1a",
+   "suara": "ongky",
+   "teks": "Kenapa tubuh kita melakukan hal ini tanpa kita minta?",
+   "dibaca": "Kenapa tubuh kita melakukan hal ini tanpa kita minta?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/0b6e69797b1a.wav",
+   "durasi": 3.04,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "519f527dbbdc",
+   "suara": "adriy",
+   "teks": "Apa yang membuat semuanya berubah?",
+   "dibaca": "Apa yang membuat semuanya berubah?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/519f527dbbdc.wav",
+   "durasi": 2.08,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "9228c6623c13",
+   "suara": "ongky",
+   "teks": "Apa yang membuat semuanya berubah?",
+   "dibaca": "Apa yang membuat semuanya berubah?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/9228c6623c13.wav",
+   "durasi": 2.56,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d8e027beb3bb",
+   "suara": "adriy",
+   "teks": "Kalau begitu, apa yang harus kita lakukan?",
+   "dibaca": "Kalau begitu, apa yang harus kita lakukan?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/d8e027beb3bb.wav",
+   "durasi": 2.72,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "456bb42b280c",
+   "suara": "ongky",
+   "teks": "Kalau begitu, apa yang harus kita lakukan?",
+   "dibaca": "Kalau begitu, apa yang harus kita lakukan?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/456bb42b280c.wav",
+   "durasi": 3.2,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "5d2fa44aea01",
+   "suara": "adriy",
+   "teks": "Apakah ini pertanda baik, atau justru sebaliknya?",
+   "dibaca": "Apakah ini pertanda baik, atau justru sebaliknya?",
+   "fungsi": [
+    "membantah asumsi",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/5d2fa44aea01.wav",
+   "durasi": 3.04,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ec782c828acd",
+   "suara": "ongky",
+   "teks": "Apakah ini pertanda baik, atau justru sebaliknya?",
+   "dibaca": "Apakah ini pertanda baik, atau justru sebaliknya?",
+   "fungsi": [
+    "membantah asumsi",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/ec782c828acd.wav",
+   "durasi": 3.2,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "df1c83af5b59",
+   "suara": "adriy",
+   "teks": "Kenapa hal ini lebih sering terjadi di malam hari?",
+   "dibaca": "Kenapa hal ini lebih sering terjadi di malam hari?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/df1c83af5b59.wav",
+   "durasi": 2.56,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "2dc8eb44132e",
+   "suara": "ongky",
+   "teks": "Kenapa hal ini lebih sering terjadi di malam hari?",
+   "dibaca": "Kenapa hal ini lebih sering terjadi di malam hari?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/2dc8eb44132e.wav",
+   "durasi": 2.72,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6a78d9609989",
+   "suara": "adriy",
+   "teks": "Bagaimana cara kerjanya?",
+   "dibaca": "Bagaimana cara kerjanya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/6a78d9609989.wav",
+   "durasi": 1.44,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d7c9a692bc43",
+   "suara": "ongky",
+   "teks": "Bagaimana cara kerjanya?",
+   "dibaca": "Bagaimana cara kerjanya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/d7c9a692bc43.wav",
+   "durasi": 1.92,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6f88d909cca7",
+   "suara": "adriy",
+   "teks": "Apa jadinya dunia tanpa hal ini?",
+   "dibaca": "Apa jadinya dunia tanpa hal ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/6f88d909cca7.wav",
+   "durasi": 2.4,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "97bf48c05e57",
+   "suara": "ongky",
+   "teks": "Apa jadinya dunia tanpa hal ini?",
+   "dibaca": "Apa jadinya dunia tanpa hal ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/97bf48c05e57.wav",
+   "durasi": 1.76,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "e043442de640",
+   "suara": "adriy",
+   "teks": "Kenapa nggak ada yang memberitahu kita soal ini?",
+   "dibaca": "Kenapa nggak ada yang memberitahu kita soal ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/e043442de640.wav",
+   "durasi": 2.56,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "46673cd07b7a",
+   "suara": "ongky",
+   "teks": "Kenapa nggak ada yang memberitahu kita soal ini?",
+   "dibaca": "Kenapa nggak ada yang memberitahu kita soal ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/46673cd07b7a.wav",
+   "durasi": 2.56,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "87b091a29912",
+   "suara": "adriy",
+   "teks": "Apa kamu termasuk orang yang mengalaminya?",
+   "dibaca": "Apa kamu termasuk orang yang mengalaminya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/87b091a29912.wav",
+   "durasi": 2.4,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c0e1ba7bd1bc",
+   "suara": "ongky",
+   "teks": "Apa kamu termasuk orang yang mengalaminya?",
+   "dibaca": "Apa kamu termasuk orang yang mengalaminya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/c0e1ba7bd1bc.wav",
+   "durasi": 2.08,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "39b4fe0a5560",
+   "suara": "adriy",
+   "teks": "Kenapa jawabannya ternyata sesederhana itu?",
+   "dibaca": "Kenapa jawabannya ternyata sesederhana itu?",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/39b4fe0a5560.wav",
+   "durasi": 2.72,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d44083f48a75",
+   "suara": "ongky",
+   "teks": "Kenapa jawabannya ternyata sesederhana itu?",
+   "dibaca": "Kenapa jawabannya ternyata sesederhana itu?",
+   "fungsi": [
+    "mengungkap kejutan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/d44083f48a75.wav",
+   "durasi": 2.72,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6f0fb379ffc8",
+   "suara": "adriy",
+   "teks": "Bagaimana bisa sesuatu yang begitu biasa menyimpan rahasia sebesar ini?",
+   "dibaca": "Bagaimana bisa sesuatu yang begitu biasa menyimpan rahasia sebesar ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/6f0fb379ffc8.wav",
+   "durasi": 4.16,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b0ce282916bc",
+   "suara": "ongky",
+   "teks": "Bagaimana bisa sesuatu yang begitu biasa menyimpan rahasia sebesar ini?",
+   "dibaca": "Bagaimana bisa sesuatu yang begitu biasa menyimpan rahasia sebesar ini?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/b0ce282916bc.wav",
+   "durasi": 3.68,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "3c58c6bf6bd2",
+   "suara": "adriy",
+   "teks": "Lalu, kenapa kita masih melakukannya?",
+   "dibaca": "Lalu, kenapa kita masih melakukannya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/3c58c6bf6bd2.wav",
+   "durasi": 2.4,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "c042bc64ac18",
+   "suara": "ongky",
+   "teks": "Lalu, kenapa kita masih melakukannya?",
+   "dibaca": "Lalu, kenapa kita masih melakukannya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/c042bc64ac18.wav",
+   "durasi": 3.2,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "7031ff385390",
+   "suara": "adriy",
+   "teks": "Apa yang sebenarnya dicari oleh otak kita?",
+   "dibaca": "Apa yang sebenarnya dicari oleh otak kita?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/7031ff385390.wav",
+   "durasi": 2.24,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "ca4911745f7a",
+   "suara": "ongky",
+   "teks": "Apa yang sebenarnya dicari oleh otak kita?",
+   "dibaca": "Apa yang sebenarnya dicari oleh otak kita?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/ca4911745f7a.wav",
+   "durasi": 2.56,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b60ab6071d74",
+   "suara": "adriy",
+   "teks": "Mungkinkah ini terjadi pada siapa saja?",
+   "dibaca": "Mungkinkah ini terjadi pada siapa saja?",
+   "fungsi": [
+    "memperkenalkan fakta",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/b60ab6071d74.wav",
+   "durasi": 2.88,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6fadd087cbf8",
+   "suara": "ongky",
+   "teks": "Mungkinkah ini terjadi pada siapa saja?",
+   "dibaca": "Mungkinkah ini terjadi pada siapa saja?",
+   "fungsi": [
+    "memperkenalkan fakta",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/6fadd087cbf8.wav",
+   "durasi": 2.4,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "6bdc3497996f",
+   "suara": "adriy",
+   "teks": "Seandainya kamu tahu dari awal, apakah kamu akan melakukannya?",
+   "dibaca": "Seandainya kamu tahu dari awal, apakah kamu akan melakukannya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/6bdc3497996f.wav",
+   "durasi": 4.32,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "79c10882b993",
+   "suara": "ongky",
+   "teks": "Seandainya kamu tahu dari awal, apakah kamu akan melakukannya?",
+   "dibaca": "Seandainya kamu tahu dari awal, apakah kamu akan melakukannya?",
+   "fungsi": [
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/79c10882b993.wav",
+   "durasi": 3.84,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "b7654ff47fce",
+   "suara": "adriy",
+   "teks": "Jadi, apa jawabanmu sekarang?",
+   "dibaca": "Jadi, apa jawabanmu sekarang?",
+   "fungsi": [
+    "menyampaikan kesimpulan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/adriy/b7654ff47fce.wav",
+   "durasi": 1.44,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
+  },
+  {
+   "id": "d8cd12bc8af2",
+   "suara": "ongky",
+   "teks": "Jadi, apa jawabanmu sekarang?",
+   "dibaca": "Jadi, apa jawabanmu sekarang?",
+   "fungsi": [
+    "menyampaikan kesimpulan",
+    "memancing rasa penasaran"
+   ],
+   "file": "suara/ongky/d8cd12bc8af2.wav",
+   "durasi": 2.56,
+   "kategori": "pertanyaan",
+   "catatan": "nada penasaran",
+   "sumber": "perpustakaan_suara.py",
+   "dibuat": "2026-11-20"
   }
  ]
 }
